@@ -1,0 +1,7862 @@
+Language	ISO 639-3 Code	Type
+ǂ’Amkoe	huc	Living
+Aari	aiw	Living
+Aasáx	aas	Living
+Abadi	kbt	Living
+Abaga	abg	Living
+Abai Sungai	abf	Living
+Abanyom	abm	Living
+Abar	mij	Living
+Abau	aau	Living
+Abaza	abq	Living
+Abé	aba	Living
+Abellen Ayta	abp	Living
+Abidji	abi	Living
+Abinomn	bsa	Living
+Abkhazian	abk	Living
+Abom	aob	Living
+Abon	abo	Living
+Abron	abr	Living
+Abu	ado	Living
+Abu' Arapesh	aah	Living
+Abua	abn	Living
+Abui	abz	Living
+Abun	kgr	Living
+Abure	abu	Living
+Abureni	mgj	Living
+Acatepec Me'phaa	tpx	Living
+Achagua	aca	Living
+Achang	acn	Living
+Ache	yif	Living
+Aché	guq	Living
+Acheron	acz	Living
+Achi	acr	Living
+Achinese	ace	Living
+Achterhoeks	act	Living
+Achuar-Shiwiar	acu	Living
+Achumawi	acv	Living
+Acoli	ach	Living
+Adabe	adb	Living
+Adamawa Fulfulde	fub	Living
+Adamorobe Sign Language	ads	Living
+Adang	adn	Living
+Adangbe	adq	Living
+Adangme	ada	Living
+Adara	kad	Living
+Adasen	tiu	Living
+Adele	ade	Living
+Adhola	adh	Living
+Adi	adi	Living
+Adioukrou	adj	Living
+Adivasi Oriya	ort	Living
+Adiwasi Garasia	gas	Living
+Adnyamathanha	adt	Living
+Adonara	adr	Living
+Aduge	adu	Living
+Adyghe	ady	Living
+Adzera	adz	Living
+Aeka	aez	Living
+Aekyom	awi	Living
+Aer	aeq	Living
+Afade	aal	Living
+Afar	aar	Living
+Afghan Sign Language	afg	Living
+Afitti	aft	Living
+Afrikaans	afr	Living
+Afro-Seminole Creole	afs	Living
+Agarabi	agd	Living
+Agariya	agi	Living
+Agatu	agc	Living
+Aghem	agq	Living
+Aghu	ahh	Living
+Aghul	agx	Living
+Agi	aif	Living
+Agob	kit	Living
+Agoi	ibm	Living
+Aguacateco	agu	Living
+Aguaruna	agr	Living
+Aguna	aug	Living
+Agusan Manobo	msm	Living
+Agutaynen	agn	Living
+Agwagwune	yay	Living
+Àhàn	ahn	Living
+Ahanta	aha	Living
+Aheu	thm	Living
+Ahirani	ahr	Living
+Ahtena	aht	Living
+Ahwai	nfd	Living
+Ai-Cham	aih	Living
+Aighon	aix	Living
+Aikanã	tba	Living
+Aiklep	mwg	Living
+Aimaq	aiq	Living
+Aimele	ail	Living
+Aimol	aim	Living
+Ainbai	aic	Living
+Ainu (China)	aib	Living
+Ainu (Japan)	ain	Living
+Aiome	aki	Living
+Airoran	air	Living
+Aiton	aio	Living
+Aja (Benin)	ajg	Living
+Aja (Sudan)	aja	Living
+Ajië	aji	Living
+Ajumbu	muc	Living
+Ajyíninka Apurucayali	cpc	Living
+Ak	akq	Living
+Aka	soh	Living
+Akan	aka	Living
+Akaselem	aks	Living
+Akawaio	ake	Living
+Ake	aik	Living
+Akebu	keu	Living
+Akei	tsr	Living
+Akeu	aeu	Living
+Akha	ahk	Living
+Akhvakh	akv	Living
+Aklanon	akl	Living
+Akolet	akt	Living
+Akoose	bss	Living
+Akoye	miw	Living
+Akpa	akf	Living
+Akpes	ibe	Living
+Akrukay	afi	Living
+Akukem	spm	Living
+Akuku	ayk	Living
+Akum	aku	Living
+Akuntsu	aqz	Living
+Akurio	ako	Living
+Akwa	akw	Living
+Akyaung Ari Naga	nqy	Living
+Alaba-K’abeena	alw	Living
+Alabama	akz	Living
+Alabat Island Agta	dul	Living
+Alacatlatzala Mixtec	mim	Living
+Alago	ala	Living
+Alagwa	wbj	Living
+Alak	alk	Living
+Alamblak	amp	Living
+Alangan	alj	Living
+Alawa	alh	Living
+Albanian	sqi	Living
+Albanian Sign Language	sqk	Living
+Alcozauca Mixtec	xta	Living
+Alege	alf	Living
+Alekano	gah	Living
+Aleut	ale	Living
+Algerian Arabic	arq	Living
+Algerian Saharan Arabic	aao	Living
+Algerian Sign Language	asp	Living
+Algonquin	alq	Living
+Ali	aiy	Living
+Alladian	ald	Living
+Allar	all	Living
+Alo Phola	ypo	Living
+Aloápam Zapotec	zaq	Living
+Alor	aol	Living
+Al-Sayyid Bedouin Sign Language	syy	Living
+Alu Kurumba	xua	Living
+Alugu	aub	Living
+Alumu-Tesu	aab	Living
+Alune	alp	Living
+Aluo	yna	Living
+Alur	alz	Living
+Alutor	alr	Living
+Alviri-Vidari	avd	Living
+Alyawarr	aly	Living
+Ama (Papua New Guinea)	amm	Living
+Ama (Sudan)	nyi	Living
+Amahai	amq	Living
+Amahuaca	amc	Living
+Amaimon	ali	Living
+Amal	aad	Living
+Amanab	amn	Living
+Amara	aie	Living
+Amarakaeri	amr	Living
+Amarasi	aaz	Living
+Amatlán Zapotec	zpo	Living
+Amba (Solomon Islands)	utp	Living
+Amba (Uganda)	rwm	Living
+Ambai	amk	Living
+Ambakich	aew	Living
+Ambala Ayta	abc	Living
+Ambelau	amv	Living
+Ambele	ael	Living
+Amblong	alm	Living
+Ambo	amb	Living
+Ambonese Malay	abs	Living
+Ambo-Pasco Quechua	qva	Living
+Ambrak	aag	Living
+Ambul	apo	Living
+Ambulas	abt	Living
+Amdang	amj	Living
+Amdo Tibetan	adx	Living
+Amele	aey	Living
+American Sign Language	ase	Living
+Amganad Ifugao	ifa	Living
+Amharic	amh	Living
+Ami	amy	Living
+Amis	ami	Living
+Amo	amo	Living
+Amol	alx	Living
+Amoltepec Mixtec	mbz	Living
+Ampanang	apg	Living
+Ampari Dogon	aqd	Living
+Amri Karbi	ajz	Living
+Amto	amt	Living
+Amundava	adw	Living
+Amurdak	amg	Living
+Ana Tinga Dogon	dti	Living
+Anaang	anw	Living
+Anakalangu	akg	Living
+Anal	anm	Living
+Anam	pda	Living
+Anambé	aan	Living
+Anamgura	imi	Living
+Anasi	bpo	Living
+Áncá	acb	Living
+Andaandi	dgl	Living
+Andai	afd	Living
+Andajin	ajn	Living
+Andaman Creole Hindi	hca	Living
+Andarum	aod	Living
+Andegerebinha	adg	Living
+Andh	anr	Living
+Andi	ani	Living
+Andio	bzb	Living
+Andoque	ano	Living
+Andra-Hus	anx	Living
+Aneityum	aty	Living
+Anem	anz	Living
+Aneme Wake	aby	Living
+Anfillo	myo	Living
+Angaataha	agm	Living
+Angaité	aqt	Living
+Angal	age	Living
+Angal Enen	aoe	Living
+Angal Heneng	akh	Living
+Angami Naga	njm	Living
+Angguruk Yali	yli	Living
+Angika	anp	Living
+Angloromani	rme	Living
+Angolar	aoa	Living
+Angor	agg	Living
+Angoram	aog	Living
+Angosturas Tunebo	tnd	Living
+Ani Phowa	ypn	Living
+Anii	blo	Living
+Animere	anf	Living
+Anindilyakwa	aoi	Living
+Anjam	boj	Living
+Ankave	aak	Living
+Anmatyerre	amx	Living
+Anong	nun	Living
+Anor	anj	Living
+Ansus	and	Living
+Antakarinya	ant	Living
+Antankarana Malagasy	xmv	Living
+Antigua and Barbuda Creole English	aig	Living
+Anuak	anu	Living
+Anufo	cko	Living
+Anu-Hkongso Chin	anl	Living
+Anuki	aui	Living
+Anus	auq	Living
+Anuta	aud	Living
+Anyin	any	Living
+Anyin Morofo	mtb	Living
+Ao Naga	njo	Living
+Aoheng	pni	Living
+A'ou	aou	Living
+Ap Ma	kbx	Living
+Apalaí	apy	Living
+Apali	ena	Living
+Apasco-Apoala Mixtec	mip	Living
+Apatani	apt	Living
+Apiaká	api	Living
+Apinayé	apn	Living
+Apma	app	Living
+Aproumu Aizi	ahp	Living
+A-Pucikwar	apq	Living
+Apurinã	apu	Living
+Aputai	apx	Living
+Arabela	arl	Living
+Arabic	ara	Living
+Aragonese	arg	Living
+Araki	akr	Living
+Aralle-Tabulahan	atq	Living
+Arammba	stk	Living
+Aranadan	aaf	Living
+Arandai	jbj	Living
+Araona	aro	Living
+Arapaho	arp	Living
+Arawak	arw	Living
+Araweté	awt	Living
+Arawum	awm	Living
+Arbëreshë Albanian	aae	Living
+Arbore	arv	Living
+Archi	aqc	Living
+Are	mwc	Living
+'Are'are	alu	Living
+Arem	aem	Living
+Arequipa-La Unión Quechua	qxu	Living
+Argentine Sign Language	aed	Living
+Argobba	agj	Living
+Arguni	agf	Living
+Arhâ	aqr	Living
+Arhö	aok	Living
+Arhuaco	arh	Living
+Ari	aac	Living
+Aribwaung	ylu	Living
+Arifama-Miniafia	aai	Living
+Arigidi	aqg	Living
+Arikapú	ark	Living
+Arikara	ari	Living
+Aringa	luc	Living
+Armenian	hye	Living
+Armenian Sign Language	aen	Living
+Arop-Lokep	apr	Living
+Arop-Sissano	aps	Living
+Arosi	aia	Living
+Arpitan	frp	Living
+Arta	atz	Living
+Aruá (Rodonia State)	arx	Living
+Aruamu	msy	Living
+Aruek	aur	Living
+Aruop	lsr	Living
+Arutani	atx	Living
+Arvanitika Albanian	aat	Living
+As	asz	Living
+Asaro'o	mtv	Living
+Asas	asd	Living
+Asháninka	cni	Living
+Ashe	ahs	Living
+Ashéninka Pajonal	cjo	Living
+Ashéninka Perené	prq	Living
+Ashkun	ask	Living
+Asho Chin	csh	Living
+Ashtiani	atn	Living
+Asilulu	asl	Living
+Askopan	eiv	Living
+Asoa	asv	Living
+Assamese	asm	Living
+Assangori	sjg	Living
+Assiniboine	asb	Living
+Assyrian Neo-Aramaic	aii	Living
+Asturian	ast	Living
+Asu (Nigeria)	aum	Living
+Asu (Tanzania)	asa	Living
+Asue Awyu	psa	Living
+Asumboa	aua	Living
+Asunción Mixtepec Zapotec	zoo	Living
+Asuri	asr	Living
+Ata	atm	Living
+Ata Manobo	atd	Living
+Atatláhuca Mixtec	mib	Living
+Atayal	tay	Living
+Atemble	ate	Living
+Athpariya	aph	Living
+Ati	atk	Living
+Atikamekw	atj	Living
+Atohwaim	aqm	Living
+Atong (Cameroon)	ato	Living
+Atong (India)	aot	Living
+Atorada	aox	Living
+Atsam	cch	Living
+Atsugewi	atw	Living
+Attapady Kurumba	pkr	Living
+Attié	ati	Living
+Atzingo Matlatzinca	ocu	Living
+Au	avt	Living
+'Auhelawa	kud	Living
+Aulua	aul	Living
+Aushi	auh	Living
+Austral	aut	Living
+Australian Aborigines Sign Language	asw	Living
+Australian Sign Language	asf	Living
+Austrian Sign Language	asq	Living
+Auwe	smf	Living
+Auye	auu	Living
+Avá-Canoeiro	avv	Living
+Avaric	ava	Living
+Avatime	avn	Living
+Avau	avb	Living
+Avikam	avi	Living
+Avokaya	avu	Living
+Awa (China)	vwa	Living
+Awa (Papua New Guinea)	awb	Living
+Awa-Cuaiquer	kwi	Living
+Awad Bing	bcu	Living
+Awadhi	awa	Living
+Awak	awo	Living
+Awar	aya	Living
+Awara	awx	Living
+Awbono	awh	Living
+Aweer	bob	Living
+Awera	awr	Living
+Awetí	awe	Living
+Awing	azo	Living
+Awiyaana	auy	Living
+Awjilah	auj	Living
+Awngi	awn	Living
+Awtuw	kmn	Living
+Awu	yiu	Living
+Awun	aww	Living
+Awutu	afu	Living
+Awyi	auw	Living
+Axamb	ahb	Living
+Axi Yi	yix	Living
+Ayacucho Quechua	quy	Living
+Ayautla Mazatec	vmy	Living
+Ayere	aye	Living
+Ayi (Papua New Guinea)	ayq	Living
+Ayiwo	nfl	Living
+Ayizi	yyz	Living
+Ayizo Gbe	ayb	Living
+Aymara	aym	Living
+Ayoquesco Zapotec	zaf	Living
+Ayoreo	ayo	Living
+Ayu	ayu	Living
+Ayutla Mixtec	miy	Living
+Azerbaijani	aze	Living
+Azha	aza	Living
+Azhe	yiz	Living
+Azoyú Me'phaa	tpc	Living
+Baan	bvj	Living
+Baangi	bqx	Living
+Baatonum	bba	Living
+Baba	bbw	Living
+Baba Malay	mbf	Living
+Babalia Creole Arabic	bbz	Living
+Babango	bbm	Living
+Babanki	bbk	Living
+Babatana	baa	Living
+Babine	bcr	Living
+Babuza	bzg	Living
+Bacama	bcy	Living
+Bacanese Malay	btj	Living
+Bada (Indonesia)	bhz	Living
+Bada (Nigeria)	bau	Living
+Badaga	bfq	Living
+Bade	bde	Living
+Badeshi	bdz	Living
+Bädi Kanum	khd	Living
+Badimaya	bia	Living
+Badui	bac	Living
+Badyara	pbp	Living
+Baeggu	bvd	Living
+Baelelea	bvc	Living
+Baetora	btr	Living
+Bafanji	bfj	Living
+Bafaw-Balong	bwt	Living
+Bafia	ksf	Living
+Bafut	bfd	Living
+Baga Binari	bcg	Living
+Baga Koga	bgo	Living
+Baga Manduri	bmd	Living
+Baga Mboteni	bgm	Living
+Baga Sitemu	bsp	Living
+Bagheli	bfy	Living
+Bagirmi	bmi	Living
+Bagirmi Fulfulde	fui	Living
+Bago-Kusuntu	bqg	Living
+Bagri	bgq	Living
+Bagupi	bpi	Living
+Bagusa	bqb	Living
+Bagvalal	kva	Living
+Baha Buyang	yha	Living
+Baham	bdw	Living
+Bahamas Creole English	bah	Living
+Baharna Arabic	abv	Living
+Bahau	bhv	Living
+Bahinemo	bjh	Living
+Bahing	bhj	Living
+Bahnar	bdq	Living
+Bahonsuai	bsu	Living
+Bai	bdj	Living
+Baibai	bbf	Living
+Baikeno	bkx	Living
+Baima	bqh	Living
+Baimak	bmx	Living
+Bainouk-Gunyaamolo	bcz	Living
+Bainouk-Gunyuño	bab	Living
+Bainouk-Samik	bcb	Living
+Baiso	bsw	Living
+Baissa Fali	fah	Living
+Bajan	bjs	Living
+Bajelani	bjm	Living
+Baka (Cameroon)	bkc	Living
+Baka (Sudan)	bdh	Living
+Bakairí	bkq	Living
+Bakaka	bqz	Living
+Bakhtiari	bqi	Living
+Baki	bki	Living
+Bakoko	bkh	Living
+Bakole	kme	Living
+Bakpinka	bbs	Living
+Bakumpai	bkr	Living
+Bakwé	bjw	Living
+Balaesang	bls	Living
+Balangao	blw	Living
+Balangingi	sse	Living
+Balanta-Ganja	bjt	Living
+Balantak	blz	Living
+Balanta-Kentohe	ble	Living
+Balau	blg	Living
+Baldemu	bdn	Living
+Bali (Democratic Republic of Congo)	bcp	Living
+Bali (Nigeria)	bcn	Living
+Balinese	ban	Living
+Balinese Malay	mhp	Living
+Balkan Gagauz Turkish	bgx	Living
+Balkan Romani	rmn	Living
+Balo	bqo	Living
+Baloi	biz	Living
+Balti	bft	Living
+Baltic Romani	rml	Living
+Baluan-Pam	blq	Living
+Baluchi	bal	Living
+Bamako Sign Language	bog	Living
+Bamali	bbq	Living
+Bambalang	bmo	Living
+Bambam	ptu	Living
+Bambara	bam	Living
+Bambassi	myf	Living
+Bambili-Bambui	baw	Living
+Bamenyam	bce	Living
+Bamu	bcf	Living
+Bamukumbit	bqt	Living
+Bamun	bax	Living
+Bamunka	bvm	Living
+Bamwe	bmg	Living
+Ban Khor Sign Language	bfk	Living
+Bana	bcw	Living
+Banao Itneg	bjx	Living
+Banaro	byz	Living
+Banda (Indonesia)	bnd	Living
+Banda Malay	bpq	Living
+Banda-Bambari	liy	Living
+Banda-Banda	bpd	Living
+Banda-Mbrès	bqk	Living
+Banda-Ndélé	bfl	Living
+Banda-Yangere	yaj	Living
+Bandi	bza	Living
+Bandial	bqj	Living
+Bandjalang	bdy	Living
+Bangala	bxg	Living
+Bangandu	bgf	Living
+Bangba	bbe	Living
+Banggai	bgz	Living
+Bangi	bni	Living
+Bangime	dba	Living
+Bangka	mfb	Living
+Bangolan	bgj	Living
+Bangubangu	bnx	Living
+Bangwinji	bsj	Living
+Baniwa	bwi	Living
+Banjar	bjn	Living
+Bankagooma	bxw	Living
+Bankal	jjr	Living
+Bankan Tey Dogon	dbw	Living
+Bankon	abb	Living
+Bannoni	bcm	Living
+Bantawa	bap	Living
+Bantayanon	bfx	Living
+Bantik	bnq	Living
+Bantoanon	bno	Living
+Baoulé	bci	Living
+Bara Malagasy	bhr	Living
+Baraamu	brd	Living
+Barai	bbb	Living
+Barakai	baj	Living
+Baram Kayan	kys	Living
+Barama	bbg	Living
+Barambu	brm	Living
+Baramu	bmz	Living
+Barapasi	brp	Living
+Baras	brs	Living
+Barasana-Eduria	bsn	Living
+Barclayville Grebo	gry	Living
+Bardi	bcj	Living
+Barein	bva	Living
+Bargam	mlp	Living
+Bari	bfa	Living
+Barí	mot	Living
+Bariai	bch	Living
+Bariji	bjc	Living
+Barikanchi	bxo	Living
+Barikewa	jbk	Living
+Barok	bjk	Living
+Barombi	bbi	Living
+Barro Negro Tunebo	tbn	Living
+Baruga	bjz	Living
+Baruya	byr	Living
+Barwe	bwg	Living
+Barzani Jewish Neo-Aramaic	bjf	Living
+Basa (Cameroon)	bas	Living
+Basa (Nigeria)	bzw	Living
+Basa-Gurmana	buj	Living
+Basap	bdb	Living
+Bashkardi	bsg	Living
+Bashkir	bak	Living
+Basketo	bst	Living
+Basque	eus	Living
+Bassa	bsq	Living
+Bassa-Kontagora	bsr	Living
+Bassari	bsc	Living
+Bassossi	bsi	Living
+Bata	bta	Living
+Batad Ifugao	ifb	Living
+Batak	bya	Living
+Batak Alas-Kluet	btz	Living
+Batak Angkola	akb	Living
+Batak Dairi	btd	Living
+Batak Karo	btx	Living
+Batak Mandailing	btm	Living
+Batak Simalungun	bts	Living
+Batak Toba	bbc	Living
+Batanga	bnm	Living
+Batek	btq	Living
+Bateri	btv	Living
+Bathari	bhm	Living
+Bati (Cameroon)	btc	Living
+Bati (Indonesia)	bvt	Living
+Bats	bbl	Living
+Batu	btu	Living
+Batui	zbt	Living
+Batuley	bay	Living
+Batyala	xby	Living
+Bau	bbd	Living
+Bau Bidayuh	sne	Living
+Bauchi	bsf	Living
+Baure	brg	Living
+Bauria	bge	Living
+Bauwaki	bwk	Living
+Bauzi	bvz	Living
+Bavarian	bar	Living
+Bawm Chin	bgr	Living
+Baybayanon	bvy	Living
+Bayono	byl	Living
+Bayot	bda	Living
+Bayungu	bxj	Living
+Bazigar	bfr	Living
+Beami	beo	Living
+Beaver	bea	Living
+Beba	bfp	Living
+Bebele	beb	Living
+Bebeli	bek	Living
+Bebil	bxp	Living
+Bedjond	bjv	Living
+Bedoanas	bed	Living
+Beeke	bkf	Living
+Beele	bxq	Living
+Beembe	beq	Living
+Beezen	bnz	Living
+Befang	bby	Living
+Beja	bej	Living
+Bekati'	bei	Living
+Bekwarra	bkv	Living
+Bekwel	bkw	Living
+Belait	beg	Living
+Belanda Bor	bxb	Living
+Belanda Viri	bvi	Living
+Belarusian	bel	Living
+Belhariya	byw	Living
+Beli (Papua New Guinea)	bey	Living
+Beli (Sudan)	blm	Living
+Belize Kriol English	bzj	Living
+Bella Coola	blc	Living
+Bellari	brw	Living
+Bemba (Zambia)	bem	Living
+Bembe	bmb	Living
+Ben Tey Dogon	dbt	Living
+Bena (Nigeria)	yun	Living
+Bena (Tanzania)	bez	Living
+Benabena	bef	Living
+Bench	bcq	Living
+Bende	bdp	Living
+Bendi	bct	Living
+Beng	nhb	Living
+Benga	bng	Living
+Bengali	ben	Living
+Benggoi	bgy	Living
+Bengkala Sign Language	bqy	Living
+Bentong	bnu	Living
+Benyadu'	byd	Living
+Bepour	bie	Living
+Bera	brf	Living
+Berakou	bxv	Living
+Berau Malay	bve	Living
+Berik	bkl	Living
+Berinomo	bit	Living
+Berom	bom	Living
+Berta	wti	Living
+Besisi	mhe	Living
+Besme	bes	Living
+Besoa	bep	Living
+Betaf	bfe	Living
+Betawi	bew	Living
+Bete	byf	Living
+Bete-Bendi	btt	Living
+Beti (Côte d'Ivoire)	eot	Living
+Betta Kurumba	xub	Living
+Bezhta	kap	Living
+Bhadrawahi	bhd	Living
+Bhalay	bhx	Living
+Bharia	bha	Living
+Bhatola	btl	Living
+Bhatri	bgw	Living
+Bhattiyali	bht	Living
+Bhaya	bhe	Living
+Bhele	bhy	Living
+Bhilali	bhi	Living
+Bhili	bhb	Living
+Bhojpuri	bho	Living
+Bhoti Kinnauri	nes	Living
+Bhujel	byh	Living
+Bhunjia	bhu	Living
+Biafada	bif	Living
+Biage	bdf	Living
+Biak	bhw	Living
+Biali	beh	Living
+Bian Marind	bpv	Living
+Biangai	big	Living
+Biao	byk	Living
+Biao Mon	bmt	Living
+Biao-Jiao Mien	bje	Living
+Biatah Bidayuh	bth	Living
+Bidiyo	bid	Living
+Bidyara	bym	Living
+Bidyogo	bjg	Living
+Biem	bmc	Living
+Bierebo	bnk	Living
+Bieria	brj	Living
+Biete	biu	Living
+Big Nambas	nmb	Living
+Biga	bhc	Living
+Bijori	bix	Living
+Bikaru	bic	Living
+Bikol	bik	Living
+Bikya	byb	Living
+Bila	bip	Living
+Bilakura	bql	Living
+Bilaspuri	kfs	Living
+Bilba	bpz	Living
+Bilbil	brz	Living
+Bile	bil	Living
+Bilin	byn	Living
+Bilma Kanuri	bms	Living
+Bilua	blb	Living
+Bilur	bxf	Living
+Bima	bhp	Living
+Bimin	bhl	Living
+Bimoba	bim	Living
+Bina (Nigeria)	byj	Living
+Binahari	bxz	Living
+Binandere	bhg	Living
+Bine	bon	Living
+Bini	bin	Living
+Binji	bpj	Living
+Binongan Itneg	itb	Living
+Bintauna	bne	Living
+Bintulu	bny	Living
+Binukid	bkd	Living
+Binumarien	bjr	Living
+Bipi	biq	Living
+Birale	bxe	Living
+Birao	brr	Living
+Birgit	btf	Living
+Birhor	biy	Living
+Biritai	bqq	Living
+Birri	bvq	Living
+Birwa	brl	Living
+Biseni	ije	Living
+Bishnupriya	bpy	Living
+Bishuo	bwh	Living
+Bisis	bnw	Living
+Bislama	bis	Living
+Bisorio	bir	Living
+Bissa	bib	Living
+Bisu	bzi	Living
+Bit	bgk	Living
+Bitare	brt	Living
+Bitur	mcc	Living
+Biwat	bwm	Living
+Biyo	byo	Living
+Biyom	bpm	Living
+Blablanga	blp	Living
+Blafe	bfh	Living
+Blagar	beu	Living
+Blang	blr	Living
+Bo (Laos)	bgl	Living
+Bo (Papua New Guinea)	bpw	Living
+Boano (Maluku)	bzn	Living
+Boano (Sulawesi)	bzl	Living
+Bobongko	bgb	Living
+Bobot	bty	Living
+Bodo (Central African Republic)	boy	Living
+Bodo (India)	brx	Living
+Bodo Gadaba	gbj	Living
+Bodo Parja	bdv	Living
+Bofi	bff	Living
+Boga	bvw	Living
+Bogaya	boq	Living
+Boghom	bux	Living
+Boguru	bqu	Living
+Bohtan Neo-Aramaic	bhn	Living
+Boikin	bzf	Living
+Bokha	ybk	Living
+Boko (Benin)	bqc	Living
+Boko (Democratic Republic of Congo)	bkp	Living
+Bokobaru	bus	Living
+Bokoto	bdt	Living
+Bokyi	bky	Living
+Bola	bnp	Living
+Bolango	bld	Living
+Bole	bol	Living
+Bolgo	bvo	Living
+Bolia	bli	Living
+Bolinao	smk	Living
+Bolivian Sign Language	bvl	Living
+Bolo	blv	Living
+Boloki	bkt	Living
+Bolon	bof	Living
+Bolondo	bzm	Living
+Bolongan	blj	Living
+Bolyu	ply	Living
+Bom	bmf	Living
+Boma	boh	Living
+Bomboli	bml	Living
+Bomboma	bws	Living
+Bomitaba	zmx	Living
+Bomu	bmq	Living
+Bomwali	bmw	Living
+Bon Gula	glc	Living
+Bonan	peh	Living
+Bondei	bou	Living
+Bondo	bfw	Living
+Bondoukou Kulango	kzc	Living
+Bondum Dom Dogon	dbu	Living
+Bonerate	bna	Living
+Bonerif	bnv	Living
+Bonggi	bdg	Living
+Bonggo	bpg	Living
+Bongili	bui	Living
+Bongo	bot	Living
+Bongu	bpu	Living
+Bonjo	bok	Living
+Bonkeng	bvg	Living
+Bonkiman	bop	Living
+Bontok	bnc	Living
+Bookan	bnb	Living
+Boon	bnl	Living
+Boor	bvf	Living
+Bora	boa	Living
+Borana-Arsi-Guji Oromo	gax	Living
+Border Kuna	kvn	Living
+Borei	gai	Living
+Borgu Fulfulde	fue	Living
+Boro (Ethiopia)	bwo	Living
+Borong	ksr	Living
+Borôro	bor	Living
+Boruca	brn	Living
+Bo-Rukul	mae	Living
+Boselewa	bwf	Living
+Bosngun	bqs	Living
+Bosnian	bos	Living
+Bote-Majhi	bmj	Living
+Botlikh	bph	Living
+Botolan Sambal	sbl	Living
+Bouna Kulango	nku	Living
+Bo-Ung	mux	Living
+Bouyei	pcc	Living
+Bozaba	bzo	Living
+Bragat	aof	Living
+Brahui	brh	Living
+Braj	bra	Living
+Brazilian Sign Language	bzs	Living
+Brem	buq	Living
+Breri	brq	Living
+Breton	bre	Living
+Bribri	bzd	Living
+British Sign Language	bfi	Living
+Brokkat	bro	Living
+Brokpake	sgt	Living
+Brokskat	bkk	Living
+Brooke's Point Palawano	plw	Living
+Broome Pearling Lugger Pidgin	bpl	Living
+Brunei	kxd	Living
+Brunei Bisaya	bsb	Living
+Bu	jid	Living
+Bua	bub	Living
+Bualkhaw Chin	cbl	Living
+Buamu	box	Living
+Bube	bvb	Living
+Bubi	buw	Living
+Bubia	bbx	Living
+Budeh Stieng	stt	Living
+Budibud	btp	Living
+Budong-Budong	bdx	Living
+Budu	buu	Living
+Budukh	bdk	Living
+Buduma	bdm	Living
+Budza	bja	Living
+Bugan	bbh	Living
+Bugawac	buk	Living
+Bughotu	bgt	Living
+Buginese	bug	Living
+Buglere	sab	Living
+Bugun	bgg	Living
+Buhid	bku	Living
+Buhi'non Bikol	ubl	Living
+Buhutu	bxh	Living
+Bukar-Sadung Bidayuh	sdo	Living
+Bukat	bvk	Living
+Bukharic	bhh	Living
+Bukit Malay	bvu	Living
+Bukitan	bkn	Living
+Bukiyip	ape	Living
+Buksa	tkb	Living
+Bukusu	bxk	Living
+Bukwen	buz	Living
+Bulgarian	bul	Living
+Bulgarian Sign Language	bqn	Living
+Bulgebi	bmp	Living
+Buli (Ghana)	bwu	Living
+Buli (Indonesia)	bzq	Living
+Bullom So	buy	Living
+Bulo Stieng	sti	Living
+Bulu (Cameroon)	bum	Living
+Bulu (Papua New Guinea)	bjl	Living
+Bum	bmv	Living
+Bumaji	byp	Living
+Bumang	bvp	Living
+Bumbita Arapesh	aon	Living
+Bumthangkha	kjz	Living
+Bun	buv	Living
+Buna	bvn	Living
+Bunaba	bck	Living
+Bunak	bfn	Living
+Bunama	bdd	Living
+Bu-Nao Bunu	bwx	Living
+Bundeli	bns	Living
+Bung	bqd	Living
+Bungain	but	Living
+Bungku	bkz	Living
+Bungu	wun	Living
+Bunoge Dogon	dgb	Living
+Bunun	bnn	Living
+Buol	blf	Living
+Burak	bys	Living
+Buraka	bkg	Living
+Bura-Pabir	bwr	Living
+Burarra	bvr	Living
+Burate	bti	Living
+Burduna	bxn	Living
+Bure	bvh	Living
+Buriat	bua	Living
+Burji	bji	Living
+Burmbar	vrt	Living
+Burmese	mya	Living
+Burmeso	bzu	Living
+Buru (Indonesia)	mhs	Living
+Buru (Nigeria)	bqw	Living
+Burui	bry	Living
+Burumakok	aip	Living
+Burun	bdi	Living
+Burunge	bds	Living
+Burushaski	bsk	Living
+Burusu	bqr	Living
+Buruwai	asi	Living
+Busa	bqp	Living
+Busam	bxs	Living
+Busami	bsm	Living
+Busang Kayan	bfg	Living
+Bushi	buc	Living
+Bushoong	buf	Living
+Buso	bso	Living
+Busoa	bup	Living
+Bussa	dox	Living
+Busuu	bju	Living
+Butbut Kalinga	kyb	Living
+Butmas-Tur	bnr	Living
+Butuanon	btw	Living
+Buwal	bhs	Living
+Buyu	byi	Living
+Buyuan Jinuo	jiy	Living
+Bwa	bww	Living
+Bwaidoka	bwd	Living
+Bwanabwana	tte	Living
+Bwatoo	bwa	Living
+Bwe Karen	bwe	Living
+Bwela	bwl	Living
+Bwile	bwc	Living
+Bwisi	bwz	Living
+Byangsi	bee	Living
+Byep	mkk	Living
+Caac	msq	Living
+Cabécar	cjp	Living
+Cabiyarí	cbb	Living
+Cacaloxtepec Mixtec	miu	Living
+Cacgia Roglai	roc	Living
+Cacua	cbv	Living
+Caddo	cad	Living
+Cafundo Creole	ccd	Living
+Cahuarano	cah	Living
+Cahuilla	chl	Living
+Cahungwarya	nat	Living
+Cajamarca Quechua	qvc	Living
+Cajatambo North Lima Quechua	qvl	Living
+Cajonos Zapotec	zad	Living
+Cajun French	frc	Living
+Caka	ckx	Living
+Cakchiquel-Quiché Mixed Language	ckz	Living
+Cakfem-Mushere	cky	Living
+Calamian Tagbanwa	tbk	Living
+Calderón Highland Quichua	qud	Living
+Callawalla	caw	Living
+Caló	rmq	Living
+Caluyanun	clu	Living
+Cameroon Mambila	mcu	Living
+Cameroon Pidgin	wes	Living
+Camling	rab	Living
+Campalagian	cml	Living
+Campidanese Sardinian	sro	Living
+Camsá	kbh	Living
+Camtho	cmt	Living
+Cañar Highland Quichua	qxr	Living
+Candoshi-Shapra	cbu	Living
+Canela	ram	Living
+Cao Lan	mlc	Living
+Cao Miao	cov	Living
+Capanahua	kaq	Living
+Capiznon	cps	Living
+Caquinte	cot	Living
+Car Nicobarese	caq	Living
+Cara	cfd	Living
+Carabayo	cby	Living
+Carapana	cbc	Living
+Caribbean Hindustani	hns	Living
+Caribbean Javanese	jvn	Living
+Carijona	cbd	Living
+Carolinian	cal	Living
+Carpathian Romani	rmc	Living
+Carrier	crx	Living
+Cashibo-Cacataibo	cbr	Living
+Cashinahua	cbs	Living
+Casiguran Dumagat Agta	dgc	Living
+Casuarina Coast Asmat	asc	Living
+Catalan	cat	Living
+Catalan Sign Language	csc	Living
+Cavineña	cav	Living
+Cayuga	cay	Living
+Cebaara Senoufo	sef	Living
+Cebuano	ceb	Living
+Cemuhî	cam	Living
+Cen	cen	Living
+Central Asmat	cns	Living
+Central Atlas Tamazight	tzm	Living
+Central Awyu	awu	Living
+Central Aymara	ayr	Living
+Central Bai	bca	Living
+Central Berawan	zbc	Living
+Central Bikol	bcl	Living
+Central Bontok	lbk	Living
+Central Cagayan Agta	agt	Living
+Central Dusun	dtp	Living
+Central Grebo	grv	Living
+Central Hongshuihe Zhuang	zch	Living
+Central Huasteca Nahuatl	nch	Living
+Central Huishui Hmong	hmc	Living
+Central Kanuri	knc	Living
+Central Khmer	khm	Living
+Central Kurdish	ckb	Living
+Central Maewo	mwo	Living
+Central Malay	pse	Living
+Central Masela	mxz	Living
+Central Mashan Hmong	hmm	Living
+Central Mazahua	maz	Living
+Central Melanau	mel	Living
+Central Mnong	cmo	Living
+Central Nahuatl	nhn	Living
+Central Nicobarese	ncb	Living
+Central Ojibwa	ojc	Living
+Central Okinawan	ryu	Living
+Central Palawano	plc	Living
+Central Pame	pbs	Living
+Central Pashto	pst	Living
+Central Pomo	poo	Living
+Central Puebla Nahuatl	ncx	Living
+Central Sama	sml	Living
+Central Siberian Yupik	ess	Living
+Central Sierra Miwok	csm	Living
+Central Subanen	syb	Living
+Central Tagbanwa	tgt	Living
+Central Tarahumara	tar	Living
+Central Tunebo	tuf	Living
+Central Yupik	esu	Living
+Central-Eastern Niger Fulfulde	fuq	Living
+Centúúm	cet	Living
+Cerma	cme	Living
+Chabu	sbf	Living
+Chachapoyas Quechua	quk	Living
+Chachi	cbi	Living
+Chácobo	cao	Living
+Chadian Arabic	shu	Living
+Chadian Sign Language	cds	Living
+Chadong	cdy	Living
+Chaima	ciy	Living
+Chak	ckh	Living
+Chakali	cli	Living
+Chakma	ccp	Living
+Chala	cll	Living
+Chaldean Neo-Aramaic	cld	Living
+Chalikha	tgf	Living
+Chamacoco	ceg	Living
+Chamalal	cji	Living
+Chamari	cdg	Living
+Chambeali	cdh	Living
+Chambri	can	Living
+Chamicuro	ccc	Living
+Chamorro	cha	Living
+Chang Naga	nbc	Living
+Changriwa	cga	Living
+Changthang	cna	Living
+Chantyal	chx	Living
+Chara	cra	Living
+Chaudangsi	cdn	Living
+Chaura	crv	Living
+Chavacano	cbk	Living
+Chayahuita	cbt	Living
+Chayuco Mixtec	mih	Living
+Chazumba Mixtec	xtb	Living
+Che	ruk	Living
+Chechen	che	Living
+Cheke Holo	mrn	Living
+Chenapian	cjn	Living
+Chenchu	cde	Living
+Chenoua	cnu	Living
+Chepang	cdm	Living
+Chepya	ycp	Living
+Cherepon	cpn	Living
+Cherokee	chr	Living
+Chesu	ych	Living
+Chetco	ctc	Living
+Chewong	cwg	Living
+Cheyenne	chy	Living
+Chhattisgarhi	hne	Living
+Chhintange	ctn	Living
+Chhulung	cur	Living
+Chiangmai Sign Language	csd	Living
+Chiapanec	cip	Living
+Chicahuaxtla Triqui	trs	Living
+Chichicapan Zapotec	zpv	Living
+Chichimeca-Jonaz	pei	Living
+Chickasaw	cic	Living
+Chiga	cgg	Living
+Chigmecatitlán Mixtec	mii	Living
+Chilcotin	clc	Living
+Chilean Quechua	cqu	Living
+Chilean Sign Language	csg	Living
+Chilisso	clh	Living
+Chiltepec Chinantec	csa	Living
+Chimalapa Zoque	zoh	Living
+Chimborazo Highland Quichua	qug	Living
+Chimila	cbg	Living
+China Buriat	bxu	Living
+Chinali	cih	Living
+Chinbon Chin	cnb	Living
+Chincha Quechua	qxc	Living
+Chinese	zho	Living
+Chinese Pidgin English	cpi	Living
+Chinese Sign Language	csl	Living
+Chinook	chh	Living
+Chinook jargon	chn	Living
+Chipaya	cap	Living
+Chipewyan	chp	Living
+Chippewa	ciw	Living
+Chiquián Ancash Quechua	qxa	Living
+Chiquihuitlán Mazatec	maq	Living
+Chiquitano	cax	Living
+Chiripá	nhd	Living
+Chiru	cdf	Living
+Chitkuli Kinnauri	cik	Living
+Chittagonian	ctg	Living
+Chitwania Tharu	the	Living
+Choapan Zapotec	zpc	Living
+Chocangacakha	cgk	Living
+Chochotec	coz	Living
+Choctaw	cho	Living
+Chodri	cdi	Living
+Chokri Naga	nri	Living
+Chokwe	cjk	Living
+Chol	ctu	Living
+Chong	cog	Living
+Choni	cda	Living
+Chonyi-Dzihana-Kauma	coh	Living
+Chopi	cce	Living
+Chortí	caa	Living
+Chothe Naga	nct	Living
+Chrau	crw	Living
+Chru	cje	Living
+Chuanqiandian Cluster Miao	cqd	Living
+Chuave	cjv	Living
+Chug	cvg	Living
+Chuj	cac	Living
+Chuka	cuh	Living
+Chukot	ckt	Living
+Chukwa	cuw	Living
+Chulym	clw	Living
+Chumburung	ncu	Living
+Churahi	cdj	Living
+Chut	scb	Living
+Chuukese	chk	Living
+Chuvash	chv	Living
+Chuwabu	chw	Living
+Ci Gbe	cib	Living
+Cia-Cia	cia	Living
+Cibak	ckl	Living
+Cicipu	awc	Living
+Cimbrian	cim	Living
+Cinda-Regi-Tiyal	cdr	Living
+Cineni	cie	Living
+Cinta Larga	cin	Living
+Cishingini	asg	Living
+Citak	txt	Living
+Ciwogai	tgd	Living
+Clallam	clm	Living
+C'lela	dri	Living
+Coastal Kadazan	kzj	Living
+Coastal Konjo	kjc	Living
+Coatecas Altas Zapotec	zca	Living
+Coatepec Nahuatl	naz	Living
+Coatlán Mixe	mco	Living
+Coatlán Zapotec	zps	Living
+Coatzospan Mixtec	miz	Living
+Cocama-Cocamilla	cod	Living
+Cocopa	coc	Living
+Cocos Islands Malay	coa	Living
+Coeur d'Alene	crd	Living
+Cofán	con	Living
+Cogui	kog	Living
+Col	liw	Living
+Colombian Sign Language	csn	Living
+Colonia Tovar German	gct	Living
+Colorado	cof	Living
+Columbia-Wenatchi	col	Living
+Comaltepec Chinantec	cco	Living
+Comanche	com	Living
+Como Karim	cfg	Living
+Comox	coo	Living
+Con	cno	Living
+Congo Swahili	swc	Living
+Côông	cnc	Living
+Coos	csz	Living
+Copainalá Zoque	zoc	Living
+Copala Triqui	trc	Living
+Cori	cry	Living
+Cornish	cor	Living
+Corongo Ancash Quechua	qwa	Living
+Corsican	cos	Living
+Costa Rican Sign Language	csr	Living
+Cotabato Manobo	mta	Living
+Coyotepec Popoloca	pbf	Living
+Coyutla Totonac	toc	Living
+Cree	cre	Living
+Creek	mus	Living
+Crimean Tatar	crh	Living
+Croatia Sign Language	csq	Living
+Croatian	hrv	Living
+Cross River Mbembe	mfn	Living
+Crow	cro	Living
+Cua	cua	Living
+Cuba Sign Language	csf	Living
+Cubeo	cub	Living
+Cuiba	cui	Living
+Culina	cul	Living
+Cun	cuq	Living
+Cung	cug	Living
+Curripaco	kpc	Living
+Cusco Quechua	quz	Living
+Cutchi-Swahili	ccl	Living
+Cuvok	cuv	Living
+Cuyamecalco Mixtec	xtu	Living
+Cuyonon	cyo	Living
+Cwi Bwamu	bwy	Living
+Cypriot Arabic	acy	Living
+Czech	ces	Living
+Czech Sign Language	cse	Living
+Da'a Kaili	kzf	Living
+Daai Chin	dao	Living
+Daakaka	bpa	Living
+Daantanai'	lni	Living
+Daasanach	dsh	Living
+Daba	dbq	Living
+Dabarre	dbr	Living
+Dabe	dbe	Living
+Dadibi	mps	Living
+Dadiya	dbd	Living
+Daga	dgz	Living
+Dagaari Dioula	dgd	Living
+Dagba	dgk	Living
+Dagbani	dag	Living
+Dagik	dec	Living
+Dahalik	dlk	Living
+Dahalo	dal	Living
+Daho-Doo	das	Living
+Dai	dij	Living
+Dai Zhuang	zhd	Living
+Dair	drb	Living
+Dakka	dkk	Living
+Dakota	dak	Living
+Dakpakha	dka	Living
+Dalabon	ngk	Living
+Daloa Bété	bev	Living
+Dama	dmm	Living
+Damakawa	dam	Living
+Damal	uhn	Living
+Dambi	dac	Living
+Dameli	dml	Living
+Dampelas	dms	Living
+Dan	dnj	Living
+Danaru	dnr	Living
+Danau	dnu	Living
+Dandami Maria	daq	Living
+Dangaléat	daa	Living
+Dangaura Tharu	thl	Living
+Danish	dan	Living
+Danish Sign Language	dsl	Living
+Dano	aso	Living
+Danu	dnv	Living
+Dao	daz	Living
+Daonda	dnd	Living
+Dar Daju Daju	djc	Living
+Dar Fur Daju	daj	Living
+Dar Sila Daju	dau	Living
+Darai	dry	Living
+Dargwa	dar	Living
+Dari	prs	Living
+Darkinyung	xda	Living
+Darlong	dln	Living
+Darmiya	drd	Living
+Daro-Matu Melanau	dro	Living
+Dass	dot	Living
+Datooga	tcc	Living
+Daur	dta	Living
+Davawenyo	daw	Living
+Dâw	kwa	Living
+Dawawa	dww	Living
+Dawera-Daweloor	ddw	Living
+Dawro	dwr	Living
+Day	dai	Living
+Dayi	dax	Living
+Dazaga	dzg	Living
+Deccan	dcc	Living
+Dedua	ded	Living
+Defaka	afn	Living
+Defi Gbe	gbh	Living
+Deg	mzw	Living
+Degaru	dgu	Living
+Degema	deg	Living
+Degenan	dge	Living
+Degexit'an	ing	Living
+Dehu	dhv	Living
+Dehwari	deh	Living
+Dek	dek	Living
+Dela-Oenale	row	Living
+Delaware	del	Living
+Delo	ntr	Living
+Dem	dem	Living
+Dema	dmx	Living
+Demisa	dei	Living
+Demta	dmy	Living
+Dendi (Benin)	ddn	Living
+Dendi (Central African Republic)	deq	Living
+Dengese	dez	Living
+Dengka	dnk	Living
+Dení	dny	Living
+Deno	dbb	Living
+Denya	anv	Living
+Deori	der	Living
+Dera (Indonesia)	kbv	Living
+Dera (Nigeria)	kna	Living
+Desano	des	Living
+Desiya	dso	Living
+Dewoin	dee	Living
+Dezfuli	def	Living
+Dghwede	dgh	Living
+Dhaiso	dhs	Living
+Dhalandji	dhl	Living
+Dhangu	dhg	Living
+Dhanki	dhn	Living
+Dhanwar (Nepal)	dhw	Living
+Dhao	nfa	Living
+Dhargari	dhr	Living
+Dhatki	mki	Living
+Dhimal	dhi	Living
+Dhivehi	div	Living
+Dhodia	dho	Living
+Dhofari Arabic	adf	Living
+Dhundari	dhd	Living
+Dhungaloo	dhx	Living
+Dhuwal	duj	Living
+Dia	dia	Living
+Dibabawon Manobo	mbd	Living
+Dibiyaso	dby	Living
+Dibo	dio	Living
+Dibole	bvx	Living
+Didinga	did	Living
+Dido	ddo	Living
+Digaro-Mishmi	mhu	Living
+Digo	dig	Living
+Dii	dur	Living
+Dijim-Bwilim	cfa	Living
+Dilling	dil	Living
+Dima	jma	Living
+Dimasa	dis	Living
+Dimbong	dii	Living
+Dime	dim	Living
+Dimli (individual language)	diq	Living
+Ding	diz	Living
+Dinka	din	Living
+Dirasha	gdl	Living
+Diri	dwa	Living
+Diriku	diu	Living
+Dirim	dir	Living
+Disa	dsi	Living
+Ditammari	tbz	Living
+Ditidaht	dtd	Living
+Diuwe	diy	Living
+Diuxi-Tilantongo Mixtec	xtd	Living
+Dixon Reef	dix	Living
+Dizin	mdx	Living
+Djabwurrung	tjw	Living
+Djambarrpuyngu	djr	Living
+Djamindjung	djd	Living
+Djauan	djn	Living
+Djeebbana	djj	Living
+Djimini Senoufo	dyi	Living
+Djinang	dji	Living
+Djinba	djb	Living
+Djingili	jig	Living
+Dobel	kvo	Living
+Dobu	dob	Living
+Doe	doe	Living
+Doga	dgg	Living
+Doghoro	dgx	Living
+Dogosé	dos	Living
+Dogoso	dgs	Living
+Dogri (individual language)	dgo	Living
+Dogri (macrolanguage)	doi	Living
+Dogrib	dgr	Living
+Dogul Dom Dogon	dbg	Living
+Doka	dbi	Living
+Doko-Uyanga	uya	Living
+Dolgan	dlg	Living
+Dolpo	dre	Living
+Dom	doa	Living
+Domaaki	dmk	Living
+Domari	rmt	Living
+Dombe	dov	Living
+Dominican Sign Language	doq	Living
+Dompo	doy	Living
+Domu	dof	Living
+Domung	dev	Living
+Dondo	dok	Living
+Dong	doh	Living
+Dongo	doo	Living
+Dongotono	ddd	Living
+Dongshanba Lalo	yik	Living
+Dongxiang	sce	Living
+Donno So Dogon	dds	Living
+Doondo	dde	Living
+Dori'o	dor	Living
+Doromu-Koki	kqc	Living
+Dorze	doz	Living
+Doso	dol	Living
+Dotyali	dty	Living
+Doutai	tds	Living
+Doyayo	dow	Living
+Drents	drt	Living
+Drung	duu	Living
+Du~ya	ldb	Living
+Duala	dua	Living
+Duano	dup	Living
+Duau	dva	Living
+Dubli	dub	Living
+Dubu	dmu	Living
+Dugun	ndu	Living
+Duguri	dbm	Living
+Dugwor	dme	Living
+Duhwa	kbz	Living
+Duke	nke	Living
+Dulbu	dbo	Living
+Duma	dma	Living
+Dumbea	duf	Living
+Dumi	dus	Living
+Dumpas	dmv	Living
+Dumun	dui	Living
+Duna	duc	Living
+Dungan	dng	Living
+Dungmali	raa	Living
+Dungra Bhil	duh	Living
+Dungu	dbv	Living
+Dupaninan Agta	duo	Living
+Duri	mvp	Living
+Duriankere	dbn	Living
+Duruma	dug	Living
+Duruwa	pci	Living
+Dusner	dsn	Living
+Dusun Deyah	dun	Living
+Dusun Malang	duq	Living
+Dusun Witu	duw	Living
+Dutch	nld	Living
+Dutch Sign Language	dse	Living
+Duungooma	dux	Living
+Duupa	dae	Living
+Duvle	duv	Living
+Duwai	dbp	Living
+Duwet	gve	Living
+Dwang	nnu	Living
+Dyaabugay	dyy	Living
+Dyan	dya	Living
+Dyangadi	dyn	Living
+Dyirbal	dbl	Living
+Dyula	dyu	Living
+Dza	jen	Living
+Dzalakha	dzl	Living
+Dzando	dzn	Living
+Dzao Min	bpn	Living
+Dzodinka	add	Living
+Dzongkha	dzo	Living
+Dzùùngoo	dnn	Living
+E	eee	Living
+East Ambae	omb	Living
+East Berawan	zbe	Living
+East Damar	dmr	Living
+East Futuna	fud	Living
+East Kewa	kjs	Living
+East Limba	lma	Living
+East Makian	mky	Living
+East Masela	vme	Living
+East Nyala	nle	Living
+East Tarangan	tre	Living
+East Yugur	yuy	Living
+Eastern Acipa	acp	Living
+Eastern Apurímac Quechua	qve	Living
+Eastern Arrernte	aer	Living
+Eastern Balochi	bgp	Living
+Eastern Bolivian Guaraní	gui	Living
+Eastern Bontok	ebk	Living
+Eastern Bru	bru	Living
+Eastern Canadian Inuktitut	ike	Living
+Eastern Cham	cjm	Living
+Eastern Durango Nahuatl	azd	Living
+Eastern Egyptian Bedawi Arabic	avl	Living
+Eastern Frisian	frs	Living
+Eastern Gorkha Tamang	tge	Living
+Eastern Gurung	ggn	Living
+Eastern Highland Chatino	cly	Living
+Eastern Highland Otomi	otm	Living
+Eastern Hongshuihe Zhuang	zeh	Living
+Eastern Huasteca Nahuatl	nhe	Living
+Eastern Huishui Hmong	hme	Living
+Eastern Karaboro	xrb	Living
+Eastern Katu	ktv	Living
+Eastern Kayah	eky	Living
+Eastern Keres	kee	Living
+Eastern Khumi Chin	cek	Living
+Eastern Krahn	kqo	Living
+Eastern Lalu	yit	Living
+Eastern Lawa	lwl	Living
+Eastern Magar	mgp	Living
+Eastern Maninkakan	emk	Living
+Eastern Mari	mhr	Living
+Eastern Maroon Creole	djk	Living
+Eastern Meohang	emg	Living
+Eastern Mnong	mng	Living
+Eastern Muria	emu	Living
+Eastern Ngad'a	nea	Living
+Eastern Nisu	nos	Living
+Eastern Ojibwa	ojg	Living
+Eastern Oromo	hae	Living
+Eastern Parbate Kham	kif	Living
+Eastern Penan	pez	Living
+Eastern Qiandong Miao	hmq	Living
+Eastern Subanen	sfe	Living
+Eastern Tamang	taj	Living
+Eastern Tawbuid	bnj	Living
+Eastern Xiangxi Miao	muq	Living
+Eastern Xwla Gbe	gbx	Living
+Eastern Yiddish	ydd	Living
+Ebira	igb	Living
+Ebrié	ebr	Living
+Ebughu	ebg	Living
+Ecuadorian Sign Language	ecs	Living
+Ede Cabe	cbj	Living
+Ede Ica	ica	Living
+Ede Idaca	idd	Living
+Ede Ije	ijj	Living
+Edera Awyu	awy	Living
+Edolo	etr	Living
+Edopi	dbf	Living
+Efai	efa	Living
+Efe	efe	Living
+Efik	efi	Living
+Efutop	ofu	Living
+Ega	ega	Living
+Eggon	ego	Living
+Egypt Sign Language	esl	Living
+Egyptian Arabic	arz	Living
+Ehueun	ehu	Living
+Eipomek	eip	Living
+Eitiep	eit	Living
+Ejagham	etu	Living
+Ejamat	eja	Living
+Ekajuk	eka	Living
+Ekari	ekg	Living
+Eki	eki	Living
+Ekit	eke	Living
+Ekpeye	ekp	Living
+El Alto Zapotec	zpp	Living
+El Hugeirat	elh	Living
+El Molo	elo	Living
+El Nayar Cora	crn	Living
+Eleme	elm	Living
+Elepi	ele	Living
+Elip	ekm	Living
+Elkei	elk	Living
+Elotepec Zapotec	zte	Living
+Eloyi	afo	Living
+Elseng	mrf	Living
+Elu	elu	Living
+E'ma Buyang	yzg	Living
+Emae	mmw	Living
+Emai-Iuleha-Ora	ema	Living
+Eman	emn	Living
+Embaloh	emb	Living
+Emberá-Baudó	bdc	Living
+Emberá-Catío	cto	Living
+Emberá-Chamí	cmi	Living
+Emberá-Tadó	tdc	Living
+Embu	ebu	Living
+Emerillon	eme	Living
+Emilian	egl	Living
+Emplawas	emw	Living
+Emumu	enr	Living
+En	enc	Living
+E'ñapa Woromaipu	pbh	Living
+Enawené-Nawé	unk	Living
+Ende	end	Living
+Enga	enq	Living
+Engdewu	ngr	Living
+Engenni	enn	Living
+Enggano	eno	Living
+English	eng	Living
+Enlhet	enl	Living
+Enrekang	ptt	Living
+Enu	enu	Living
+Enwan (Akwa Ibom State)	enw	Living
+Enwan (Edu State)	env	Living
+Enxet	enx	Living
+Enya	gey	Living
+Epena	sja	Living
+Epie	epi	Living
+Eravallan	era	Living
+Erave	kjy	Living
+Ere	twp	Living
+Eritai	ert	Living
+Erokwanas	erw	Living
+Erromintxela	emx	Living
+Ersu	ers	Living
+Eruwa	erh	Living
+Erzya	myv	Living
+Esan	ish	Living
+Ese	mcq	Living
+Ese Ejja	ese	Living
+Eshtehardi	esh	Living
+Esimbi	ags	Living
+Eskayan	esy	Living
+Estado de México Otomi	ots	Living
+Estonian	est	Living
+Estonian Sign Language	eso	Living
+Etebi	etb	Living
+Eten	etx	Living
+Ethiopian Sign Language	eth	Living
+Etkywan	ich	Living
+Eton (Cameroon)	eto	Living
+Eton (Vanuatu)	etn	Living
+Etulo	utr	Living
+Evant	bzz	Living
+Even	eve	Living
+Evenki	evn	Living
+Eviya	gev	Living
+Ewage-Notu	nou	Living
+Ewe	ewe	Living
+Ewondo	ewo	Living
+Extremaduran	ext	Living
+Ezaa	eza	Living
+Fa D'ambu	fab	Living
+Fagani	faf	Living
+Faire Atta	azt	Living
+Faita	faj	Living
+Faiwol	fai	Living
+Fala	fax	Living
+Falam Chin	cfm	Living
+Fali	fli	Living
+Fam	fam	Living
+Fanagalo	fng	Living
+Fanamaket	bjp	Living
+Fang (Cameroon)	fak	Living
+Fang (Equatorial Guinea)	fan	Living
+Fania	fni	Living
+Fanti	fat	Living
+Far Western Muria	fmu	Living
+Farefare	gur	Living
+Faroese	fao	Living
+Fas	fqs	Living
+Fasu	faa	Living
+Fataleka	far	Living
+Fataluku	ddg	Living
+Fayu	fau	Living
+Fe'fe'	fmp	Living
+Fembe	agl	Living
+Fernando Po Creole English	fpe	Living
+Feroge	fer	Living
+Fiji Hindi	hif	Living
+Fijian	fij	Living
+Filipino	fil	Living
+Filomena Mata-Coahuitlán Totonac	tlp	Living
+Finland-Swedish Sign Language	fss	Living
+Finnish	fin	Living
+Finnish Sign Language	fse	Living
+Finongan	fag	Living
+Fipa	fip	Living
+Firan	fir	Living
+Fiwaga	fiw	Living
+Flaaitaal	fly	Living
+Foau	flh	Living
+Foi	foi	Living
+Foia Foia	ffi	Living
+Folopa	ppo	Living
+Foma	fom	Living
+Fon	fon	Living
+Fongoro	fgr	Living
+Foodo	fod	Living
+Forak	frq	Living
+Fordata	frd	Living
+Fore	for	Living
+Forest Enets	enf	Living
+Fortsenal	frt	Living
+Francisco León Zoque	zos	Living
+French	fra	Living
+French Sign Language	fsl	Living
+Friulian	fur	Living
+Fulah	ful	Living
+Fuliiru	flr	Living
+Fulniô	fun	Living
+Fum	fum	Living
+Fungwa	ula	Living
+Fur	fvr	Living
+Furu	fuu	Living
+Futuna-Aniwa	fut	Living
+Fuyug	fuy	Living
+Fwâi	fwa	Living
+Fwe	fwe	Living
+Fyam	pym	Living
+Fyer	fie	Living
+Gǀui	gwj	Living
+Gǁana	gnk	Living
+Ga	gaa	Living
+Gaa	ttb	Living
+Gaam	tbi	Living
+Ga'anda	gqa	Living
+Gabi-Gabi	gbw	Living
+Gabri	gab	Living
+Gadang	gdk	Living
+Ga'dang	gdg	Living
+Gaddang	gad	Living
+Gaddi	gbk	Living
+Gade	ged	Living
+Gade Lohar	gda	Living
+Gadjerawang	gdh	Living
+Gadsup	gaj	Living
+Gagadu	gbu	Living
+Gagauz	gag	Living
+Gagnoa Bété	btg	Living
+Gagu	ggu	Living
+Gahri	bfu	Living
+Gaikundi	gbf	Living
+Gail	gic	Living
+Gaina	gcn	Living
+Gal	gap	Living
+Galambu	glo	Living
+Galela	gbi	Living
+Galeya	gar	Living
+Galibi Carib	car	Living
+Galician	glg	Living
+Gallurese Sardinian	sdn	Living
+Galo	adl	Living
+Galolen	gal	Living
+Gamale Kham	kgj	Living
+Gambian Wolof	wof	Living
+Gamilaraay	kld	Living
+Gamit	gbl	Living
+Gamkonora	gak	Living
+Gamo	gmv	Living
+Gan Chinese	gan	Living
+Gana	gnq	Living
+Ganang	gne	Living
+Ganda	lug	Living
+Gane	gzn	Living
+Ganglau	ggl	Living
+Gangte	gnb	Living
+Gants	gao	Living
+Ganza	gza	Living
+Ganzi	gnz	Living
+Gao	gga	Living
+Gapapaiwa	pwg	Living
+Garhwali	gbm	Living
+Garifuna	cab	Living
+Garo	grt	Living
+Garre	gex	Living
+Garrwa	wrk	Living
+Garus	gyb	Living
+Gata'	gaq	Living
+Gavak	dmc	Living
+Gavar	gou	Living
+Gavião Do Jiparaná	gvo	Living
+Gawar-Bati	gwt	Living
+Gawwada	gwd	Living
+Gayil	gyl	Living
+Gayo	gay	Living
+Gazi	gzi	Living
+Gbagyi	gbr	Living
+Gbanu	gbv	Living
+Gbanziri	gbg	Living
+Gbari	gby	Living
+Gbaya (Central African Republic)	gba	Living
+Gbaya (Sudan)	krs	Living
+Gbaya-Bossangoa	gbp	Living
+Gbaya-Bozoum	gbq	Living
+Gbaya-Mbodomo	gmm	Living
+Gbayi	gyg	Living
+Gbesi Gbe	gbs	Living
+Gbii	ggb	Living
+Gbiri-Niragu	grh	Living
+Gboloo Grebo	gec	Living
+Ge	hmj	Living
+Geba Karen	kvq	Living
+Gebe	gei	Living
+Gedaged	gdd	Living
+Gedeo	drs	Living
+Geji	gji	Living
+Geko Karen	ghk	Living
+Gela	nlg	Living
+Geme	geq	Living
+Gen	gej	Living
+Gende	gaf	Living
+Gengle	geg	Living
+Georgian	kat	Living
+Gepo	ygp	Living
+Gera	gew	Living
+German	deu	Living
+German Sign Language	gsg	Living
+Geruma	gea	Living
+Geser-Gorom	ges	Living
+Ghadamès	gha	Living
+Ghanaian Pidgin English	gpe	Living
+Ghanaian Sign Language	gse	Living
+Ghandruk Sign Language	gds	Living
+Ghanongga	ghn	Living
+Ghari	gri	Living
+Ghayavi	bmk	Living
+Gheg Albanian	aln	Living
+Ghera	ghr	Living
+Ghodoberi	gdo	Living
+Ghomálá'	bbj	Living
+Ghotuo	aaa	Living
+Ghulfan	ghl	Living
+Giangan	bgi	Living
+Gibanawa	gib	Living
+Gidar	gid	Living
+Giiwo	kks	Living
+Gikyode	acd	Living
+Gilaki	glk	Living
+Gilbertese	gil	Living
+Gilima	gix	Living
+Gilyak	niv	Living
+Gimi (Eastern Highlands)	gim	Living
+Gimi (West New Britain)	gip	Living
+Gimme	kmp	Living
+Gimnime	gmn	Living
+Ginuman	gnm	Living
+Ginyanga	ayg	Living
+Girawa	bbr	Living
+Giryama	nyf	Living
+Githabul	gih	Living
+Gitonga	toh	Living
+Gitua	ggt	Living
+Gitxsan	git	Living
+Giyug	giy	Living
+Gizrra	tof	Living
+Glaro-Twabo	glr	Living
+Glavda	glw	Living
+Glio-Oubi	oub	Living
+Gnau	gnu	Living
+Goan Konkani	gom	Living
+Goaria	gig	Living
+Gobasi	goi	Living
+Gobu	gox	Living
+Godié	god	Living
+Godwari	gdx	Living
+Goemai	ank	Living
+Gofa	gof	Living
+Gogo	gog	Living
+Gogodala	ggw	Living
+Gokana	gkn	Living
+Gola	gol	Living
+Golin	gvf	Living
+Gondi	gon	Living
+Gone Dau	goo	Living
+Gongduk	goe	Living
+Gonja	gjn	Living
+Gooniyandi	gni	Living
+Gor	gqr	Living
+Gorakor	goc	Living
+Gorap	goq	Living
+Gorontalo	gor	Living
+Gorovu	grq	Living
+Gorowa	gow	Living
+Goundo	goy	Living
+Gourmanchéma	gux	Living
+Gowlan	goj	Living
+Gowli	gok	Living
+Gowro	gwf	Living
+Gozarkhani	goz	Living
+Grangali	nli	Living
+Grass Koiari	kbk	Living
+Grebo	grb	Living
+Greek Sign Language	gss	Living
+Green Gelao	giq	Living
+Grenadian Creole English	gcl	Living
+Gresi	grs	Living
+Groma	gro	Living
+Gronings	gos	Living
+Gros Ventre	ats	Living
+Gua	gwx	Living
+Guadeloupean Creole French	gcf	Living
+Guahibo	guh	Living
+Guajá	gvj	Living
+Guajajára	gub	Living
+Guambiano	gum	Living
+Guana (Paraguay)	gva	Living
+Guanano	gvc	Living
+Guanyinqiao	jiq	Living
+Guarani	grn	Living
+Guarayu	gyr	Living
+Guarequena	gae	Living
+Guatemalan Sign Language	gsm	Living
+Guató	gta	Living
+Guayabero	guo	Living
+Gudanji	nji	Living
+Gude	gde	Living
+Gudu	gdu	Living
+Guduf-Gava	gdf	Living
+Guerrero Amuzgo	amu	Living
+Guerrero Nahuatl	ngu	Living
+Guevea De Humboldt Zapotec	zpg	Living
+Gugubera	kkp	Living
+Guguyimidjir	kky	Living
+Guhu-Samane	ghs	Living
+Guianese Creole French	gcr	Living
+Guibei Zhuang	zgb	Living
+Guiberoua Béte	bet	Living
+Guibian Zhuang	zgn	Living
+Güilá Zapotec	ztu	Living
+Guinea Kpelle	gkp	Living
+Guinean Sign Language	gus	Living
+Guiqiong	gqi	Living
+Gujarati	guj	Living
+Gujari	gju	Living
+Gula (Central African Republic)	kcm	Living
+Gula (Chad)	glu	Living
+Gula Iro	glj	Living
+Gula'alaa	gmb	Living
+Gulay	gvl	Living
+Gulf Arabic	afb	Living
+Gumalu	gmu	Living
+Gumatj	gnn	Living
+Gumawana	gvs	Living
+Gumuz	guk	Living
+Gun	guw	Living
+Gundi	gdi	Living
+Gungu	rub	Living
+Guntai	gnt	Living
+Gunwinggu	gup	Living
+Gupa-Abawa	gpa	Living
+Gupapuyngu	guf	Living
+Guragone	gge	Living
+Guramalum	grz	Living
+Gurani	hac	Living
+Gurdjar	gdj	Living
+Gurgula	ggg	Living
+Guriaso	grx	Living
+Gurinji	gue	Living
+Gurmana	gvm	Living
+Guro	goa	Living
+Guruntum-Mbaaru	grd	Living
+Gusan	gsn	Living
+Gusii	guz	Living
+Gusilay	gsl	Living
+Guya	gka	Living
+Guyanese Creole English	gyn	Living
+Gvoko	ngs	Living
+Gwa	gwb	Living
+Gwahatike	dah	Living
+Gwak	jgk	Living
+Gwamhi-Wuri	bga	Living
+Gwandara	gwn	Living
+Gweda	grw	Living
+Gweno	gwe	Living
+Gwere	gwr	Living
+Gwich'in	gwi	Living
+Gyele	gyi	Living
+Gyem	gye	Living
+Ha	haq	Living
+Habu	hbu	Living
+Hadiyya	hdy	Living
+Hadothi	hoj	Living
+Hadrami Arabic	ayh	Living
+Hadza	hts	Living
+Haeke	aek	Living
+Hahon	hah	Living
+Hai//om	hgm	Living
+Haida	hai	Living
+Haigwai	hgw	Living
+Haiphong Sign Language	haf	Living
+Haisla	has	Living
+Haitian	hat	Living
+Haitian Vodoun Culture Language	hvc	Living
+Haji	hji	Living
+Hajong	haj	Living
+Haka Chin	cnh	Living
+Hakka Chinese	hak	Living
+Hakö	hao	Living
+Halang	hal	Living
+Halang Doan	hld	Living
+Halbi	hlb	Living
+Halh Mongolian	khk	Living
+Halia	hla	Living
+Halkomelem	hur	Living
+Hamap	hmu	Living
+Hamba	hba	Living
+Hamer-Banna	amf	Living
+Hamtai	hmt	Living
+Han	haa	Living
+Hanga	hag	Living
+Hanga Hundi	wos	Living
+Hangaza	han	Living
+Hani	hni	Living
+Hano	lml	Living
+Hanoi Sign Language	hab	Living
+Hanunoo	hnn	Living
+Harari	har	Living
+Harijan Kinnauri	kjo	Living
+Haroi	hro	Living
+Harsusi	hss	Living
+Haruai	tmd	Living
+Haruku	hrk	Living
+Haryanvi	bgc	Living
+Harzani	hrz	Living
+Hasha	ybj	Living
+Hassaniyya	mey	Living
+Hatam	had	Living
+Hausa	hau	Living
+Hausa Sign Language	hsl	Living
+Havasupai-Walapai-Yavapai	yuf	Living
+Haveke	hvk	Living
+Havu	hav	Living
+Hawai'i Creole English	hwc	Living
+Hawai'i Sign Language (HSL)	hps	Living
+Hawaiian	haw	Living
+Haya	hay	Living
+Hazaragi	haz	Living
+Hdi	xed	Living
+Hebrew	heb	Living
+Hehe	heh	Living
+Heiban	hbn	Living
+Heiltsuk	hei	Living
+Helambu Sherpa	scp	Living
+Helong	heg	Living
+Hema	nix	Living
+Hemba	hem	Living
+Herdé	hed	Living
+Herero	her	Living
+Hértevin	hrt	Living
+Hewa	ham	Living
+Heyo	auk	Living
+Hidatsa	hid	Living
+Higaonon	mba	Living
+Highland Konjo	kjk	Living
+Highland Oaxaca Chontal	chd	Living
+Highland Popoluca	poi	Living
+Highland Puebla Nahuatl	azz	Living
+Highland Totonac	tos	Living
+Hijazi Arabic	acw	Living
+Hijuk	hij	Living
+Hiligaynon	hil	Living
+Himarimã	hir	Living
+Hindi	hin	Living
+Hinduri	hii	Living
+Hinukh	gin	Living
+Hiri Motu	hmo	Living
+Hitu	htu	Living
+Hiw	hiw	Living
+Hixkaryána	hix	Living
+Hlai	lic	Living
+Hlepho Phowa	yhl	Living
+Hlersu	hle	Living
+Hmar	hmr	Living
+Hmong	hmn	Living
+Hmong Daw	mww	Living
+Hmong Dô	hmv	Living
+Hmong Don	hmf	Living
+Hmong Njua	hnj	Living
+Hmong Shua	hmz	Living
+Hmwaveke	mrk	Living
+Ho	hoc	Living
+Ho Chi Minh City Sign Language	hos	Living
+Hoava	hoa	Living
+Hobyót	hoh	Living
+Ho-Chunk	win	Living
+Hoia Hoia	hhi	Living
+Holikachuk	hoi	Living
+Holiya	hoy	Living
+Holoholo	hoo	Living
+Holu	hol	Living
+Honduras Sign Language	hds	Living
+Hõne	juh	Living
+Hong Kong Sign Language	hks	Living
+Honi	how	Living
+Hopi	hop	Living
+Horned Miao	hrm	Living
+Horom	hoe	Living
+Horpa	ero	Living
+Hote	hot	Living
+Hoti	hti	Living
+Hovongan	hov	Living
+Hoyahoya	hhy	Living
+Hozo	hoz	Living
+Hpon	hpo	Living
+Hrangkhol	hra	Living
+Hre	hre	Living
+Hruso	hru	Living
+Hu	huo	Living
+Huachipaeri	hug	Living
+Huallaga Huánuco Quechua	qub	Living
+Huamalíes-Dos de Mayo Huánuco Quechua	qvh	Living
+Huambisa	hub	Living
+Huarijio	var	Living
+Huastec	hus	Living
+Huaulu	hud	Living
+Huautla Mazatec	mau	Living
+Huaxcaleca Nahuatl	nhq	Living
+Huaylas Ancash Quechua	qwh	Living
+Huaylla Wanca Quechua	qvw	Living
+Huba	hbb	Living
+Huehuetla Tepehua	tee	Living
+Huichol	hch	Living
+Huilliche	huh	Living
+Huitepec Mixtec	mxs	Living
+Huizhou Chinese	czh	Living
+Hula	hul	Living
+Hulaulá	huy	Living
+Huli	hui	Living
+Hulung	huk	Living
+Humburi Senni Songhay	hmb	Living
+Humene	huf	Living
+Humla	hut	Living
+Hunde	hke	Living
+Hung	hnu	Living
+Hungana	hum	Living
+Hungarian	hun	Living
+Hungarian Sign Language	hsh	Living
+Hunjara-Kaina Ke	hkk	Living
+Hun-Saare	dud	Living
+Hunsrik	hrx	Living
+Hunzib	huz	Living
+Hupa	hup	Living
+Hupdë	jup	Living
+Hupla	hap	Living
+Hutterite German	geh	Living
+Hwana	hwo	Living
+Hya	hya	Living
+Hyam	jab	Living
+Iaai	iai	Living
+Iamalele	yml	Living
+Iapama	iap	Living
+Iatmul	ian	Living
+Iau	tmu	Living
+Ibali Teke	tek	Living
+Ibaloi	ibl	Living
+Iban	iba	Living
+Ibanag	ibg	Living
+Ibani	iby	Living
+Ibatan	ivb	Living
+Ibibio	ibb	Living
+Ibino	ibn	Living
+Ibu	ibu	Living
+Ibuoro	ibr	Living
+Icelandic	isl	Living
+Icelandic Sign Language	icl	Living
+Iceve-Maci	bec	Living
+Ida'an	dbj	Living
+Idakho-Isukha-Tiriki	ida	Living
+Idaté	idt	Living
+Idere	ide	Living
+Idesa	ids	Living
+Idi	idi	Living
+Idoma	idu	Living
+Idon	idc	Living
+Idu-Mishmi	clk	Living
+Iduna	viv	Living
+Ifè	ife	Living
+Igala	igl	Living
+Igana	igg	Living
+Igbo	ibo	Living
+Igede	ige	Living
+Ignaciano	ign	Living
+Igo	ahl	Living
+Iguta	nar	Living
+Igwe	igw	Living
+Iha	ihp	Living
+Iha Based Pidgin	ihb	Living
+Ihievbe	ihi	Living
+Ija-Zuba	vki	Living
+Ik	ikx	Living
+Ika	ikk	Living
+Ikizu	ikz	Living
+Iko	iki	Living
+Ikobi	meb	Living
+Ikoma-Nata-Isenye	ntk	Living
+Ikpeng	txi	Living
+Ikpeshi	ikp	Living
+Ikposo	kpo	Living
+Iku-Gora-Ankwa	ikv	Living
+Ikulu	ikl	Living
+Ikwere	ikw	Living
+Ikwo	iqw	Living
+Ila	ilb	Living
+Ile Ape	ila	Living
+Ili Turki	ili	Living
+Ilianen Manobo	mbi	Living
+Ili'uun	ilu	Living
+Iloko	ilo	Living
+Ilongot	ilk	Living
+Ilue	ilv	Living
+Ilwana	mlk	Living
+Imbabura Highland Quichua	qvi	Living
+Imbongu	imo	Living
+Imonda	imn	Living
+Imroing	imr	Living
+Inabaknon	abx	Living
+Inapang	mzu	Living
+Iñapari	inp	Living
+Inari Sami	smn	Living
+Indian Sign Language	ins	Living
+Indonesian	ind	Living
+Indonesian Bajau	bdl	Living
+Indonesian Sign Language	inl	Living
+Indo-Portuguese	idb	Living
+Indri	idr	Living
+Indus Kohistani	mvy	Living
+Inebu One	oin	Living
+Inga	inb	Living
+Ingrian	izh	Living
+Ingush	inh	Living
+Inlaod Itneg	iti	Living
+Inoke-Yate	ino	Living
+Inonhan	loc	Living
+Inor	ior	Living
+Inpui Naga	nkf	Living
+International Sign	ils	Living
+Intha	int	Living
+Inuinnaqtun	ikt	Living
+Inuit Sign Language	iks	Living
+Inuktitut	iku	Living
+Inupiaq	ipk	Living
+Ipalapa Amuzgo	azm	Living
+Ipiko	ipo	Living
+Ipili	ipi	Living
+Ipulo	ass	Living
+Iquito	iqu	Living
+Ir	irr	Living
+Iranian Persian	pes	Living
+Irántxe	irn	Living
+Iranun	ill	Living
+Iraqw	irk	Living
+Irarutu	irh	Living
+Iraya	iry	Living
+Iresim	ire	Living
+Irigwe	iri	Living
+Irish	gle	Living
+Irish Sign Language	isg	Living
+Irula	iru	Living
+Isabi	isa	Living
+Isanzu	isn	Living
+Isarog Agta	agk	Living
+Isconahua	isc	Living
+Isebe	igo	Living
+Isekiri	its	Living
+Ishkashimi	isk	Living
+Isinai	inn	Living
+Isirawa	srl	Living
+Islander Creole English	icr	Living
+Isnag	isd	Living
+Isoko	iso	Living
+Israeli Sign Language	isr	Living
+Isthmus Mixe	mir	Living
+Isthmus Zapotec	zai	Living
+Isthmus-Cosoleacaque Nahuatl	nhk	Living
+Isthmus-Mecayapan Nahuatl	nhx	Living
+Isthmus-Pajapan Nahuatl	nhp	Living
+Istriot	ist	Living
+Istro Romanian	ruo	Living
+Isu (Fako Division)	szv	Living
+Isu (Menchum Division)	isu	Living
+Italian	ita	Living
+Italian Sign Language	ise	Living
+Itawit	itv	Living
+Itelmen	itl	Living
+Iteri	itr	Living
+Itik	itx	Living
+Ito	itw	Living
+Itonama	ito	Living
+Itu Mbon Uzo	itm	Living
+Itundujia Mixtec	mce	Living
+Itzá	itz	Living
+Iu Mien	ium	Living
+Ivatan	ivv	Living
+Ivbie North-Okpela-Arhe	atg	Living
+Iwaidja	ibd	Living
+I-Wak	iwk	Living
+Iwal	kbm	Living
+Iwam	iwm	Living
+Iwur	iwo	Living
+Ixcatec	ixc	Living
+Ixcatlán Mazatec	mzi	Living
+Ixil	ixl	Living
+Ixtayutla Mixtec	vmj	Living
+Ixtenco Otomi	otz	Living
+Iyayu	iya	Living
+Iyive	uiv	Living
+Iyo	nca	Living
+Iyojwa'ja Chorote	crt	Living
+Iyo'wujwa Chorote	crq	Living
+Izere	izr	Living
+Izii	izz	Living
+Izon	ijc	Living
+Izora	cbo	Living
+Jabutí	jbt	Living
+Jad	jda	Living
+Jadgali	jdg	Living
+Jah Hut	jah	Living
+Jahanka	jad	Living
+Jair Awyu	awv	Living
+Jakati	jat	Living
+Jakun	jak	Living
+Jalapa De Díaz Mazatec	maj	Living
+Jalkunan	bxl	Living
+Jamaican Country Sign Language	jcs	Living
+Jamaican Creole English	jam	Living
+Jamaican Sign Language	jls	Living
+Jamamadí	jaa	Living
+Jambi Malay	jax	Living
+Jamiltepec Mixtec	mxt	Living
+Jamsay Dogon	djm	Living
+Jandavra	jnd	Living
+Jangkang	djo	Living
+Jangshung	jna	Living
+Janji	jni	Living
+Japanese	jpn	Living
+Japanese Sign Language	jsl	Living
+Japrería	jru	Living
+Jaqaru	jqr	Living
+Jara	jaf	Living
+Jarai	jra	Living
+Jarawa (India)	anq	Living
+Jaru	ddj	Living
+Jauja Wanca Quechua	qxw	Living
+Jaunsari	jns	Living
+Javanese	jav	Living
+Jawe	jaz	Living
+Jaya	jyy	Living
+Jebero	jeb	Living
+Jeh	jeh	Living
+Jehai	jhi	Living
+Jejueo	jje	Living
+Jemez	tow	Living
+Jenaama Bozo	bze	Living
+Jeng	jeg	Living
+Jennu Kurumba	xuj	Living
+Jere	jer	Living
+Jeri Kuo	jek	Living
+Jèrriais	nrf	Living
+Jerung	jee	Living
+Jhankot Sign Language	jhs	Living
+Jiamao	jio	Living
+Jiarong	jya	Living
+Jiba	juo	Living
+Jibu	jib	Living
+Jicarilla Apache	apj	Living
+Jiiddu	jii	Living
+Jilbe	jie	Living
+Jilim	jil	Living
+Jimi (Cameroon)	jim	Living
+Jimi (Nigeria)	jmi	Living
+Jina	jia	Living
+Jinyu Chinese	cjy	Living
+Jiongnai Bunu	pnu	Living
+Jirel	jul	Living
+Jiru	jrr	Living
+Jita	jit	Living
+Jju	kaj	Living
+Joba	job	Living
+Jofotek-Bromnya	jbr	Living
+Jogi	jog	Living
+Jola-Fonyi	dyo	Living
+Jola-Kasa	csk	Living
+Jonkor Bourmataguil	jeu	Living
+Jordanian Sign Language	jos	Living
+Jorto	jrt	Living
+Jowulu	jow	Living
+Ju	juu	Living
+Ju/'hoan	ktz	Living
+Juang	jun	Living
+Judeo-Arabic	jrb	Living
+Judeo-Berber	jbe	Living
+Judeo-Georgian	jge	Living
+Judeo-Iraqi Arabic	yhd	Living
+Judeo-Italian	itk	Living
+Judeo-Moroccan Arabic	aju	Living
+Judeo-Persian	jpr	Living
+Judeo-Tat	jdt	Living
+Judeo-Tripolitanian Arabic	yud	Living
+Judeo-Tunisian Arabic	ajt	Living
+Judeo-Yemeni Arabic	jye	Living
+Jukun Takum	jbu	Living
+Júma	jua	Living
+Jumjum	jum	Living
+Jumla Sign Language	jus	Living
+Jumli	jml	Living
+Jungle Inga	inj	Living
+Juquila Mixe	mxq	Living
+Jur Modo	bex	Living
+Juray	juy	Living
+Jurúna	jur	Living
+Jutish	jut	Living
+Juwal	mwb	Living
+Juxtlahuaca Mixtec	vmc	Living
+Jwira-Pepesa	jwi	Living
+Kaamba	xku	Living
+Kaan	ldl	Living
+Kaang Chin	ckn	Living
+Kaansa	gna	Living
+Kaba	ksp	Living
+Kabalai	kvf	Living
+Kabardian	kbd	Living
+Kabatei	xkp	Living
+Kabiyè	kbp	Living
+Kabola	klz	Living
+Kabore One	onk	Living
+Kabras	lkb	Living
+Kaburi	uka	Living
+Kabutra	kbu	Living
+Kabuverdianu	kea	Living
+Kabwa	cwa	Living
+Kabwari	kcw	Living
+Kabyle	kab	Living
+Kachama-Ganjule	kcx	Living
+Kachari	xac	Living
+Kachchi	kfr	Living
+Kachi Koli	gjk	Living
+Kachin	kac	Living
+Kacipo-Balesi	koe	Living
+Kaco'	xkk	Living
+Kadai	kzd	Living
+Kadar	kej	Living
+Kadaru	kdu	Living
+Kadiwéu	kbc	Living
+Kadu	zkd	Living
+Kaduo	ktp	Living
+Kafa	kbr	Living
+Kafoa	kpu	Living
+Kagan Kalagan	kll	Living
+Kagate	syw	Living
+Kagayanen	cgc	Living
+Kagoma	kdm	Living
+Kagoro	xkg	Living
+Kagulu	kki	Living
+Kahe	hka	Living
+Kahua	agw	Living
+Kaian	kct	Living
+Kaibobo	kzb	Living
+Kaidipang	kzp	Living
+Kaiep	kbw	Living
+Kaikadi	kep	Living
+Kaike	kzq	Living
+Kaiku	kkq	Living
+Kaimbulawa	zka	Living
+Kaingang	kgp	Living
+Kairak	ckr	Living
+Kairiru	kxa	Living
+Kairui-Midiki	krd	Living
+Kais	kzm	Living
+Kaivi	kce	Living
+Kaiwá	kgk	Living
+Kaiy	tcq	Living
+Kajakse	ckq	Living
+Kajali	xkj	Living
+Kajaman	kag	Living
+Kakabai	kqf	Living
+Kakabe	kke	Living
+Kakanda	kka	Living
+Kaki Ae	tbd	Living
+Kako	kkj	Living
+Kakwa	keo	Living
+Kala Lagaw Ya	mwp	Living
+Kalaallisut	kal	Living
+Kalabakan	kve	Living
+Kalabari	ijn	Living
+Kalabra	kzz	Living
+Kalagan	kqe	Living
+Kalaktang Monpa	kkf	Living
+Kalam	kmh	Living
+Kalami	gwc	Living
+Kalamsé	knz	Living
+Kalanadi	wkl	Living
+Kalanga	kck	Living
+Kalao	kly	Living
+Kalapuya	kyl	Living
+Kalasha	kls	Living
+Kalenjin	kln	Living
+Kalispel-Pend d'Oreille	fla	Living
+Kalkoti	xka	Living
+Kalmyk	xal	Living
+Kalo Finnish Romani	rmf	Living
+Kalou	ywa	Living
+Kaluli	bco	Living
+Kalumpang	kli	Living
+Kam	kdx	Living
+Kamang	woi	Living
+Kamano	kbq	Living
+Kamantan	kci	Living
+Kamar	keq	Living
+Kamara	jmr	Living
+Kamarian	kzx	Living
+Kamaru	kgx	Living
+Kamasa	klp	Living
+Kamasau	kms	Living
+Kamayo	kyk	Living
+Kamayurá	kay	Living
+Kamba (Kenya)	kam	Living
+Kambaata	ktb	Living
+Kambaira	kyy	Living
+Kambera	xbr	Living
+Kamberau	irx	Living
+Kami (Nigeria)	kmi	Living
+Kami (Tanzania)	kcu	Living
+Kamo	kcq	Living
+Kamoro	kgq	Living
+Kamula	xla	Living
+Kamviri	xvi	Living
+Kamwe	hig	Living
+Kanakanabu	xnb	Living
+Kanamarí	knm	Living
+Kanan	zkn	Living
+Kanashi	xns	Living
+Kanasi	soq	Living
+Kanauji	bjj	Living
+Kandas	kqw	Living
+Kandawo	gam	Living
+Kande	kbs	Living
+Kanembu	kbl	Living
+Kang	kyp	Living
+Kanga	kcp	Living
+Kangean	kkv	Living
+Kanggape	igm	Living
+Kangjia	kxs	Living
+Kango (Bas-Uélé District)	kty	Living
+Kango (Tshopo District)	kzy	Living
+Kangri	xnr	Living
+Kanikkaran	kev	Living
+Kaningdon-Nindem	kdp	Living
+Kaningi	kzo	Living
+Kaningra	knr	Living
+Kaninuwa	wat	Living
+Kanite	kmu	Living
+Kanjari	kft	Living
+Kanju	kbe	Living
+Kankanaey	kne	Living
+Kannada	kan	Living
+Kannada Kurumba	kfi	Living
+Kanowit-Tanjong Melanau	kxn	Living
+Kansa	ksk	Living
+Kantosi	xkt	Living
+Kanu	khx	Living
+Kanufi	kni	Living
+Kanuri	kau	Living
+Kanyok	kny	Living
+Kao	kax	Living
+Kaonde	kqn	Living
+Kap	ykm	Living
+Kapin	tbx	Living
+Kapingamarangi	kpg	Living
+Kapori	khp	Living
+Kapriman	dju	Living
+Kaptiau	kbi	Living
+Kapya	klo	Living
+Kaqchikel	cak	Living
+Kara (Central African Republic)	kah	Living
+Kara (Papua New Guinea)	leu	Living
+Kara (Tanzania)	reg	Living
+Karachay-Balkar	krc	Living
+Karadjeri	gbd	Living
+Karagas	kim	Living
+Karahawyana	xkh	Living
+Karaim	kdr	Living
+Karajá	kpj	Living
+Kara-Kalpak	kaa	Living
+Karamojong	kdj	Living
+Karang	kzr	Living
+Karanga	kth	Living
+Karao	kyj	Living
+Karas	kgv	Living
+Karata	kpt	Living
+Karawa	xrw	Living
+Karbi	mjw	Living
+Kare (Central African Republic)	kbn	Living
+Kare (Papua New Guinea)	kmf	Living
+Karekare	kai	Living
+Karelian	krl	Living
+Karey	kyd	Living
+Kari	kbj	Living
+Karingani	kgn	Living
+Karipuna	kuq	Living
+Karipúna Creole French	kmv	Living
+Karitiâna	ktn	Living
+Kariya	kil	Living
+Karkar-Yuri	yuj	Living
+Karko	kko	Living
+Karnai	bbv	Living
+Karo (Brazil)	arr	Living
+Karo (Ethiopia)	kxh	Living
+Karok	kyh	Living
+Karon	krx	Living
+Karon Dori	kgw	Living
+Karore	xkx	Living
+Kasanga	ccj	Living
+Kasem	xsm	Living
+Kashaya	kju	Living
+Kashmiri	kas	Living
+Kashubian	csb	Living
+Kasiguranin	ksn	Living
+Kaska	kkz	Living
+Kasseng	kgc	Living
+Kasua	khs	Living
+Kataang	kgd	Living
+Katawixi	xat	Living
+Katbol	tmb	Living
+Katcha-Kadugli-Miri	xtc	Living
+Kâte	kmg	Living
+Kathoriya Tharu	tkt	Living
+Kathu	ykt	Living
+Kati	bsh	Living
+Katkari	kfu	Living
+Katla	kcr	Living
+Katso	kaf	Living
+Katua	kta	Living
+Katukína	kav	Living
+Kaulong	pss	Living
+Kaur	vkk	Living
+Kaure	bpp	Living
+Kauwera	xau	Living
+Kavalan	ckv	Living
+Kavet	krv	Living
+Kawacha	kcb	Living
+Kawaiisu	xaw	Living
+Kawe	kgb	Living
+Kaxararí	ktx	Living
+Kayabí	kyz	Living
+Kayagar	kyt	Living
+Kayan	pdu	Living
+Kayan Mahakam	xay	Living
+Kayan River Kayan	xkn	Living
+Kayapa Kallahan	kak	Living
+Kayapó	txu	Living
+Kayardild	gyd	Living
+Kayaw	kvl	Living
+Kayeli	kzl	Living
+Kayong	kxy	Living
+Kayort	kyv	Living
+Kaytetye	gbb	Living
+Kayupulau	kzu	Living
+Kazakh	kaz	Living
+Keak	keh	Living
+Keapara	khz	Living
+Kedah Malay	meo	Living
+Kedang	ksx	Living
+Keder	kdy	Living
+Kehu	khh	Living
+Kei	kei	Living
+Keiga	kec	Living
+Kein	bmh	Living
+Keiyo	eyo	Living
+Kekchí	kek	Living
+Kela (Democratic Republic of Congo)	kel	Living
+Kela (Papua New Guinea)	kcl	Living
+Kelabit	kzi	Living
+Kélé	keb	Living
+Kele (Democratic Republic of Congo)	khy	Living
+Kele (Papua New Guinea)	sbc	Living
+Kelengaxo Bozo	bzx	Living
+Keley-I Kallahan	ify	Living
+Keliko	kbo	Living
+Kelo	xel	Living
+Kelon	kyo	Living
+Kemak	kem	Living
+Kembayan	xem	Living
+Kemberano	bzp	Living
+Kembra	xkw	Living
+Kemedzung	dmo	Living
+Kemiehua	kfj	Living
+Kemtuik	kmt	Living
+Kenati	gat	Living
+Kendayan	knx	Living
+Kendeje	klf	Living
+Kendem	kvm	Living
+Kenga	kyq	Living
+Keningau Murut	kxi	Living
+Keninjal	knl	Living
+Kensiu	kns	Living
+Kenswei Nsei	ndb	Living
+Kenyan Sign Language	xki	Living
+Kenyang	ken	Living
+Kenyi	lke	Living
+Kenzi	xnz	Living
+Ke'o	xxk	Living
+Keoru-Ahia	xeu	Living
+Kepo'	kuk	Living
+Kera	ker	Living
+Kerak	hhr	Living
+Kereho	xke	Living
+Kerewe	ked	Living
+Kerewo	kxz	Living
+Kerinci	kvr	Living
+Kesawai	xes	Living
+Ket	ket	Living
+Kete	kcv	Living
+Ketengban	xte	Living
+Ketum	ktt	Living
+Keyagana	kyg	Living
+Kgalagadi	xkv	Living
+Khakas	kjh	Living
+Khalaj	kjf	Living
+Khaling	klr	Living
+Khamba	kbg	Living
+Khams Tibetan	khg	Living
+Khamti	kht	Living
+Khamyang	ksu	Living
+Khana	ogo	Living
+Khandesi	khn	Living
+Kháng	kjm	Living
+Khanty	kca	Living
+Khao	xao	Living
+Kharam Naga	kfw	Living
+Kharia	khr	Living
+Kharia Thar	ksy	Living
+Khasi	kha	Living
+Khayo	lko	Living
+Khe	kqg	Living
+Khehek	tlx	Living
+Khengkha	xkf	Living
+Khetrani	xhe	Living
+Khezha Naga	nkh	Living
+Khiamniungan Naga	kix	Living
+Khinalugh	kjj	Living
+Khirwar	kwx	Living
+Khisa	kqm	Living
+Khlor	llo	Living
+Khlula	ykl	Living
+Khmu	kjg	Living
+Khoekhoe	naq	Living
+Khoibu Naga	nkb	Living
+Kho'ini	xkc	Living
+Kholok	ktc	Living
+Khorasani Turkish	kmz	Living
+Khowar	khw	Living
+Khua	xhv	Living
+Khuen	khf	Living
+Khumi Chin	cnk	Living
+Khün	kkh	Living
+Khunsari	kfm	Living
+Khvarshi	khv	Living
+Khwe	hnh	Living
+Kibet	kie	Living
+Kibiri	prm	Living
+K'iche'	quc	Living
+Kickapoo	kic	Living
+Kikai	kzg	Living
+Kikuyu	kik	Living
+Kildin Sami	sjd	Living
+Kilivila	kij	Living
+Kiliwa	klb	Living
+Kilmeri	kih	Living
+Kim	kia	Living
+Kim Mun	mji	Living
+Kimaama	kig	Living
+Kimaragang	kqr	Living
+Kimbu	kiv	Living
+Kimbundu	kmb	Living
+Kimki	sbt	Living
+Kimré	kqp	Living
+Kinabalian	cbw	Living
+Kinalakna	kco	Living
+Kinamiging Manobo	mkx	Living
+Kinaray-A	krj	Living
+Kinga	zga	Living
+Kinnauri	kfk	Living
+Kintaq	knq	Living
+Kinuku	kkd	Living
+Kinyarwanda	kin	Living
+Kioko	ues	Living
+Kiong	kkm	Living
+Kiorr	xko	Living
+Kiowa	kio	Living
+Kiowa Apache	apk	Living
+Kipsigis	sgc	Living
+Kiput	kyi	Living
+Kir-Balar	kkr	Living
+Kire	geb	Living
+Kirghiz	kir	Living
+Kirike	okr	Living
+Kirikiri	kiy	Living
+Kirmanjki (individual language)	kiu	Living
+Kirya-Konzel	fkk	Living
+Kis	kis	Living
+Kisa	lks	Living
+Kisan	xis	Living
+Kisankasa	kqh	Living
+Kisar	kje	Living
+Kisi	kiz	Living
+Kistane	gru	Living
+Kita Maninkakan	mwk	Living
+Kitja	gia	Living
+Kituba (Congo)	mkw	Living
+Kituba (Democratic Republic of Congo)	ktu	Living
+Kiunum	wei	Living
+Kla-Dan	lda	Living
+Klao	klu	Living
+Klias River Kadazan	kqt	Living
+Ko	fuj	Living
+Koalib	kib	Living
+Koasati	cku	Living
+Koba	kpd	Living
+Kobiana	kcj	Living
+Kobol	kgu	Living
+Kobon	kpw	Living
+Koch	kdq	Living
+Kochila Tharu	thq	Living
+Koda	cdz	Living
+Kodaku	ksz	Living
+Kodava	kfa	Living
+Kodeoha	vko	Living
+Kodi	kod	Living
+Kodia	kwp	Living
+Koenoem	kcs	Living
+Kofa	kso	Living
+Kofei	kpi	Living
+Kofyar	kwl	Living
+Kohin	kkx	Living
+Kohistani Shina	plk	Living
+Koho	kpm	Living
+Kohumono	bcs	Living
+Koi	kkt	Living
+Koireng	nkd	Living
+Koitabu	kqi	Living
+Koiwat	kxt	Living
+Kok Borok	trp	Living
+Kokata	ktd	Living
+Koke	kou	Living
+Koki Naga	nxk	Living
+Kokoda	xod	Living
+Kokola	kzn	Living
+Kokota	kkk	Living
+Kol (Bangladesh)	ekl	Living
+Kol (Cameroon)	biw	Living
+Kol (Papua New Guinea)	kol	Living
+Kola	kvv	Living
+Kolbila	klc	Living
+Kolibugan Subanon	skn	Living
+Kölsch	ksh	Living
+Koluwawa	klx	Living
+Kom (Cameroon)	bkm	Living
+Kom (India)	kmm	Living
+Koma	kmy	Living
+Komba	kpf	Living
+Kombai	tyn	Living
+Kombio	xbi	Living
+Komering	kge	Living
+Komi	kom	Living
+Kominimung	xoi	Living
+Komi-Permyak	koi	Living
+Komi-Zyrian	kpv	Living
+Komo (Democratic Republic of Congo)	kmw	Living
+Komo (Sudan)	xom	Living
+Komodo	kvh	Living
+Kompane	kvp	Living
+Komyandaret	kzv	Living
+Kon Keu	kkn	Living
+Konai	kxw	Living
+Konda	knd	Living
+Konda-Dora	kfc	Living
+Koneraw	kdw	Living
+Kongo	kon	Living
+Konkani (individual language)	knn	Living
+Konkani (macrolanguage)	kok	Living
+Konkomba	xon	Living
+Konni	kma	Living
+Kono (Guinea)	knu	Living
+Kono (Nigeria)	klk	Living
+Kono (Sierra Leone)	kno	Living
+Konomala	koa	Living
+Konongo	kcz	Living
+Konso	kxc	Living
+Konyak Naga	nbe	Living
+Konyanka Maninka	mku	Living
+Konzo	koo	Living
+Koongo	kng	Living
+Koonzime	ozm	Living
+Koorete	kqy	Living
+Kopar	xop	Living
+Kopkaka	opk	Living
+Korafe-Yegha	kpr	Living
+Korak	koz	Living
+Korandje	kcy	Living
+Korean	kor	Living
+Korean Sign Language	kvk	Living
+Koreguaje	coe	Living
+Koresh-e Rostam	okh	Living
+Korku	kfq	Living
+Korlai Creole Portuguese	vkp	Living
+Koro (Côte d'Ivoire)	kfo	Living
+Koro (India)	jkr	Living
+Koro (Papua New Guinea)	kxr	Living
+Koro (Vanuatu)	krf	Living
+Koro Wachi	bqv	Living
+Koromfé	kfz	Living
+Koromira	kqj	Living
+Koronadal Blaan	bpr	Living
+Koroni	xkq	Living
+Korop	krp	Living
+Koroshi	ktl	Living
+Korowai	khe	Living
+Korra Koraga	kfd	Living
+Korubo	xor	Living
+Korupun-Sela	kpq	Living
+Korwa	kfp	Living
+Koryak	kpy	Living
+Kosadle	kiq	Living
+Kosarek Yale	kkl	Living
+Kosena	kze	Living
+Koshin	kid	Living
+Kosraean	kos	Living
+Kota (Gabon)	koq	Living
+Kota (India)	kfe	Living
+Kota Bangun Kutai Malay	mqg	Living
+Kota Marudu Talantang	grm	Living
+Kota Marudu Tinagas	ktr	Living
+Kotafon Gbe	kqk	Living
+Koti	eko	Living
+Kouya	kyf	Living
+Kovai	kqb	Living
+Kove	kvc	Living
+Kowaki	xow	Living
+Kowiai	kwh	Living
+Koy Sanjaq Surat	kqd	Living
+Koya	kff	Living
+Koyaga	kga	Living
+Koyo	koh	Living
+Koyra Chiini Songhay	khq	Living
+Koyraboro Senni Songhai	ses	Living
+Koyukon	koy	Living
+Kpagua	kuw	Living
+Kpala	kpl	Living
+Kpan	kpk	Living
+Kpasam	pbn	Living
+Kpatili	kym	Living
+Kpeego	cpo	Living
+Kpelle	kpe	Living
+Kpessi	kef	Living
+Kplang	kph	Living
+Krache	kye	Living
+Krahô	xra	Living
+Kraol	rka	Living
+Krenak	kqq	Living
+Kreye	xre	Living
+Krikati-Timbira	xri	Living
+Krim	krm	Living
+Krio	kri	Living
+Kriol	rop	Living
+Krisa	ksi	Living
+Krobu	kxb	Living
+Krongo	kgo	Living
+Kru'ng 2	krr	Living
+Krymchak	jct	Living
+Kryts	kry	Living
+Kua	tyu	Living
+Kuamasi	yku	Living
+Kuan	uan	Living
+Kuanhua	xnh	Living
+Kua-nsi	ykn	Living
+Kuanua	ksd	Living
+Kuanyama	kua	Living
+Kube	kgf	Living
+Kubo	jko	Living
+Kubu	kvb	Living
+Kucong	lkc	Living
+Kudiya	kfg	Living
+Kudmali	kyw	Living
+Kudu-Camo	kov	Living
+Kugama	kow	Living
+Kugbo	kes	Living
+Kui (India)	kxu	Living
+Kui (Indonesia)	kvd	Living
+Kuijau	dkr	Living
+Kuikúro-Kalapálo	kui	Living
+Kujarge	vkj	Living
+Kuk	kfn	Living
+Kukatja	kux	Living
+Kuke	ght	Living
+Kukele	kez	Living
+Kukna	kex	Living
+Kuku-Muminh	xmh	Living
+Kuku-Uwanh	uwa	Living
+Kuku-Yalanji	gvn	Living
+Kula	tpg	Living
+Kulere	kul	Living
+Kulfa	kxj	Living
+Kulina Pano	xpk	Living
+Kulisusu	vkl	Living
+Kullu Pahari	kfx	Living
+Kulon-Pazeh	uun	Living
+Kulung (Nepal)	kle	Living
+Kulung (Nigeria)	bbu	Living
+Kumalu	ksl	Living
+Kumam	kdi	Living
+Kuman (Papua New Guinea)	kue	Living
+Kumaoni	kfy	Living
+Kumarbhag Paharia	kmj	Living
+Kumba	ksm	Living
+Kumbainggar	kgs	Living
+Kumbaran	wkb	Living
+Kumbewaha	xks	Living
+Kumhali	kra	Living
+Kumiai	dih	Living
+Kumukio	kuo	Living
+Kumyk	kum	Living
+Kumzari	zum	Living
+Kunama	kun	Living
+Kunbarlang	wlg	Living
+Kunda	kdn	Living
+Kundal Shahi	shd	Living
+Kunduvadi	wku	Living
+Kung	kfl	Living
+Kung-Ekoka	knw	Living
+Kunggara	kvs	Living
+Kuni	kse	Living
+Kuni-Boazi	kvg	Living
+Kunigami	xug	Living
+Kunimaipa	kup	Living
+Kunja	pep	Living
+Kunjen	kjn	Living
+Kunyi	njx	Living
+Kuo	xuo	Living
+Kuot	kto	Living
+Kupa	kug	Living
+Kupang Malay	mkn	Living
+Kupia	key	Living
+Kupsabiny	kpz	Living
+Kur	kuv	Living
+Kura Ede Nago	nqk	Living
+Kurama	krh	Living
+Kuranko	knk	Living
+Kurdish	kur	Living
+Kuri	nbn	Living
+Kuria	kuj	Living
+Kurichiya	kfh	Living
+Kurmukar	kfv	Living
+Kurnai	unn	Living
+Kurrama	vku	Living
+Kurti	ktm	Living
+Kurtokha	xkz	Living
+Kuruáya	kyr	Living
+Kurudu	kjr	Living
+Kurukh	kru	Living
+Kusaal	kus	Living
+Kusaghe	ksg	Living
+Kushi	kuh	Living
+Kusu	ksv	Living
+Kusunda	kgg	Living
+Kutenai	kut	Living
+Kutep	kub	Living
+Kutong	skm	Living
+Kutto	kpa	Living
+Kutu	kdc	Living
+Kuturmi	khj	Living
+Kuuku-Ya'u	kuy	Living
+Kuvi	kxv	Living
+Kuwaa	blh	Living
+Kuwaataay	cwt	Living
+Kuy	kdt	Living
+Kven Finnish	fkv	Living
+Kwa	kwb	Living
+Kwa'	bko	Living
+Kwaami	ksq	Living
+Kwaio	kwd	Living
+Kwaja	kdz	Living
+Kwakiutl	kwk	Living
+Kwakum	kwu	Living
+Kwama	kmq	Living
+Kwambi	kwm	Living
+Kwamera	tnk	Living
+Kwami	ktf	Living
+Kwamtim One	okk	Living
+Kwang	kvi	Living
+Kwanga	kwj	Living
+Kwangali	kwn	Living
+Kwanja	knp	Living
+Kwara'ae	kwf	Living
+Kwasio	nmg	Living
+Kwaya	kya	Living
+Kwaza	xwa	Living
+Kwegu	xwg	Living
+Kwer	kwr	Living
+Kwerba	kwe	Living
+Kwerba Mamberamo	xwr	Living
+Kwere	cwe	Living
+Kwerisa	kkb	Living
+Kwese	kws	Living
+Kwesten	kwt	Living
+Kwini	gww	Living
+Kwinsu	kuc	Living
+Kwinti	kww	Living
+Kwoma	kmo	Living
+Kwomtari	kwo	Living
+Kxoe	xuu	Living
+Kyak	bka	Living
+Kyaka	kyc	Living
+Kyanga	tye	Living
+Kyan-Karyaw Naga	nqq	Living
+Kyenele	kql	Living
+Kyerung	kgy	Living
+Láá Láá Bwamu	bwj	Living
+Laal	gdm	Living
+Laari	ldi	Living
+Laba	lau	Living
+Label	lbb	Living
+La'bi	lbi	Living
+Labir	jku	Living
+Labo	mwi	Living
+Labo Phowa	ypb	Living
+Labu	lbu	Living
+Labuk-Kinabatangan Kadazan	dtb	Living
+Lacandon	lac	Living
+Lachi	lbt	Living
+Lachiguiri Zapotec	zpa	Living
+Lachixío Zapotec	zpl	Living
+Ladakhi	lbj	Living
+Ladin	lld	Living
+Ladino	lad	Living
+Laeko-Libuat	lkl	Living
+Lafofa	laf	Living
+Laghu	lgb	Living
+Laghuu	lgh	Living
+Lagwan	kot	Living
+Laha (Indonesia)	lhh	Living
+Laha (Viet Nam)	lha	Living
+Lahanan	lhn	Living
+Lahnda	lah	Living
+Lahta Karen	kvt	Living
+Lahu	lhu	Living
+Lahu Shi	lhi	Living
+Lahul Lohar	lhl	Living
+Laimbue	lmx	Living
+Laitu Chin	clj	Living
+Laiyolo	lji	Living
+Lak	lbe	Living
+Laka (Chad)	lap	Living
+Laka (Nigeria)	lak	Living
+Lakalei	lka	Living
+Lake Miwok	lmw	Living
+Lakha	lkh	Living
+Laki	lki	Living
+Lakkia	lbc	Living
+Lakon	lkn	Living
+Lakondê	lkd	Living
+Lakota	lkt	Living
+Lakota Dida	dic	Living
+Lala	nrz	Living
+Lala-Bisa	leb	Living
+Lalana Chinantec	cnl	Living
+Lala-Roba	lla	Living
+Lalia	lal	Living
+Lama (Togo)	las	Living
+Lama Bai	lay	Living
+Lamaholot	slp	Living
+Lamalera	lmr	Living
+Lamang	hia	Living
+Lamatuka	lmq	Living
+Lamba	lam	Living
+Lambadi	lmn	Living
+Lambayeque Quechua	quf	Living
+Lambichhong	lmh	Living
+Lamboya	lmy	Living
+Lambya	lai	Living
+Lame	bma	Living
+Lamenu	lmu	Living
+Lamet	lbn	Living
+Lamja-Dengsa-Tola	ldh	Living
+Lamkang	lmk	Living
+Lamma	lev	Living
+Lamnso'	lns	Living
+Lamogai	lmg	Living
+Lampung Api	ljp	Living
+Lampung Nyo	abl	Living
+Lamu	llh	Living
+Lanas Lobu	ruu	Living
+Landoma	ldm	Living
+Langam	lnm	Living
+Langbashe	lna	Living
+Lang'e	yne	Living
+Langi	lag	Living
+Langnian Buyang	yln	Living
+Lango (Sudan)	lno	Living
+Lango (Uganda)	laj	Living
+Langue des signes de Belgique Francophone	sfb	Living
+Lanoh	lnh	Living
+Lao	lao	Living
+Lao Naga	nlq	Living
+Laomian	lwm	Living
+Laopang	lbg	Living
+Laos Sign Language	lso	Living
+Lapaguía-Guivini Zapotec	ztl	Living
+Larantuka Malay	lrt	Living
+Lardil	lbz	Living
+Larevat	lrv	Living
+Large Flowery Miao	hmd	Living
+Lari	lrl	Living
+Larike-Wakasihu	alo	Living
+Laro	lro	Living
+Larteh	lar	Living
+Laru	lan	Living
+Lasalimu	llm	Living
+Lasgerdi	lsa	Living
+Lashi	lsi	Living
+Lasi	lss	Living
+Latgalian	ltg	Living
+Latu	ltu	Living
+Latundê	ltn	Living
+Latvian	lav	Living
+Latvian Sign Language	lsl	Living
+Lau	llu	Living
+Laua	luf	Living
+Lauan	llx	Living
+Lauje	law	Living
+Laura	lur	Living
+Lautu Chin	clt	Living
+Lavatbura-Lamusong	lbv	Living
+Lave	brb	Living
+Laven	lbo	Living
+Lavukaleve	lvk	Living
+Lawangan	lbx	Living
+Lawu	lwu	Living
+Lawunuia	tgi	Living
+Layakha	lya	Living
+Laz	lzz	Living
+Lealao Chinantec	cle	Living
+Leco	lec	Living
+Ledo Kaili	lew	Living
+Leelau	ldk	Living
+Lefa	lfa	Living
+Lega-Mwenga	lgm	Living
+Lega-Shabunda	lea	Living
+Legbo	agb	Living
+Legenyem	lcc	Living
+Lehali	tql	Living
+Lehalurup	urr	Living
+Lehar	cae	Living
+Leinong Naga	lzn	Living
+Leipon	lek	Living
+Lele (Chad)	lln	Living
+Lele (Democratic Republic of Congo)	lel	Living
+Lele (Guinea)	llc	Living
+Lele (Papua New Guinea)	lle	Living
+Lelemi	lef	Living
+Lelepa	lpa	Living
+Lembena	leq	Living
+Lemerig	lrz	Living
+Lemio	lei	Living
+Lemolang	ley	Living
+Lemoro	ldj	Living
+Lenakel	tnl	Living
+Lendu	led	Living
+Lengilu	lgi	Living
+Lengo	lgr	Living
+Lengola	lej	Living
+Lenje	leh	Living
+Lenkau	ler	Living
+Lenyima	ldg	Living
+Lepcha	lep	Living
+Lepki	lpe	Living
+Lere	gnh	Living
+Lese	les	Living
+Lesing-Gelimi	let	Living
+Letemboi	nms	Living
+Leti (Cameroon)	leo	Living
+Leti (Indonesia)	lti	Living
+Levuka	lvu	Living
+Lewo	lww	Living
+Lewo Eleng	lwe	Living
+Lewotobi	lwt	Living
+Leyigha	ayi	Living
+Lezghian	lez	Living
+Lhokpu	lhp	Living
+Lhomi	lhm	Living
+Liabuku	lix	Living
+Liana-Seti	ste	Living
+Liangmai Naga	njn	Living
+Lianshan Zhuang	zln	Living
+Liberia Kpelle	xpe	Living
+Liberian English	lir	Living
+Libido	liq	Living
+Libinza	liz	Living
+Libon Bikol	lbl	Living
+Libyan Arabic	ayl	Living
+Libyan Sign Language	lbs	Living
+Ligbi	lig	Living
+Ligenza	lgz	Living
+Ligurian	lij	Living
+Lihir	lih	Living
+Lijili	mgi	Living
+Lika	lik	Living
+Liki	lio	Living
+Likila	lie	Living
+Likuba	kxx	Living
+Likum	lib	Living
+Likwala	kwc	Living
+Lilau	lll	Living
+Lillooet	lil	Living
+Limassa	bme	Living
+Limbu	lif	Living
+Limbum	lmp	Living
+Limburgan	lim	Living
+Limi	ylm	Living
+Limos Kalinga	kmk	Living
+Lindu	klw	Living
+Lingala	lin	Living
+Lingao	onb	Living
+Lingarak	lgk	Living
+Li'o	ljl	Living
+Lipan Apache	apl	Living
+Lipo	lpo	Living
+Lisabata-Nuniali	lcs	Living
+Lisela	lcl	Living
+Lish	lsh	Living
+Lishán Didán	trg	Living
+Lishana Deni	lsd	Living
+Lishanid Noshan	aij	Living
+Lisu	lis	Living
+Lithuanian	lit	Living
+Lithuanian Sign Language	lls	Living
+Litzlitz	lzl	Living
+Liujiang Zhuang	zlj	Living
+Liuqian Zhuang	zlq	Living
+Liv	liv	Living
+Livvi	olo	Living
+Loarki	lrk	Living
+Lobala	loq	Living
+Lobi	lob	Living
+Lodhi	lbm	Living
+Logba	lgq	Living
+Logo	log	Living
+Logol	lof	Living
+Logooli	rag	Living
+Logorik	liu	Living
+Logudorese Sardinian	src	Living
+Lohorung	lbr	Living
+Loja Highland Quichua	qvj	Living
+Lokaa	yaz	Living
+Loke	loy	Living
+Loko	lok	Living
+Lokoya	lky	Living
+Lola	lcd	Living
+Lolak	llq	Living
+Lole	llg	Living
+Lolo	llb	Living
+Loloda	loa	Living
+Lolopo	ycl	Living
+Loma (Côte d'Ivoire)	loi	Living
+Loma (Liberia)	lom	Living
+Lomaiviti	lmv	Living
+Lomavren	rmi	Living
+Lombard	lmo	Living
+Lombi	lmi	Living
+Lombo	loo	Living
+Lomwe	ngl	Living
+Loncong	lce	Living
+Long Phuri Naga	lpn	Living
+Long Wat	ttw	Living
+Longgu	lgu	Living
+Longto	wok	Living
+Longuda	lnu	Living
+Loniu	los	Living
+Lonwolwol	crc	Living
+Lonzo	lnz	Living
+Loo	ldo	Living
+Lopa	lop	Living
+Lopi	lov	Living
+Lopit	lpx	Living
+Lorang	lrn	Living
+Lorediakarkar	lnn	Living
+Loreto-Ucayali Spanish	spq	Living
+Lote	uvl	Living
+Lotha Naga	njh	Living
+Lo-Toga	lht	Living
+Lotud	dtr	Living
+Lou	loj	Living
+Louisiana Creole French	lou	Living
+Loun	lox	Living
+Low German	nds	Living
+Lower Grand Valley Dani	dni	Living
+Lower Silesian	sli	Living
+Lower Sorbian	dsb	Living
+Lower Tanana	taa	Living
+Lower Ta'oih	tto	Living
+Lowland Oaxaca Chontal	clo	Living
+Lowland Tarahumara	tac	Living
+Loxicha Zapotec	ztp	Living
+Lozi	loz	Living
+Lü	khb	Living
+Lua'	prb	Living
+Luang	lex	Living
+Luba-Katanga	lub	Living
+Luba-Lulua	lua	Living
+Lubila	kcc	Living
+Lubu	lcf	Living
+Lubuagan Kalinga	knb	Living
+Luchazi	lch	Living
+Lucumi	luq	Living
+Ludian	lud	Living
+Lufu	ldq	Living
+Lugbara	lgg	Living
+Luguru	ruf	Living
+Luhu	lcq	Living
+Luimbi	lum	Living
+Luiseno	lui	Living
+Lukpa	dop	Living
+Lule Sami	smj	Living
+Lumba-Yakkha	luu	Living
+Lumbu	lup	Living
+Lumun	lmd	Living
+Luna	luj	Living
+Lunanakha	luk	Living
+Lunda	lun	Living
+Lundayeh	lnd	Living
+Lungalunga	vmg	Living
+Lungga	lga	Living
+Luo (Cameroon)	luw	Living
+Luo (Kenya and Tanzania)	luo	Living
+Luopohe Hmong	hml	Living
+Luri	ldd	Living
+Lusengo	lse	Living
+Lushai	lus	Living
+Lushootseed	lut	Living
+Lusi	khl	Living
+Lutos	ndy	Living
+Luvale	lue	Living
+Luwati	luv	Living
+Luwo	lwo	Living
+Luxembourgish	ltz	Living
+Luyana	lyn	Living
+Luyia	luy	Living
+Lwalu	lwa	Living
+Lyélé	lee	Living
+Lyngngam	lyg	Living
+Lyons Sign Language	lsg	Living
+Ma (Democratic Republic of Congo)	msj	Living
+Ma (Papua New Guinea)	mjn	Living
+Ma Manda	skc	Living
+Maa	cma	Living
+Maaka	mew	Living
+Ma'anyan	mhy	Living
+Maasina Fulfulde	ffm	Living
+Maay	ymm	Living
+Maba (Chad)	mde	Living
+Maba (Indonesia)	mqa	Living
+Mabaale	mmz	Living
+Mabaan	mfz	Living
+Mabaka Valley Kalinga	kkg	Living
+Mabire	muj	Living
+Maca	mca	Living
+Macaguán	mbn	Living
+Macanese	mzs	Living
+Macedonian	mkd	Living
+Macedo-Romanian	rup	Living
+Machame	jmc	Living
+Machiguenga	mcb	Living
+Machinere	mpd	Living
+Machinga	mvw	Living
+Maco	wpc	Living
+Macuna	myy	Living
+Macushi	mbc	Living
+Mada (Cameroon)	mxu	Living
+Mada (Nigeria)	mda	Living
+Madagascar Sign Language	mzc	Living
+Madak	mmx	Living
+Maden	xmx	Living
+Madi	grg	Living
+Ma'di	mhi	Living
+Madngele	zml	Living
+Madurese	mad	Living
+Mae	mme	Living
+Maeng Itneg	itt	Living
+Mafa	maf	Living
+Mafea	mkv	Living
+Magahi	mag	Living
+Mag-antsi Ayta	sgb	Living
+Magbukun Ayta	ayt	Living
+Magdalena Peñasco Mixtec	xtm	Living
+Mághdì	gmd	Living
+Mag-Indi Ayta	blx	Living
+Magiyi	gmg	Living
+Magoma	gmx	Living
+Magori	zgr	Living
+Maguindanaon	mdh	Living
+Mahali	mjx	Living
+Mahasu Pahari	bfz	Living
+Mahongwe	mhb	Living
+Mahou	mxx	Living
+Mai Brat	ayz	Living
+Maia	sks	Living
+Maiadomu	mzz	Living
+Maiani	tnh	Living
+Maii	mmm	Living
+Mailu	mgu	Living
+Maindo	cwb	Living
+Mainfränkisch	vmf	Living
+Mainstream Kenyah	xkl	Living
+Mairasi	zrs	Living
+Maisin	mbq	Living
+Maithili	mai	Living
+Maiwa (Indonesia)	wmm	Living
+Maiwa (Papua New Guinea)	mti	Living
+Maiwala	mum	Living
+Majang	mpe	Living
+Majera	xmj	Living
+Majhi	mjz	Living
+Majhwar	mmj	Living
+Majukayang Kalinga	kmd	Living
+Mak (China)	mkg	Living
+Mak (Nigeria)	pbl	Living
+Makaa	mcp	Living
+Makah	myh	Living
+Makasae	mkz	Living
+Makasar	mak	Living
+Makassar Malay	mfp	Living
+Makayam	aup	Living
+Makhuwa	vmw	Living
+Makhuwa-Marrevone	xmc	Living
+Makhuwa-Meetto	mgh	Living
+Makhuwa-Moniga	mhm	Living
+Makhuwa-Saka	xsq	Living
+Makhuwa-Shirima	vmk	Living
+Maklew	mgf	Living
+Makonde	kde	Living
+Maku'a	lva	Living
+Makuráp	mpu	Living
+Makuri Naga	jmn	Living
+Makwe	ymk	Living
+Makyan Naga	umn	Living
+Mal	mlf	Living
+Mal Paharia	mkb	Living
+Mala (Nigeria)	ruy	Living
+Mala (Papua New Guinea)	ped	Living
+Mala Malasar	ima	Living
+Malaccan Creole Malay	ccm	Living
+Malaccan Creole Portuguese	mcm	Living
+Malagasy	mlg	Living
+Malalamai	mmt	Living
+Malango	mln	Living
+Malankuravan	mjo	Living
+Malapandaram	mjp	Living
+Malas	mkr	Living
+Malasar	ymr	Living
+Malavedan	mjr	Living
+Malawi Lomwe	lon	Living
+Malawi Sena	swk	Living
+Malay (individual language)	zlm	Living
+Malay (macrolanguage)	msa	Living
+Malayalam	mal	Living
+Malayic Dayak	xdy	Living
+Malaynon	mlz	Living
+Malayo	mbp	Living
+Malaysian Sign Language	xml	Living
+Malba Birifor	bfo	Living
+Male (Ethiopia)	mdy	Living
+Male (Papua New Guinea)	mdc	Living
+Malecite-Passamaquoddy	pqm	Living
+Maléku Jaíka	gut	Living
+Maleng	pkt	Living
+Maleu-Kilenge	mgl	Living
+Malfaxal	mlx	Living
+Malgbe	mxf	Living
+Mali	gcc	Living
+Malila	mgq	Living
+Malimba	mzd	Living
+Malimpung	mli	Living
+Malinaltepec Me'phaa	tcf	Living
+Malo	mla	Living
+Malol	mbk	Living
+Maltese	mlt	Living
+Maltese Sign Language	mdl	Living
+Malua Bay	mll	Living
+Malvi	mup	Living
+Mam	mam	Living
+Mama	mma	Living
+Mamaa	mhf	Living
+Mamaindé	wmd	Living
+Mamanwa	mmn	Living
+Mamara Senoufo	myk	Living
+Mamasa	mqj	Living
+Mambae	mgm	Living
+Mambai	mcs	Living
+Mamboru	mvd	Living
+Mambwe-Lungu	mgr	Living
+Mampruli	maw	Living
+Mamuju	mqx	Living
+Mamusi	kdf	Living
+Mamvu	mdi	Living
+Man Met	mml	Living
+Manado Malay	xmm	Living
+Manam	mva	Living
+Manambu	mle	Living
+Manangba	nmm	Living
+Manchu	mnc	Living
+Manda (Australia)	zma	Living
+Manda (India)	mha	Living
+Manda (Tanzania)	mgs	Living
+Mandahuaca	mht	Living
+Mandaic	mid	Living
+Mandan	mhq	Living
+Mandar	mdr	Living
+Mandara	tbf	Living
+Mandari	mqu	Living
+Mandarin Chinese	cmn	Living
+Mandaya	mry	Living
+Mandeali	mjl	Living
+Mander	mqr	Living
+Mandingo	man	Living
+Mandinka	mnk	Living
+Mandjak	mfv	Living
+Mandobo Atas	aax	Living
+Mandobo Bawah	bwp	Living
+Manem	jet	Living
+Mang	zng	Living
+Manga Kanuri	kby	Living
+Mangarayi	mpc	Living
+Mangareva	mrv	Living
+Mangas	zns	Living
+Mangayat	myj	Living
+Mangbetu	mdj	Living
+Mangbutu	mdk	Living
+Mangga Buang	mmo	Living
+Manggarai	mqy	Living
+Mango	mge	Living
+Mangole	mqc	Living
+Mangseng	mbh	Living
+Manide	abd	Living
+Manikion	mnx	Living
+Manipa	mqp	Living
+Manipuri	mni	Living
+Mankanya	knf	Living
+Manna-Dora	mju	Living
+Mannan	mjv	Living
+Mano	mev	Living
+Manombai	woo	Living
+Mansaka	msk	Living
+Mansi	mns	Living
+Mansoanka	msw	Living
+Manta	myg	Living
+Mantsi	nty	Living
+Manumanaw Karen	kxf	Living
+Manusela	wha	Living
+Manx	glv	Living
+Manya	mzj	Living
+Manyawa	mny	Living
+Manyika	mxc	Living
+Manza	mzv	Living
+Mao Naga	nbi	Living
+Maonan	mmd	Living
+Maore Comorian	swb	Living
+Maori	mri	Living
+Mape	mlh	Living
+Mapena	mnm	Living
+Mapia	mpy	Living
+Mapidian	mpw	Living
+Mapos Buang	bzh	Living
+Mapoyo	mcg	Living
+Mapudungun	arn	Living
+Mapun	sjm	Living
+Maquiritari	mch	Living
+Mara	mec	Living
+Mara Chin	mrh	Living
+Marachi	lri	Living
+Maraghei	vmh	Living
+Maragus	mrs	Living
+Maram Naga	nma	Living
+Marama	lrm	Living
+Maramba	myd	Living
+Maranao	mrw	Living
+Maranunggu	zmr	Living
+Mararit	mgb	Living
+Marathi	mar	Living
+Marau	mvr	Living
+Marba	mpg	Living
+Maremgi	mrx	Living
+Marenje	vmr	Living
+Marfa	mvu	Living
+Marghi Central	mrt	Living
+Marghi South	mfm	Living
+Margos-Yarowilca-Lauricocha Quechua	qvm	Living
+Margu	mhg	Living
+Mari (East Sepik Province)	mbx	Living
+Mari (Madang Province)	hob	Living
+Mari (Russia)	chm	Living
+Maria (India)	mrr	Living
+Maria (Papua New Guinea)	mds	Living
+Maricopa	mrc	Living
+Maridan	zmd	Living
+Maridjabin	zmj	Living
+Marik	dad	Living
+Marimanindji	zmm	Living
+Marind	mrz	Living
+Maring	mbw	Living
+Maring Naga	nng	Living
+Maringarr	zmt	Living
+Marino	mrb	Living
+Mariri	mqi	Living
+Marithiel	mfr	Living
+Maritime Sign Language	nsr	Living
+Mariyedi	zmy	Living
+Marka	rkm	Living
+Markweeta	enb	Living
+Marma	rmz	Living
+Marovo	mvo	Living
+Marriammu	xru	Living
+Marshallese	mah	Living
+Marti Ke	zmg	Living
+Martu Wangka	mpj	Living
+Martuyhunira	vma	Living
+Maru	mhx	Living
+Marúbo	mzr	Living
+Marwari	mwr	Living
+Marwari (India)	rwr	Living
+Marwari (Pakistan)	mve	Living
+Masaaba	myx	Living
+Masadiit Itneg	tis	Living
+Masai	mas	Living
+Masalit	mls	Living
+Masana	mcn	Living
+Masbatenyo	msb	Living
+Mashco Piro	cuj	Living
+Mashi (Nigeria)	jms	Living
+Mashi (Zambia)	mho	Living
+Masikoro Malagasy	msh	Living
+Masimasi	ism	Living
+Masiwang	bnf	Living
+Maskelynes	klv	Living
+Maslam	msv	Living
+Masmaje	mes	Living
+Massalat	mdg	Living
+Massep	mvs	Living
+Matal	mfh	Living
+Matbat	xmt	Living
+Matengo	mgv	Living
+Matepi	mqe	Living
+Matigsalug Manobo	mbt	Living
+Matís	mpq	Living
+Mato	met	Living
+Matsés	mcf	Living
+Matu Chin	hlt	Living
+Matukar	mjk	Living
+Matumbi	mgw	Living
+Matya Samo	stj	Living
+Maung	mph	Living
+Mauritian Sign Language	lsy	Living
+Mauwake	mhl	Living
+Mawa (Chad)	mcw	Living
+Mawak	mjj	Living
+Mawan	mcz	Living
+Mawayana	mzx	Living
+Mawchi	mke	Living
+Mawes	mgk	Living
+Maxakalí	mbl	Living
+Maxi Gbe	mxl	Living
+Ma'ya	slz	Living
+Maya Samo	sym	Living
+Mayaguduna	xmy	Living
+Mayangna	yan	Living
+Mayeka	myc	Living
+Mayo	mfy	Living
+Mayogo	mdm	Living
+Mayoyao Ifugao	ifu	Living
+Mazagway	dkx	Living
+Mazaltepec Zapotec	zpy	Living
+Mazanderani	mzn	Living
+Mazatlán Mazatec	vmz	Living
+Mazatlán Mixe	mzl	Living
+Mba	mfc	Living
+Mbala	mdp	Living
+Mbalanhu	lnb	Living
+Mbandja	zmz	Living
+Mbangala	mxg	Living
+Mbangi	mgn	Living
+Mbangwe	zmn	Living
+Mbara (Chad)	mpk	Living
+Mbati	mdn	Living
+Mbato	gwa	Living
+Mbay	myb	Living
+Mbe	mfo	Living
+Mbe'	mtk	Living
+Mbelime	mql	Living
+Mbere	mdt	Living
+Mbesa	zms	Living
+Mbo (Cameroon)	mbo	Living
+Mbo (Democratic Republic of Congo)	zmw	Living
+Mboi	moi	Living
+Mboko	mdu	Living
+Mbole	mdq	Living
+Mbonga	xmb	Living
+Mbongno	bgu	Living
+Mbosi	mdw	Living
+Mbowe	mxo	Living
+Mbre	mka	Living
+Mbudum	xmd	Living
+Mbugu	mhd	Living
+Mbugwe	mgz	Living
+Mbuko	mqb	Living
+Mbukushu	mhw	Living
+Mbula	mna	Living
+Mbula-Bwazza	mbu	Living
+Mbule	mlb	Living
+Mbulungish	mbv	Living
+Mbum	mdd	Living
+Mbunda	mck	Living
+Mbunga	mgy	Living
+Mburku	bbt	Living
+Mbwela	mfu	Living
+Mbyá Guaraní	gun	Living
+Medebur	mjm	Living
+Media Lengua	mue	Living
+Mediak	mwx	Living
+Mednyj Aleut	mud	Living
+Medumba	byv	Living
+Me'en	mym	Living
+Mefele	mfj	Living
+Megam	mef	Living
+Megleno Romanian	ruq	Living
+Mehek	nux	Living
+Mehináku	mmh	Living
+Mehri	gdq	Living
+Mekeo	mek	Living
+Mekmek	mvk	Living
+Mekwei	msf	Living
+Mele-Fila	mxe	Living
+Melo	mfx	Living
+Melpa	med	Living
+Memoni	mby	Living
+Mendalam Kayan	xkd	Living
+Mendankwe-Nkwen	mfd	Living
+Mende (Papua New Guinea)	sim	Living
+Mende (Sierra Leone)	men	Living
+Mengaka	xmg	Living
+Mengen	mee	Living
+Mengisa	mct	Living
+Ménik	tnr	Living
+Menka	mea	Living
+Menominee	mez	Living
+Mentawai	mwv	Living
+Menya	mcr	Living
+Meoswar	mvx	Living
+Mer	mnu	Living
+Meramera	mxm	Living
+Merei	lmb	Living
+Merey	meq	Living
+Meriam	ulk	Living
+Merlav	mrm	Living
+Meru	mer	Living
+Merwari	wry	Living
+Mesaka	iyo	Living
+Mescalero-Chiricahua Apache	apm	Living
+Mese	mci	Living
+Meskwaki	sac	Living
+Mesme	zim	Living
+Mesopotamian Arabic	acm	Living
+Mesqan	mvz	Living
+Meta'	mgo	Living
+Metlatónoc Mixtec	mxv	Living
+Mewari	mtr	Living
+Mewati	wtm	Living
+Mexican Sign Language	mfs	Living
+Meyah	mej	Living
+Mezontla Popoloca	pbe	Living
+Mezquital Otomi	ote	Living
+Mfinu	zmf	Living
+Mfumte	nfu	Living
+Mgbolizhia	gmz	Living
+Miahuatlán Zapotec	zam	Living
+Miami	mia	Living
+Mian	mpt	Living
+Miani	pla	Living
+Michif	crg	Living
+Michoacán Mazahua	mmc	Living
+Michoacán Nahuatl	ncl	Living
+Mid Grand Valley Dani	dnt	Living
+Middle Watut	mpl	Living
+Midob	mei	Living
+Mid-Southern Banda	bjo	Living
+Migaama	mmy	Living
+Migabac	mpp	Living
+Migum	klm	Living
+Miju-Mishmi	mxj	Living
+Mikasuki	mik	Living
+Mi'kmaq	mic	Living
+Mili	ymh	Living
+Miltu	mlj	Living
+Min Bei Chinese	mnp	Living
+Min Dong Chinese	cdo	Living
+Min Nan Chinese	nan	Living
+Min Zhong Chinese	czo	Living
+Mina (Cameroon)	hna	Living
+Mina (India)	myi	Living
+Minangkabau	min	Living
+Minanibai	mcv	Living
+Minaveha	mvn	Living
+Minderico	drc	Living
+Mindiri	mpn	Living
+Mingang Doso	mko	Living
+Mingrelian	xmf	Living
+Minica Huitoto	hto	Living
+Minidien	wii	Living
+Minokok	mqq	Living
+Minriq	mnq	Living
+Mintil	mzt	Living
+Minz Zhuang	zgm	Living
+Miqie	yiq	Living
+Mirandese	mwl	Living
+Miraya Bikol	rbl	Living
+Mirgan	zrg	Living
+Miriwung	mep	Living
+Miship	mjs	Living
+Misima-Panaeati	mpx	Living
+Mising	mrg	Living
+Mískito	miq	Living
+Mitla Zapotec	zaw	Living
+Mitlatongo Mixtec	vmm	Living
+Mituku	zmq	Living
+Miu	mpo	Living
+Mixed Great Andamanese	gac	Living
+Mixtepec Mixtec	mix	Living
+Mixtepec Zapotec	zpm	Living
+Miya	mkf	Living
+Miyako	mvi	Living
+Miyobe	soy	Living
+Mlabri	mra	Living
+Mlap	kja	Living
+Mlomp	mlo	Living
+Mmaala	mmu	Living
+Mmen	bfm	Living
+Moba	mfq	Living
+Mobumrin Aizi	ahm	Living
+Mobwa Karen	jkm	Living
+Mócheno	mhn	Living
+Mochi	old	Living
+Mocho	mhc	Living
+Mocoví	moc	Living
+Mo'da	gbn	Living
+Modang	mxd	Living
+Modern Greek (1453-)	ell	Living
+Modole	mqo	Living
+Moere	mvq	Living
+Mofu-Gudur	mif	Living
+Mogholi	mhj	Living
+Mogofin	mfg	Living
+Mogum	mou	Living
+Mohave	mov	Living
+Mohawk	moh	Living
+Moi (Congo)	mow	Living
+Moi (Indonesia)	mxn	Living
+Moikodi	mkp	Living
+Moingi	mwz	Living
+Moji	ymi	Living
+Mok	mqt	Living
+Moken	mwt	Living
+Mokerang	mft	Living
+Mokilese	mkj	Living
+Moklen	mkm	Living
+Mokole	mkl	Living
+Mokpwe	bri	Living
+Moksha	mdf	Living
+Molbog	pwm	Living
+Moldova Sign Language	vsi	Living
+Molengue	bxc	Living
+Molima	mox	Living
+Molmo One	aun	Living
+Molo	zmo	Living
+Molof	msl	Living
+Moloko	mlw	Living
+Mom Jango	ver	Living
+Moma	myl	Living
+Momare	msz	Living
+Mombo Dogon	dmb	Living
+Mombum	mso	Living
+Momina	mmb	Living
+Momuna	mqf	Living
+Mon	mnw	Living
+Monastic Sign Language	mzg	Living
+Mondé	mnd	Living
+Mondropolon	npn	Living
+Mongo	lol	Living
+Mongol	mgt	Living
+Mongolia Buriat	bxm	Living
+Mongolian	mon	Living
+Mongolian Sign Language	msr	Living
+Mongondow	mog	Living
+Moni	mnz	Living
+Mono (Cameroon)	mru	Living
+Mono (Democratic Republic of Congo)	mnh	Living
+Mono (Solomon Islands)	mte	Living
+Mono (USA)	mnr	Living
+Monom	moo	Living
+Monsang Naga	nmh	Living
+Montagnais	moe	Living
+Montol	mtl	Living
+Monumbo	mxk	Living
+Monzombo	moj	Living
+Moo	gwg	Living
+Moose Cree	crm	Living
+Mopán Maya	mop	Living
+Mor (Bomberai Peninsula)	moq	Living
+Mor (Mor Islands)	mhz	Living
+Moraid	msg	Living
+Morawa	mze	Living
+Morelos Nahuatl	nhm	Living
+Morerebi	xmo	Living
+Moresada	msx	Living
+Mori Atas	mzq	Living
+Mori Bawah	xmz	Living
+Morigi	mdb	Living
+Morisyen	mfe	Living
+Moro	mor	Living
+Moroccan Arabic	ary	Living
+Moroccan Sign Language	xms	Living
+Morokodo	mgc	Living
+Morom	bdo	Living
+Moronene	mqn	Living
+Morori	mok	Living
+Morouas	mrp	Living
+Mortlockese	mrl	Living
+Moru	mgd	Living
+Mosimo	mqv	Living
+Mosiro	mwy	Living
+Moskona	mtj	Living
+Mossi	mos	Living
+Mota	mtt	Living
+Motlav	mlv	Living
+Motu	meu	Living
+Mouk-Aria	mwh	Living
+Mountain Koiali	kpx	Living
+Mouwase	jmw	Living
+Movima	mzp	Living
+Moyadan Itneg	ity	Living
+Moyon Naga	nmo	Living
+Mozambican Sign Language	mzy	Living
+Mpade	mpi	Living
+Mpi	mpz	Living
+Mpiemo	mcx	Living
+Mpoto	mpa	Living
+Mpotovoro	mvt	Living
+Mpumpong	mgg	Living
+Mpuono	zmp	Living
+Mpur	akc	Living
+Mro-Khimi Chin	cmr	Living
+Mru	mro	Living
+Mser	kqx	Living
+Mt. Iraya Agta	atl	Living
+Mt. Iriga Agta	agz	Living
+Mualang	mtd	Living
+Mubami	tsx	Living
+Mubi	mub	Living
+Muda	ymd	Living
+Mudburra	dmw	Living
+Mudhili Gadaba	gau	Living
+Mudu Koraga	vmd	Living
+Muduga	udg	Living
+Mufian	aoj	Living
+Mugom	muk	Living
+Muinane	bmr	Living
+Mukha-Dora	mmk	Living
+Mukulu	moz	Living
+Mulam	mlm	Living
+Mulao	giu	Living
+Mulgi	mvh	Living
+Mullu Kurumba	kpb	Living
+Mullukmulluk	mpb	Living
+Mum	kqa	Living
+Mumuye	mzm	Living
+Mün Chin	mwq	Living
+Muna	mnb	Living
+Munda	unx	Living
+Mundabli	boe	Living
+Mundang	mua	Living
+Mundani	mnf	Living
+Mundari	unr	Living
+Mundat	mmf	Living
+Mündü	muh	Living
+Mundurukú	myu	Living
+Mungaka	mhk	Living
+Munggui	mth	Living
+Mungkip	mpv	Living
+Muniche	myr	Living
+Munit	mtc	Living
+Munji	mnj	Living
+Munsee	umu	Living
+Muong	mtq	Living
+Mur Pano	tkv	Living
+Muratayak	asx	Living
+Murik (Malaysia)	mxr	Living
+Murik (Papua New Guinea)	mtf	Living
+Murkim	rmh	Living
+Murle	mur	Living
+Murrinh-Patha	mwf	Living
+Mursi	muz	Living
+Murui Huitoto	huu	Living
+Murupi	mqw	Living
+Musak	mmq	Living
+Musar	mmi	Living
+Musasa	smm	Living
+Musey	mse	Living
+Musgu	mug	Living
+Mushungulu	xma	Living
+Musi	mui	Living
+Muslim Tat	ttt	Living
+Musom	msu	Living
+Mussau-Emira	emi	Living
+Muthuvan	muv	Living
+Mutu	tuc	Living
+Muya	mvm	Living
+Muyang	muy	Living
+Muyuw	myw	Living
+Muzi	ymz	Living
+Mvanip	mcj	Living
+Mvuba	mxh	Living
+Mwaghavul	sur	Living
+Mwali Comorian	wlc	Living
+Mwan	moa	Living
+Mwani	wmw	Living
+Mwatebu	mwa	Living
+Mwera (Chimwera)	mwe	Living
+Mwera (Nyasa)	mjh	Living
+Mwimbi-Muthambi	mws	Living
+Myene	mye	Living
+Mzieme Naga	nme	Living
+N/u	ngh	Living
+Na	nbt	Living
+Naaba	nao	Living
+Naami	bzv	Living
+Naasioi	nas	Living
+Naba	mne	Living
+Nabak	naf	Living
+Nabi	mty	Living
+Nachering	ncd	Living
+Nadëb	mbj	Living
+Nafaanra	nfr	Living
+Nafi	srf	Living
+Nafri	nxx	Living
+Nafusi	jbn	Living
+Naga Pidgin	nag	Living
+Nagarchal	nbg	Living
+Nage	nxe	Living
+Nahali	nlx	Living
+Nahari	nhh	Living
+Nai	bio	Living
+Najdi Arabic	ars	Living
+Naka'ela	nae	Living
+Nakai	nkj	Living
+Nakame	nib	Living
+Nakanai	nak	Living
+Nakara	nck	Living
+Nake	nbk	Living
+Naki	mff	Living
+Nakwi	nax	Living
+Nalca	nlc	Living
+Nali	nss	Living
+Nalik	nal	Living
+Nalögo	nlz	Living
+Nalu	naj	Living
+Naluo Yi	ylo	Living
+Nama (Papua New Guinea)	nmx	Living
+Namakura	nmk	Living
+Namat	nkm	Living
+Nambo	ncm	Living
+Nambya	nmq	Living
+Ná-Meo	neo	Living
+Namia	nnm	Living
+Namiae	nvm	Living
+Namibian Sign Language	nbs	Living
+Namla	naa	Living
+Namo	mxw	Living
+Namonuito	nmt	Living
+Namosi-Naitasiri-Serua	bwb	Living
+Namuyi	nmy	Living
+Nanai	gld	Living
+Nancere	nnc	Living
+Nande	nnb	Living
+Nandi	niq	Living
+Nanerigé Sénoufo	sen	Living
+Nanga Dama Dogon	nzz	Living
+Nankina	nnk	Living
+Nanti	cox	Living
+Nanubae	afk	Living
+Napo Lowland Quechua	qvo	Living
+Napu	npy	Living
+Nar Phu	npa	Living
+Nara	nrb	Living
+Narak	nac	Living
+Narango	nrg	Living
+Narim	loh	Living
+Naro	nhr	Living
+Narom	nrm	Living
+Narua	nru	Living
+Nasal	nsy	Living
+Nasarian	nvh	Living
+Naskapi	nsk	Living
+Natanzi	ntz	Living
+Nataoran Amis	ais	Living
+Nateni	ntm	Living
+Nathembo	nte	Living
+Natioro	nti	Living
+Natügu	ntu	Living
+Nauete	nxa	Living
+Naukan Yupik	ynk	Living
+Nauna	ncn	Living
+Nauru	nau	Living
+Navajo	nav	Living
+Navut	nsw	Living
+Nawaru	nwr	Living
+Nawdm	nmz	Living
+Nawuri	naw	Living
+Naxi	nxq	Living
+Nayi	noz	Living
+Nayini	nyq	Living
+Ncane	ncr	Living
+Nchumbulu	nlu	Living
+Ndai	gke	Living
+Ndaka	ndk	Living
+Ndaktup	ncp	Living
+Ndali	ndh	Living
+Ndam	ndm	Living
+Ndamba	ndj	Living
+Ndambomo	nxo	Living
+Nda'nda'	nnz	Living
+Ndasa	nda	Living
+Ndau	ndc	Living
+Nde-Gbite	ned	Living
+Ndemli	nml	Living
+Ndendeule	dne	Living
+Ndengereko	ndg	Living
+Nde-Nsele-Nta	ndd	Living
+Ndo	ndp	Living
+Ndobo	ndw	Living
+Ndoe	nbb	Living
+Ndogo	ndz	Living
+Ndolo	ndl	Living
+Ndom	nqm	Living
+Ndombe	ndq	Living
+Ndonde Hamba	njd	Living
+Ndonga	ndo	Living
+Ndoola	ndr	Living
+Nduga	ndx	Living
+Ndumu	nmd	Living
+Ndunda	nuh	Living
+Ndunga	ndt	Living
+Ndut	ndv	Living
+Ndyuka-Trio Pidgin	njt	Living
+Ndzwani Comorian	wni	Living
+Neapolitan	nap	Living
+Nedebang	nec	Living
+Nefamese	nef	Living
+Negeri Sembilan Malay	zmi	Living
+Negidal	neg	Living
+Nehan	nsn	Living
+Nek	nif	Living
+Nekgini	nkg	Living
+Neko	nej	Living
+Neku	nek	Living
+Nêlêmwa-Nixumwak	nee	Living
+Neme	nex	Living
+Nemi	nem	Living
+Nen	nqn	Living
+Nend	anh	Living
+Nenets	yrk	Living
+Nengone	nen	Living
+Nepalese Sign Language	nsp	Living
+Nepali (individual language)	npi	Living
+Nepali (macrolanguage)	nep	Living
+Nepali Kurux	kxl	Living
+Nete	net	Living
+New Caledonian Javanese	jas	Living
+New Zealand Sign Language	nzs	Living
+Newari	new	Living
+Neyo	ney	Living
+Nez Perce	nez	Living
+Ngaanyatjarra	ntj	Living
+Ngäbere	gym	Living
+Ngad'a	nxg	Living
+Ngadjunmaya	nju	Living
+Ngaing	nnf	Living
+Ngaju	nij	Living
+Ngala	nud	Living
+Ngalum	szb	Living
+Ngam	nmc	Living
+Ngamambo	nbv	Living
+Ngambay	sba	Living
+Ngamo	nbh	Living
+Nganasan	nio	Living
+Ngando (Central African Republic)	ngd	Living
+Ngando (Democratic Republic of Congo)	nxd	Living
+Ngandyera	nne	Living
+Ngangam	gng	Living
+Ngan'gityemerri	nam	Living
+Ngardi	rxd	Living
+Ngarinman	nbj	Living
+Ngarinyin	ung	Living
+Ngarla	nrk	Living
+Ngarluma	nrl	Living
+Ngas	anc	Living
+Ngasa	nsg	Living
+Ngatik Men's Creole	ngm	Living
+Ngawn Chin	cnw	Living
+Ngazidja Comorian	zdj	Living
+Ngbaka	nga	Living
+Ngbaka Ma'bo	nbm	Living
+Ngbaka Manza	ngg	Living
+Ngbinda	nbd	Living
+Ngbundu	nuu	Living
+Ngelima	agh	Living
+Ngemba	nge	Living
+Ngeq	ngt	Living
+Ngete	nnn	Living
+Nggem	nbq	Living
+Nggwahyi	ngx	Living
+Ngie	ngj	Living
+Ngiemboon	nnh	Living
+Ngile	jle	Living
+Ngindo	nnq	Living
+Ngiti	niy	Living
+Ngizim	ngi	Living
+Ngkâlmpw Kanum	kcd	Living
+Ngom	nra	Living
+Ngomba	jgo	Living
+Ngombale	nla	Living
+Ngombe (Central African Republic)	nmj	Living
+Ngombe (Democratic Republic of Congo)	ngc	Living
+Ngongo	noq	Living
+Ngoni	ngo	Living
+Ngoshie	nsh	Living
+Ngul	nlo	Living
+Ngulu	ngp	Living
+Nguluwan	nuw	Living
+Ngumbi	nui	Living
+Ngundi	ndn	Living
+Ngundu	nue	Living
+Ngungwel	ngz	Living
+Nguôn	nuo	Living
+Ngurimi	ngq	Living
+Ngwaba	ngw	Living
+Ngwe	nwe	Living
+Ngwo	ngn	Living
+Nhanda	nha	Living
+Nhengatu	yrl	Living
+Nhuwala	nhf	Living
+Nias	nia	Living
+Nicaragua Creole English	bzk	Living
+Nicaraguan Sign Language	ncs	Living
+Niellim	nie	Living
+Nigeria Mambila	mzk	Living
+Nigerian Fulfulde	fuv	Living
+Nigerian Pidgin	pcm	Living
+Nigerian Sign Language	nsi	Living
+Nihali	nll	Living
+Nii	nii	Living
+Nijadali	nad	Living
+Niksek	gbe	Living
+Nila	nil	Living
+Nilamba	nim	Living
+Nimadi	noe	Living
+Nimboran	nir	Living
+Nimi	nis	Living
+Nimo	niw	Living
+Nimoa	nmw	Living
+Ninam	shb	Living
+Nindi	nxi	Living
+Ningera	nby	Living
+Ninggerum	nxr	Living
+Ningil	niz	Living
+Ningye	nns	Living
+Ninia Yali	nlk	Living
+Ninzo	nin	Living
+Nipsan	nps	Living
+Nisa	njs	Living
+Nisenan	nsz	Living
+Nisga'a	ncg	Living
+Nisi (China)	yso	Living
+Niuafo'ou	num	Living
+Niuean	niu	Living
+Nivaclé	cag	Living
+Niwer Mil	hrc	Living
+Njalgulgule	njl	Living
+Njebi	nzb	Living
+Njen	njj	Living
+Njerep	njr	Living
+Njyem	njy	Living
+Nkami	nkq	Living
+Nkangala	nkn	Living
+Nkari	nkz	Living
+Nkem-Nkum	isi	Living
+Nkhumbi	khu	Living
+N'Ko	nqo	Living
+Nkongho	nkc	Living
+Nkonya	nko	Living
+Nkoroo	nkx	Living
+Nkoya	nka	Living
+Nkukoli	nbo	Living
+Nkutu	nkw	Living
+Nnam	nbp	Living
+Nobiin	fia	Living
+Nobonob	gaw	Living
+Nocte Naga	njb	Living
+Nogai	nog	Living
+Noiri	noi	Living
+Nokuku	nkk	Living
+Nomaande	lem	Living
+Nomane	nof	Living
+Nomatsiguenga	not	Living
+Nomu	noh	Living
+Nong Zhuang	zhn	Living
+Nonuya	noj	Living
+Noon	snf	Living
+Noone	nhu	Living
+Nopala Chatino	cya	Living
+North Alaskan Inupiatun	esi	Living
+North Ambrym	mmg	Living
+North Asmat	nks	Living
+North Awyu	yir	Living
+North Azerbaijani	azj	Living
+North Babar	bcd	Living
+North Bolivian Quechua	qul	Living
+North Central Mixe	neq	Living
+North Efate	llp	Living
+North Fali	fll	Living
+North Giziga	gis	Living
+North Junín Quechua	qvn	Living
+North Levantine Arabic	apc	Living
+North Marquesan	mrq	Living
+North Mesopotamian Arabic	ayp	Living
+North Mofu	mfk	Living
+North Moluccan Malay	max	Living
+North Muyu	kti	Living
+North Ndebele	nde	Living
+North Nuaulu	nni	Living
+North Slavey	scs	Living
+North Tairora	tbg	Living
+North Tanna	tnn	Living
+North Wahgi	whg	Living
+North Watut	una	Living
+Northeast Kiwai	kiw	Living
+Northeast Maidu	nmu	Living
+Northeast Pashai	aee	Living
+Northeastern Dinka	dip	Living
+Northeastern Thai	tts	Living
+Northern Alta	aqn	Living
+Northern Altai	atv	Living
+Northern Amami-Oshima	ryn	Living
+Northern Betsimisaraka Malagasy	bmm	Living
+Northern Binukidnon	kyn	Living
+Northern Bobo Madaré	bbo	Living
+Northern Bontok	rbk	Living
+Northern Catanduanes Bikol	cts	Living
+Northern Conchucos Ancash Quechua	qxn	Living
+Northern Dagara	dgi	Living
+Northern Dong	doc	Living
+Northern East Cree	crl	Living
+Northern Emberá	emp	Living
+Northern Frisian	frr	Living
+Northern Ghale	ghh	Living
+Northern Gondi	gno	Living
+Northern Grebo	gbo	Living
+Northern Guiyang Hmong	huj	Living
+Northern Haida	hdn	Living
+Northern Hindko	hno	Living
+Northern Huishui Hmong	hmi	Living
+Northern Kankanay	xnn	Living
+Northern Khmer	kxm	Living
+Northern Kissi	kqs	Living
+Northern Kurdish	kmr	Living
+Northern Luri	lrc	Living
+Northern Mashan Hmong	hmp	Living
+Northern Muji	ymx	Living
+Northern Nago	xkb	Living
+Northern Ngbandi	ngb	Living
+Northern Nisu	yiv	Living
+Northern Nuni	nuv	Living
+Northern Oaxaca Nahuatl	nhy	Living
+Northern Ohlone	cst	Living
+Northern One	onr	Living
+Northern Paiute	pao	Living
+Northern Pame	pmq	Living
+Northern Pashto	pbu	Living
+Northern Pastaza Quichua	qvz	Living
+Northern Puebla Nahuatl	ncj	Living
+Northern Pumi	pmi	Living
+Northern Qiandong Miao	hea	Living
+Northern Qiang	cng	Living
+Northern Rengma Naga	nnl	Living
+Northern Roglai	rog	Living
+Northern Sami	sme	Living
+Northern Sierra Miwok	nsq	Living
+Northern Sorsoganon	bks	Living
+Northern Subanen	stb	Living
+Northern Tarahumara	thh	Living
+Northern Tepehuan	ntp	Living
+Northern Thai	nod	Living
+Northern Tiwa	twf	Living
+Northern Tlaxiaco Mixtec	xtn	Living
+Northern Toussian	tsp	Living
+Northern Tujia	tji	Living
+Northern Tutchone	ttm	Living
+Northern Uzbek	uzn	Living
+Northern Yukaghir	ykg	Living
+Northwest Alaska Inupiatun	esk	Living
+Northwest Gbaya	gya	Living
+Northwest Maidu	mjd	Living
+Northwest Oaxaca Mixtec	mxa	Living
+Northwest Pashai	glh	Living
+Northwestern Dinka	diw	Living
+Northwestern Fars	faz	Living
+Northwestern Kolami	kfb	Living
+Northwestern Nisu	nsf	Living
+Northwestern Ojibwa	ojb	Living
+Northwestern Tamang	tmk	Living
+Norwegian	nor	Living
+Norwegian Bokmål	nob	Living
+Norwegian Nynorsk	nno	Living
+Norwegian Sign Language	nsl	Living
+Notre	bly	Living
+Notsi	ncf	Living
+Noy	noy	Living
+Nsenga	nse	Living
+Nshi	nsc	Living
+Nsongo	nsx	Living
+Ntcham	bud	Living
+Ntomba	nto	Living
+Nubaca	baf	Living
+Nubi	kcn	Living
+Nubri	kte	Living
+Nuer	nus	Living
+Nugunu (Cameroon)	yas	Living
+Nuk	noc	Living
+Nukak Makú	mbr	Living
+Nukna	klt	Living
+Nukumanu	nuq	Living
+Nukuoro	nkr	Living
+Nukuria	nur	Living
+Numana-Nunku-Gbantu-Numbu	nbr	Living
+Numanggang	nop	Living
+Numbami	sij	Living
+Nume	tgs	Living
+Numèè	kdk	Living
+Nung (Viet Nam)	nut	Living
+Nunggubuyu	nuy	Living
+Nungu	rin	Living
+Nupbikha	npb	Living
+Nupe-Nupe-Tako	nup	Living
+Nüpode Huitoto	hux	Living
+Nusa Laut	nul	Living
+Nusu	nuf	Living
+Nuu-chah-nulth	nuk	Living
+Nyabwa	nwb	Living
+Nyaheun	nev	Living
+Nyahkur	cbn	Living
+Nyakyusa-Ngonde	nyy	Living
+Nyâlayu	yly	Living
+Nyali	nlj	Living
+Nyam	nmi	Living
+Nyamal	nly	Living
+Nyambo	now	Living
+Nyamusa-Molo	nwm	Living
+Nyamwanga	mwn	Living
+Nyamwezi	nym	Living
+Nyaneka	nyk	Living
+Nyanga	nyj	Living
+Nyanga-li	nyc	Living
+Nyangatom	nnj	Living
+Nyangbo	nyb	Living
+Nyangumarta	nna	Living
+Nyanja	nya	Living
+Nyankole	nyn	Living
+Nyankpa	yes	Living
+Nyarafolo Senoufo	sev	Living
+Nyaturu	rim	Living
+Nyaw	nyw	Living
+Nyemba	nba	Living
+Nyengo	nye	Living
+Nyenkha	neh	Living
+Nyeu	nyl	Living
+Nyigina	nyh	Living
+Nyiha (Malawi)	nyr	Living
+Nyiha (Tanzania)	nih	Living
+Nyika (Malawi and Zambia)	nkv	Living
+Nyika (Tanzania)	nkt	Living
+Nyindrou	lid	Living
+Nyindu	nyg	Living
+Nyishi	njz	Living
+Nyiyaparli	xny	Living
+Nyokon	nvo	Living
+Nyole	nuj	Living
+Nyong	muo	Living
+Nyore	nyd	Living
+Nyoro	nyo	Living
+Nyunga	nys	Living
+Nyungwe	nyu	Living
+Nzakambay	nzy	Living
+Nzakara	nzk	Living
+Nzanyi	nja	Living
+Nzima	nzi	Living
+Obanliku	bzy	Living
+Oblo	obl	Living
+Obo Manobo	obo	Living
+Obokuitai	afz	Living
+Obolo	ann	Living
+Obulom	obu	Living
+Ocaina	oca	Living
+Occitan (post 1500)	oci	Living
+Ocotepec Mixtec	mie	Living
+Ocotlán Zapotec	zac	Living
+Od	odk	Living
+Odiai	bhf	Living
+Odoodee	kkc	Living
+O'du	tyh	Living
+Odual	odu	Living
+Odut	oda	Living
+Ofayé	opy	Living
+Ogbah	ogc	Living
+Ogbia	ogb	Living
+Ogbogolo	ogg	Living
+Ogbronuagum	ogu	Living
+Ogea	eri	Living
+Oirata	oia	Living
+Ojibwa	oji	Living
+Ojitlán Chinantec	chj	Living
+Okanagan	oka	Living
+Okiek	oki	Living
+Oki-No-Erabu	okn	Living
+Okobo	okb	Living
+Okodia	okd	Living
+Oko-Eni-Osayen	oks	Living
+Okolod	kqv	Living
+Okpamheri	opa	Living
+Okpe (Northwestern Edo)	okx	Living
+Okpe (Southwestern Edo)	oke	Living
+Oksapmin	opm	Living
+Oku	oku	Living
+Olekha	ole	Living
+Olo	ong	Living
+Oloma	olm	Living
+Olrat	olr	Living
+Olu'bo	lul	Living
+Olulumo-Ikom	iko	Living
+Oluta Popoluca	plo	Living
+Omagua	omg	Living
+Omaha-Ponca	oma	Living
+Omani Arabic	acx	Living
+Ombamba	mbm	Living
+Ombo	oml	Living
+Ometepec Nahuatl	nht	Living
+Omi	omi	Living
+Ömie	aom	Living
+Omotik	omt	Living
+Ona	ona	Living
+Oneida	one	Living
+Ong	oog	Living
+Önge	oon	Living
+Onin	oni	Living
+Onin Based Pidgin	onx	Living
+Onjob	onj	Living
+Ono	ons	Living
+Onobasulu	onn	Living
+Onondaga	ono	Living
+Ontenu	ont	Living
+Ontong Java	ojv	Living
+Oorlams	oor	Living
+Opao	opo	Living
+Opuuo	lgn	Living
+Orang Kanaq	orn	Living
+Orang Seletar	ors	Living
+Oraon Sadri	sdr	Living
+Orejón	ore	Living
+Oring	org	Living
+Oriya (individual language)	ory	Living
+Oriya (macrolanguage)	ori	Living
+Orizaba Nahuatl	nlv	Living
+Orma	orc	Living
+Ormu	orz	Living
+Ormuri	oru	Living
+Oro	orx	Living
+Oro Win	orw	Living
+Oroch	oac	Living
+Oroha	ora	Living
+Orok	oaa	Living
+Orokaiva	okv	Living
+Oroko	bdu	Living
+Orokolo	oro	Living
+Oromo	orm	Living
+Oroqen	orh	Living
+Orowe	bpk	Living
+Oruma	orr	Living
+Orya	ury	Living
+Osage	osa	Living
+Osatu	ost	Living
+Osing	osi	Living
+Ososo	oso	Living
+Ossetian	oss	Living
+Ot Danum	otd	Living
+Otank	uta	Living
+Otoro	otr	Living
+Ottawa	otw	Living
+Otuho	lot	Living
+Oune	oue	Living
+Owa	stn	Living
+Owenia	wsr	Living
+Owiniga	owi	Living
+Oy	oyb	Living
+Oya'oya	oyy	Living
+Oyda	oyd	Living
+Ozolotepec Zapotec	zao	Living
+Ozumacín Chinantec	chz	Living
+Pa Di	pdi	Living
+Pa'a	pqa	Living
+Pááfang	pfa	Living
+Paakantyi	drl	Living
+Paama	pma	Living
+Paasaal	sig	Living
+Pacahuara	pcp	Living
+Pacaraos Quechua	qvp	Living
+Pacific Gulf Yupik	ems	Living
+Pacoh	pac	Living
+Padoe	pdo	Living
+Páez	pbb	Living
+Pagi	pgi	Living
+Pagibete	pae	Living
+Pagu	pgu	Living
+Pahanan Agta	apf	Living
+Pahari-Potwari	phr	Living
+Pahi	lgt	Living
+Pahlavani	phv	Living
+Pa-Hng	pha	Living
+Pai Tavytera	pta	Living
+Paicî	pri	Living
+Paipai	ppi	Living
+Paite Chin	pck	Living
+Paiwan	pwn	Living
+Pakaásnovos	pav	Living
+Pakanha	pkn	Living
+Pakistan Sign Language	pks	Living
+Pak-Tong	pkg	Living
+Paku	pku	Living
+Paku Karen	jkp	Living
+Pal	abw	Living
+Palaka Senoufo	plr	Living
+Palantla Chinantec	cpa	Living
+Palauan	pau	Living
+Paleni	pnl	Living
+Palenquero	pln	Living
+Palikúr	plu	Living
+Paliyan	pcf	Living
+Palor	fap	Living
+Palpa	plp	Living
+Paluan	plz	Living
+Palu'e	ple	Living
+Palya Bareli	bpx	Living
+Pam	pmn	Living
+Pambia	pmb	Living
+Pamona	pmf	Living
+Pamosu	hih	Living
+Pampanga	pam	Living
+Pamplona Atta	att	Living
+Pana (Burkina Faso)	pnq	Living
+Pana (Central African Republic)	pnz	Living
+Panamanian Sign Language	lsp	Living
+Panamint	par	Living
+Panao Huánuco Quechua	qxh	Living
+Panará	kre	Living
+Panasuan	psn	Living
+Panawa	pwb	Living
+Pancana	pnp	Living
+Panchpargania	tdb	Living
+Pande	bkj	Living
+Pangasinan	pag	Living
+Pangseng	pgs	Living
+Pangutaran Sama	slm	Living
+Pangwa	pbr	Living
+Pangwali	pgg	Living
+Panim	pnr	Living
+Paniya	pcg	Living
+Panjabi	pan	Living
+Pankhu	pkh	Living
+Pannei	pnc	Living
+Pano	mqz	Living
+Panoan Katukína	knt	Living
+Panyi Bai	bfc	Living
+Panytyima	pnw	Living
+Pao	ppa	Living
+Pa'o Karen	blk	Living
+Papantla Totonac	top	Living
+Papapana	ppn	Living
+Papar	dpp	Living
+Papasena	pas	Living
+Papel	pbo	Living
+Papi	ppe	Living
+Papiamento	pap	Living
+Papitalai	pat	Living
+Papuan Malay	pmy	Living
+Papuma	ppm	Living
+Pará Arára	aap	Living
+Pará Gavião	gvp	Living
+Para Naga	pzn	Living
+Parachi	prc	Living
+Paraguayan Guaraní	gug	Living
+Paraguayan Sign Language	pys	Living
+Parakanã	pak	Living
+Paranan	prf	Living
+Parauk	prk	Living
+Parawen	prw	Living
+Pardhan	pch	Living
+Pardhi	pcl	Living
+Pare	ppt	Living
+Parecís	pab	Living
+Parenga	pcj	Living
+Päri	lkr	Living
+Parkari Koli	kvx	Living
+Parkwa	pbi	Living
+Parsi	prp	Living
+Parsi-Dari	prd	Living
+Parya	paq	Living
+Pasi	psq	Living
+Pass Valley Yali	yac	Living
+Patamona	pbc	Living
+Patani	ptn	Living
+Patep	ptp	Living
+Pathiya	pty	Living
+Patpatar	gfk	Living
+Pattani	lae	Living
+Pattani Malay	mfa	Living
+Pattapu	ptq	Living
+Paulohi	plh	Living
+Paumarí	pad	Living
+Paunaka	pnk	Living
+Pauri Bareli	bfb	Living
+Pawaia	pwa	Living
+Pawnee	paw	Living
+Paynamar	pmr	Living
+Pe	pai	Living
+Pear	pcb	Living
+Pech	pay	Living
+Pedi	nso	Living
+Peere	pfe	Living
+Pei	ppq	Living
+Pekal	pel	Living
+Pela	bxd	Living
+Pele-Ata	ata	Living
+Pelende	ppp	Living
+Pemon	aoc	Living
+Pémono	pev	Living
+Penang Sign Language	psg	Living
+Penchal	pek	Living
+Pendau	ums	Living
+Pengo	peg	Living
+Pennsylvania German	pdc	Living
+Peñoles Mixtec	mil	Living
+Penrhyn	pnh	Living
+Perai	wet	Living
+Peranakan Indonesian	pea	Living
+Peripheral Mongolian	mvf	Living
+Pero	pip	Living
+Persian	fas	Living
+Persian Sign Language	psc	Living
+Peruvian Sign Language	prl	Living
+Petapa Zapotec	zpe	Living
+Petats	pex	Living
+Petjo	pey	Living
+Pévé	lme	Living
+Pfaelzisch	pfl	Living
+Phai	prt	Living
+Phake	phk	Living
+Phala	ypa	Living
+Phalura	phl	Living
+Phana'	phq	Living
+Phangduwali	phw	Living
+Phende	pem	Living
+Philippine Sign Language	psp	Living
+Phimbi	phm	Living
+Phola	ypg	Living
+Pholo	yip	Living
+Phom Naga	nph	Living
+Phong-Kniang	pnx	Living
+Phrae Pwo Karen	kjt	Living
+Phu Thai	pht	Living
+Phuan	phu	Living
+Phudagi	phd	Living
+Phuie	pug	Living
+Phukha	phh	Living
+Phuma	ypm	Living
+Phunoi	pho	Living
+Phuong	phg	Living
+Phupa	ypp	Living
+Phupha	yph	Living
+Phuza	ypz	Living
+Piamatsina	ptr	Living
+Piame	pin	Living
+Piapoco	pio	Living
+Piaroa	pid	Living
+Picard	pcd	Living
+Pichis Ashéninka	cpu	Living
+Piemontese	pms	Living
+Pije	piz	Living
+Pijin	pis	Living
+Pilagá	plg	Living
+Pileni	piv	Living
+Pima Bajo	pia	Living
+Pimbwe	piw	Living
+Pinai-Hagahai	pnn	Living
+Pingelapese	pif	Living
+Pini	pii	Living
+Pinigura	pnv	Living
+Pinji	pic	Living
+Pinotepa Nacional Mixtec	mio	Living
+Pintiini	pti	Living
+Pintupi-Luritja	piu	Living
+Pinyin	pny	Living
+Pipil	ppl	Living
+Pirahã	myp	Living
+Piratapuyo	pir	Living
+Pisabo	pig	Living
+Pisaflores Tepehua	tpp	Living
+Pitcairn-Norfolk	pih	Living
+Pite Sami	sje	Living
+Piti	pcn	Living
+Pitjantjatjara	pjt	Living
+Piu	pix	Living
+Piya-Kwonci	piy	Living
+Plains Cree	crk	Living
+Plains Indian Sign Language	psd	Living
+Plains Miwok	pmw	Living
+Plapo Krumen	ktj	Living
+Plateau Malagasy	plt	Living
+Plautdietsch	pdt	Living
+Playero	gob	Living
+Pnar	pbv	Living
+Pochuri Naga	npo	Living
+Podena	pdn	Living
+Pogolo	poy	Living
+Pohnpeian	pon	Living
+Pokangá	pok	Living
+Poke	pof	Living
+Pokomo	pkb	Living
+Pökoot	pko	Living
+Polari	pld	Living
+Polci	plj	Living
+Polish	pol	Living
+Polish Sign Language	pso	Living
+Polonombauk	plb	Living
+Pom	pmo	Living
+Pomo	pmm	Living
+Ponam	ncc	Living
+Pongu	png	Living
+Ponosakan	pns	Living
+Pontic	pnt	Living
+Ponyo-Gongwang Naga	npg	Living
+Popti'	jac	Living
+Poqomam	poc	Living
+Poqomchi'	poh	Living
+Porohanon	prh	Living
+Port Sandwich	psw	Living
+Port Vato	ptv	Living
+Portuguese	por	Living
+Portuguese Sign Language	psr	Living
+Potawatomi	pot	Living
+Pottangi Ollar Gadaba	gdb	Living
+Poumei Naga	pmx	Living
+Pouye	bye	Living
+Powari	pwr	Living
+Poyanáwa	pyn	Living
+Prasuni	prn	Living
+Pray 3	pry	Living
+Principense	pre	Living
+Providencia Sign Language	prz	Living
+Prussian	prg	Living
+Psikye	kvj	Living
+Pu Ko	puk	Living
+Puare	pux	Living
+Pudtol Atta	atp	Living
+Puerto Rican Sign Language	psl	Living
+Puimei Naga	npu	Living
+Puinave	pui	Living
+Pukapuka	pkp	Living
+Pulaar	fuc	Living
+Pulabu	pup	Living
+Pular	fuf	Living
+Puluwatese	puw	Living
+Puma	pum	Living
+Pumé	yae	Living
+Punan Aput	pud	Living
+Punan Bah-Biau	pna	Living
+Punan Batu 1	pnm	Living
+Punan Merah	puf	Living
+Punan Merap	puc	Living
+Punan Tubu	puj	Living
+Puno Quechua	qxp	Living
+Punu	puu	Living
+Puoc	puo	Living
+Puragi	pru	Living
+Purari	iar	Living
+Purepecha	tsz	Living
+Purik	prx	Living
+Puroik	suv	Living
+Puruborá	pur	Living
+Purum	pub	Living
+Pushto	pus	Living
+Putai	mfl	Living
+Putoh	put	Living
+Putukwam	afe	Living
+Pu-Xian Chinese	cpx	Living
+Puyuma	pyu	Living
+Pwaamei	pme	Living
+Pwapwâ	pop	Living
+Pwo Eastern Karen	kjp	Living
+Pwo Northern Karen	pww	Living
+Pwo Western Karen	pwo	Living
+Pyapun	pcw	Living
+Pye Krumen	pye	Living
+Pyen	pyy	Living
+Pyu (Papua New Guinea)	pby	Living
+Qabiao	laq	Living
+Q'anjob'al	kjb	Living
+Qaqet	byx	Living
+Qashqa'i	qxq	Living
+Qau	gqu	Living
+Qawasqar	alc	Living
+Qila Muji	ymq	Living
+Qimant	ahg	Living
+Qiubei Zhuang	zqe	Living
+Quapaw	qua	Living
+Quebec Sign Language	fcs	Living
+Quechan	yum	Living
+Quechua	que	Living
+Querétaro Otomi	otq	Living
+Quetzaltepec Mixe	pxm	Living
+Queyu	qvy	Living
+Quiavicuzas Zapotec	zpj	Living
+Quileute	qui	Living
+Quinqui	quq	Living
+Quioquitani-Quierí Zapotec	ztq	Living
+Quiotepec Chinantec	chq	Living
+Rabha	rah	Living
+Rade	rad	Living
+Rahambuu	raz	Living
+Rajah Kabunsuwan Manobo	mqk	Living
+Rajasthani	raj	Living
+Rajbanshi	rjs	Living
+Raji	rji	Living
+Rajong	rjg	Living
+Rajput Garasia	gra	Living
+Rakahanga-Manihiki	rkh	Living
+Rakhine	rki	Living
+Ralte	ral	Living
+Rama	rma	Living
+Ramoaaina	rai	Living
+Ramopa	kjx	Living
+Rampi	lje	Living
+Rana Tharu	thr	Living
+Rang	rax	Living
+Ranglong	rnl	Living
+Rangpuri	rkt	Living
+Rao	rao	Living
+Rapa	ray	Living
+Rapanui	rap	Living
+Rapoisi	kyx	Living
+Rapting	rpt	Living
+Rara Bakati'	lra	Living
+Rarotongan	rar	Living
+Rasawa	rac	Living
+Ratagnon	btn	Living
+Ratahan	rth	Living
+Rathawi	rtw	Living
+Rathwi Bareli	bgd	Living
+Raute	rau	Living
+Ravula	yea	Living
+Rawa	rwo	Living
+Rawang	raw	Living
+Rawat	jnl	Living
+Rawngtu Chin	weu	Living
+Rawo	rwa	Living
+Rayón Zoque	zor	Living
+Razajerdi	rat	Living
+Red Gelao	gir	Living
+Reel	atu	Living
+Rejang	rej	Living
+Rejang Kayan	ree	Living
+Reli	rei	Living
+Rembarunga	rmb	Living
+Rembong	reb	Living
+Remontado Dumagat	agv	Living
+Rempi	rmp	Living
+Remun	lkj	Living
+Rendille	rel	Living
+Rengao	ren	Living
+Rennell-Bellona	mnv	Living
+Rennellese Sign Language	rsi	Living
+Repanbitip	rpn	Living
+Rerau	rea	Living
+Rerep	pgk	Living
+Reshe	res	Living
+Resígaro	rgr	Living
+Retta	ret	Living
+Réunion Creole French	rcf	Living
+Reyesano	rey	Living
+Riang (India)	ria	Living
+Riang (Myanmar)	ril	Living
+Riantana	ran	Living
+Ribun	rir	Living
+Rien	rie	Living
+Rikbaktsa	rkb	Living
+Rincón Zapotec	zar	Living
+Rinconada Bikol	bto	Living
+Ringgou	rgu	Living
+Ririo	rri	Living
+Ritarungo	rit	Living
+Riung	riu	Living
+Riverain Sango	snj	Living
+Rogo	rod	Living
+Rohingya	rhg	Living
+Roma	rmm	Living
+Romagnol	rgn	Living
+Romam	rmx	Living
+Romanian	ron	Living
+Romanian Sign Language	rms	Living
+Romano-Greek	rge	Living
+Romano-Serbian	rsb	Living
+Romansh	roh	Living
+Romany	rom	Living
+Romblomanon	rol	Living
+Rombo	rof	Living
+Romkun	rmk	Living
+Ron	cla	Living
+Ronga	rng	Living
+Rongga	ror	Living
+Rongmei Naga	nbu	Living
+Rongpo	rnp	Living
+Ronji	roe	Living
+Roon	rnn	Living
+Roria	rga	Living
+Rotokas	roo	Living
+Rotuman	rtm	Living
+Roviana	rug	Living
+Ruching Palaung	pce	Living
+Rudbari	rdb	Living
+Rufiji	rui	Living
+Ruga	ruh	Living
+Rukai	dru	Living
+Ruma	ruz	Living
+Rumai Palaung	rbb	Living
+Rumu	klq	Living
+Rundi	run	Living
+Runga	rou	Living
+Rungtu Chin	rtc	Living
+Rungus	drg	Living
+Rungwa	rnw	Living
+Russia Buriat	bxr	Living
+Russian	rus	Living
+Russian Sign Language	rsl	Living
+Rusyn	rue	Living
+Rutul	rut	Living
+Ruuli	ruc	Living
+Ruund	rnd	Living
+Rwa	rwk	Living
+Sa	sax	Living
+Sa'a	apb	Living
+Saafi-Saafi	sav	Living
+Saam	raq	Living
+Saamia	lsm	Living
+Saaroa	sxr	Living
+Saba	saa	Living
+Sabah Bisaya	bsy	Living
+Sabah Malay	msi	Living
+Sa'ban	snv	Living
+Sabanê	sae	Living
+Sabaot	spy	Living
+Sabu	hvn	Living
+Sabüm	sbo	Living
+Sacapulteco	quv	Living
+Sadri	sck	Living
+Saek	skb	Living
+Saep	spd	Living
+Safaliba	saf	Living
+Safeyoka	apz	Living
+Safwa	sbk	Living
+Sagala	sbm	Living
+Sagalla	tga	Living
+Saho	ssy	Living
+Sahu	saj	Living
+Saidi Arabic	aec	Living
+Saint Lucian Creole French	acf	Living
+Saisiyat	xsy	Living
+Sajalong	sjl	Living
+Sajau Basap	sjb	Living
+Sakachep	sch	Living
+Sakalava Malagasy	skg	Living
+Sakao	sku	Living
+Sakata	skt	Living
+Sake	sak	Living
+Sakirabiá	skf	Living
+Sala	shq	Living
+Salampasu	slx	Living
+Salar	slr	Living
+Salas	sgu	Living
+Salasaca Highland Quichua	qxl	Living
+Salchuq	slq	Living
+Saleman	sau	Living
+Saliba	sbe	Living
+Sáliba	slc	Living
+Sallands	sdz	Living
+Salt-Yui	sll	Living
+Saluan	loe	Living
+Salumá	slj	Living
+Salvadoran Sign Language	esn	Living
+Sam	snx	Living
+Sama	smd	Living
+Samarokena	tmj	Living
+Samatao	ysd	Living
+Samay	syx	Living
+Samba	smx	Living
+Samba Daka	ccg	Living
+Samba Leko	ndi	Living
+Sambal	xsb	Living
+Sambalpuri	spv	Living
+Sambe	xab	Living
+Samberigi	ssx	Living
+Samburu	saq	Living
+Samei	smh	Living
+Samo	smq	Living
+Samoan	smo	Living
+Samogitian	sgs	Living
+Samosa	swm	Living
+Sampang	rav	Living
+Samre	sxm	Living
+Samtao	stu	Living
+Samvedi	smv	Living
+San Agustín Mixtepec Zapotec	ztm	Living
+San Baltazar Loxicha Zapotec	zpx	Living
+San Blas Kuna	cuk	Living
+San Dionisio Del Mar Huave	hve	Living
+San Felipe Otlaltepec Popoloca	pow	Living
+San Francisco Del Mar Huave	hue	Living
+San Francisco Matlatzinca	mat	Living
+San Jerónimo Tecóatl Mazatec	maa	Living
+San Juan Atzingo Popoloca	poe	Living
+San Juan Colorado Mixtec	mjc	Living
+San Juan Guelavía Zapotec	zab	Living
+San Juan Teita Mixtec	xtj	Living
+San Luís Temalacayuca Popoloca	pps	Living
+San Marcos Tlacoyalco Popoloca	pls	Living
+San Martín Itunyoso Triqui	trq	Living
+San Martín Quechua	qvs	Living
+San Mateo Del Mar Huave	huv	Living
+San Miguel Creole French	scf	Living
+San Miguel El Grande Mixtec	mig	Living
+San Miguel Piedras Mixtec	xtp	Living
+San Pedro Amuzgos Amuzgo	azg	Living
+San Pedro Quiatoni Zapotec	zpf	Living
+San Salvador Kongo	kwy	Living
+San Vicente Coatlán Zapotec	zpt	Living
+Sanaani Arabic	ayn	Living
+Sanapaná	spn	Living
+Sandawe	sad	Living
+Sanga (Democratic Republic of Congo)	sng	Living
+Sanga (Nigeria)	xsn	Living
+Sanggau	scg	Living
+Sangil	snl	Living
+Sangir	sxn	Living
+Sangisari	sgr	Living
+Sangkong	sgk	Living
+Sanglechi	sgy	Living
+Sango	sag	Living
+Sangtam Naga	nsa	Living
+Sangu (Gabon)	snq	Living
+Sangu (Tanzania)	sbp	Living
+Sani	ysn	Living
+Sanie	ysy	Living
+Saniyo-Hiyewe	sny	Living
+Sankaran Maninka	msc	Living
+Sansi	ssi	Living
+Santa Ana de Tusi Pasco Quechua	qxt	Living
+Santa Catarina Albarradas Zapotec	ztn	Living
+Santa Inés Ahuatempan Popoloca	pca	Living
+Santa Inés Yatzechi Zapotec	zpn	Living
+Santa Lucía Monteverde Mixtec	mdv	Living
+Santa María Del Mar Huave	hvv	Living
+Santa María La Alta Nahuatl	nhz	Living
+Santa María Quiegolani Zapotec	zpi	Living
+Santa María Zacatepec Mixtec	mza	Living
+Santa Teresa Cora	cok	Living
+Santali	sat	Living
+Santiago del Estero Quichua	qus	Living
+Santiago Xanica Zapotec	zpr	Living
+Santo Domingo Albarradas Zapotec	zas	Living
+Sanumá	xsu	Living
+Sa'och	scq	Living
+Sãotomense	cri	Living
+Saparua	spr	Living
+Sapé	spc	Living
+Sapo	krn	Living
+Saponi	spi	Living
+Saposa	sps	Living
+Sapuan	spu	Living
+Sar	mwm	Living
+Sara	sre	Living
+Sara Kaba	sbz	Living
+Sara Kaba Deme	kwg	Living
+Sara Kaba Náà	kwv	Living
+Saraiki	skr	Living
+Saramaccan	srm	Living
+Sarangani Blaan	bps	Living
+Sarangani Manobo	mbs	Living
+Sarasira	zsa	Living
+Sardinian	srd	Living
+Sari	asj	Living
+Sarikoli	srh	Living
+Sarli	sdf	Living
+Sarsi	srs	Living
+Sartang	onp	Living
+Sarua	swy	Living
+Sarudu	sdu	Living
+Saruga	sra	Living
+Sasak	sas	Living
+Sasaru	sxs	Living
+Sassarese Sardinian	sdc	Living
+Satawalese	stw	Living
+Sateré-Mawé	mav	Living
+Saterfriesisch	stq	Living
+Saudi Arabian Sign Language	sdl	Living
+Saurashtra	saz	Living
+Sauri	srt	Living
+Sauria Paharia	mjt	Living
+Sause	sao	Living
+Sausi	ssj	Living
+Savara	svr	Living
+Savi	sdg	Living
+Savosavo	svs	Living
+Sawai	szw	Living
+Saweru	swr	Living
+Sawi	saw	Living
+Sawila	swt	Living
+Sawknah	swn	Living
+Saxwe Gbe	sxw	Living
+Saya	say	Living
+Sayula Popoluca	pos	Living
+Scots	sco	Living
+Scottish Gaelic	gla	Living
+Sea Island Creole English	gul	Living
+Seba	kdg	Living
+Sebat Bet Gurage	sgw	Living
+Seberuang	sbx	Living
+Sebop	sib	Living
+Sebuyau	snb	Living
+Sechelt	sec	Living
+Secoya	sey	Living
+Sedang	sed	Living
+Sedoa	tvw	Living
+Seeku	sos	Living
+Segai	sge	Living
+Segeju	seg	Living
+Seget	sbg	Living
+Sehwi	sfw	Living
+Seimat	ssg	Living
+Seit-Kaitetu	hik	Living
+Sekani	sek	Living
+Sekapan	skp	Living
+Sekar	skz	Living
+Seke (Nepal)	skj	Living
+Seke (Vanuatu)	ske	Living
+Sekele	vaj	Living
+Seki	syi	Living
+Seko Padang	skx	Living
+Seko Tengah	sko	Living
+Sekpele	lip	Living
+Selangor Sign Language	kgi	Living
+Selaru	slu	Living
+Selayar	sly	Living
+Selee	snw	Living
+Selepet	spl	Living
+Selkup	sel	Living
+Selungai Murut	slg	Living
+Seluwasan	sws	Living
+Semai	sea	Living
+Semandang	sdm	Living
+Semaq Beri	szc	Living
+Sembakung Murut	sbr	Living
+Semelai	sza	Living
+Semimi	etz	Living
+Semnam	ssm	Living
+Semnani	smy	Living
+Sempan	xse	Living
+Sena	seh	Living
+Senara Sénoufo	seq	Living
+Senaya	syn	Living
+Sene	sej	Living
+Seneca	see	Living
+Sengele	szg	Living
+Senggi	snu	Living
+Sengo	spk	Living
+Sengseng	ssz	Living
+Sentani	set	Living
+Senthang Chin	sez	Living
+Sentinel	std	Living
+Sepa (Indonesia)	spb	Living
+Sepa (Papua New Guinea)	spe	Living
+Sepik Iwam	iws	Living
+Sera	sry	Living
+Serbian	srp	Living
+Serbo-Croatian	hbs	Living
+Sere	swf	Living
+Serer	srr	Living
+Seri	sei	Living
+Serili	sve	Living
+Serrano	ser	Living
+Serua	srw	Living
+Serudung Murut	srk	Living
+Serui-Laut	seu	Living
+Seselwa Creole French	crs	Living
+Seta	stf	Living
+Setaman	stm	Living
+Seti	sbi	Living
+Settla	sta	Living
+Severn Ojibwa	ojs	Living
+Sewa Bay	sew	Living
+Seze	sze	Living
+S'gaw Karen	ksw	Living
+Sha	scw	Living
+Shabak	sdb	Living
+Shahmirzadi	srz	Living
+Shahrudi	shm	Living
+Shall-Zwall	sha	Living
+Shamang	xsh	Living
+Shama-Sambuga	sqa	Living
+Shambala	ksb	Living
+Shan	shn	Living
+Shanenawa	swo	Living
+Shanga	sho	Living
+Sharanahua	mcd	Living
+Shark Bay	ssv	Living
+Sharwa	swq	Living
+Shatt	shj	Living
+Shau	sqh	Living
+Shawnee	sjw	Living
+She	shx	Living
+Shehri	shv	Living
+Shekhawati	swv	Living
+Shekkacho	moy	Living
+Sheko	she	Living
+Shelta	sth	Living
+Shempire Senoufo	seb	Living
+Shendu	shl	Living
+Sheni	scv	Living
+Sherbro	bun	Living
+Sherdukpen	sdp	Living
+Sherpa	xsr	Living
+Sheshi Kham	kip	Living
+Shi	shr	Living
+Shihhi Arabic	ssh	Living
+Shiki	gua	Living
+Shilluk	shk	Living
+Shina	scl	Living
+Shipibo-Conibo	shp	Living
+Shixing	sxg	Living
+Sholaga	sle	Living
+Shom Peng	sii	Living
+Shona	sna	Living
+Shoo-Minda-Nye	bcv	Living
+Shor	cjs	Living
+Shoshoni	shh	Living
+Shua	shg	Living
+Shuar	jiv	Living
+Shubi	suj	Living
+Shughni	sgh	Living
+Shumashti	sts	Living
+Shumcho	scu	Living
+Shuswap	shs	Living
+Shuwa-Zamani	ksa	Living
+Shwai	shw	Living
+Shwe Palaung	pll	Living
+Sialum	slw	Living
+Siamou	sif	Living
+Sian	spg	Living
+Siane	snp	Living
+Siang	sya	Living
+Siar-Lak	sjr	Living
+Siawi	mmp	Living
+Sibe	nco	Living
+Siberian Tatar	sty	Living
+Sibu Melanau	sdx	Living
+Sichuan Yi	iii	Living
+Sicilian	scn	Living
+Sìcìté Sénoufo	sep	Living
+Sidamo	sid	Living
+Sie	erg	Living
+Sierra de Juárez Zapotec	zaa	Living
+Sierra Leone Sign Language	sgx	Living
+Sierra Negra Nahuatl	nsu	Living
+Sighu	sxe	Living
+Sihan	snr	Living
+Sihuas Ancash Quechua	qws	Living
+Sika	ski	Living
+Sikaiana	sky	Living
+Sikaritai	tty	Living
+Sikiana	sik	Living
+Sikkimese	sip	Living
+Siksika	bla	Living
+Sikule	skh	Living
+Sila	slt	Living
+Silacayoapan Mixtec	mks	Living
+Sileibi	sbq	Living
+Silesian	szl	Living
+Silimo	wul	Living
+Siliput	mkc	Living
+Silopi	xsp	Living
+Silt'e	stv	Living
+Simaa	sie	Living
+Simba	sbw	Living
+Simbali	smg	Living
+Simbari	smb	Living
+Simbo	sbb	Living
+Simeku	smz	Living
+Simeulue	smr	Living
+Simte	smt	Living
+Sinagen	siu	Living
+Sinasina	sst	Living
+Sinaugoro	snc	Living
+Sindhi	snd	Living
+Sindhi Bhil	sbn	Living
+Sindihui Mixtec	xts	Living
+Singapore Sign Language	sls	Living
+Singpho	sgp	Living
+Sinhala	sin	Living
+Sinicahua Mixtec	xti	Living
+Sininkere	skq	Living
+Sinsauru	snz	Living
+Sinte Romani	rmo	Living
+Sinyar	sys	Living
+Sio	xsi	Living
+Siona	snn	Living
+Sipacapense	qum	Living
+Sira	swj	Living
+Siri	sir	Living
+Siriano	sri	Living
+Sirionó	srq	Living
+Sirmauri	srx	Living
+Siroi	ssd	Living
+Sissala	sld	Living
+Sissano	sso	Living
+Sivandi	siy	Living
+Siwai	siw	Living
+Siwi	siz	Living
+Siwu	akp	Living
+Siyin Chin	csy	Living
+Skagit	ska	Living
+Skolt Sami	sms	Living
+Skou	skv	Living
+Slave (Athapascan)	den	Living
+Slavomolisano	svm	Living
+Slovak	slk	Living
+Slovakian Sign Language	svk	Living
+Slovenian	slv	Living
+Small Flowery Miao	sfm	Living
+Smärky Kanum	kxq	Living
+Snohomish	sno	Living
+Sô	sss	Living
+So (Democratic Republic of Congo)	soc	Living
+So'a	ssq	Living
+Sobei	sob	Living
+Sochiapam Chinantec	cso	Living
+Soga	xog	Living
+Soi	soj	Living
+Sok	skk	Living
+Sokoro	sok	Living
+Soli	sby	Living
+Solong	aaw	Living
+Solos	sol	Living
+Somali	som	Living
+Somba-Siawari	bmu	Living
+Somrai	sor	Living
+Somyev	kgt	Living
+Sonaga	ysg	Living
+Sonde	shc	Living
+Songe	sop	Living
+Songlai Chin	csj	Living
+Songo	soo	Living
+Songomeno	soe	Living
+Songoora	sod	Living
+Sonha	soi	Living
+Sonia	siq	Living
+Soninke	snk	Living
+Sonsorol	sov	Living
+Soo	teu	Living
+Sop	urw	Living
+Soqotri	sqt	Living
+Sora	srb	Living
+Sori-Harengan	sbh	Living
+Sorkhei	sqo	Living
+Sorsogon Ayta	ays	Living
+Sos Kundi	sdk	Living
+Sota Kanum	krz	Living
+Sou	sqq	Living
+South African Sign Language	sfs	Living
+South Awyu	aws	Living
+South Azerbaijani	azb	Living
+South Bolivian Quechua	quh	Living
+South Central Banda	lnl	Living
+South Central Dinka	dib	Living
+South Efate	erk	Living
+South Fali	fal	Living
+South Giziga	giz	Living
+South Lembata	lmf	Living
+South Levantine Arabic	ajp	Living
+South Marquesan	mqm	Living
+South Muyu	kts	Living
+South Ndebele	nbl	Living
+South Nuaulu	nxl	Living
+South Slavey	xsl	Living
+South Tairora	omw	Living
+South Ucayali Ashéninka	cpy	Living
+South Watut	mcy	Living
+South West Bay	sns	Living
+Southeast Ambrym	tvk	Living
+Southeast Babar	vbb	Living
+Southeast Ijo	ijs	Living
+Southeast Pashai	psi	Living
+Southeastern Dinka	dks	Living
+Southeastern Ixtlán Zapotec	zpd	Living
+Southeastern Kolami	nit	Living
+Southeastern Nochixtlán Mixtec	mxy	Living
+Southeastern Pomo	pom	Living
+Southeastern Puebla Nahuatl	npl	Living
+Southeastern Tarahumara	tcu	Living
+Southeastern Tepehuan	stp	Living
+Southern Alta	agy	Living
+Southern Altai	alt	Living
+Southern Amami-Oshima	ams	Living
+Southern Aymara	ayc	Living
+Southern Bai	bfs	Living
+Southern Balochi	bcc	Living
+Southern Betsimisaraka Malagasy	bzc	Living
+Southern Binukidnon	mtw	Living
+Southern Birifor	biv	Living
+Southern Bobo Madaré	bwq	Living
+Southern Bontok	obk	Living
+Southern Carrier	caf	Living
+Southern Catanduanes Bikol	bln	Living
+Southern Conchucos Ancash Quechua	qxo	Living
+Southern Dagaare	dga	Living
+Southern Dong	kmc	Living
+Southern East Cree	crj	Living
+Southern Ghale	ghe	Living
+Southern Gondi	ggo	Living
+Southern Grebo	grj	Living
+Southern Guiyang Hmong	hmy	Living
+Southern Haida	hax	Living
+Southern Hindko	hnd	Living
+Southern Kalinga	ksc	Living
+Southern Kisi	kss	Living
+Southern Kiwai	kjd	Living
+Southern Kurdish	sdh	Living
+Southern Lolopo	ysp	Living
+Southern Luri	luz	Living
+Southern Ma'di	snm	Living
+Southern Mashan Hmong	hma	Living
+Southern Mnong	mnn	Living
+Southern Muji	ymc	Living
+Southern Nago	nqg	Living
+Southern Nambikuára	nab	Living
+Southern Ngbandi	nbw	Living
+Southern Nicobarese	nik	Living
+Southern Nisu	nsd	Living
+Southern Nuni	nnw	Living
+Southern One	osu	Living
+Southern Pashto	pbt	Living
+Southern Pastaza Quechua	qup	Living
+Southern Pomo	peq	Living
+Southern Puebla Mixtec	mit	Living
+Southern Puget Sound Salish	slh	Living
+Southern Pumi	pmj	Living
+Southern Qiandong Miao	hms	Living
+Southern Qiang	qxs	Living
+Southern Rengma Naga	nre	Living
+Southern Rincon Zapotec	zsr	Living
+Southern Roglai	rgs	Living
+Southern Sama	ssb	Living
+Southern Sami	sma	Living
+Southern Samo	sbd	Living
+Southern Sierra Miwok	skd	Living
+Southern Sorsoganon	srv	Living
+Southern Sotho	sot	Living
+Southern Subanen	laa	Living
+Southern Thai	sou	Living
+Southern Tiwa	tix	Living
+Southern Toussian	wib	Living
+Southern Tujia	tjs	Living
+Southern Tutchone	tce	Living
+Southern Uzbek	uzs	Living
+Southern Yamphu	lrr	Living
+Southern Yukaghir	yux	Living
+Southwest Gbaya	gso	Living
+Southwest Palawano	plv	Living
+Southwest Pashai	psh	Living
+Southwest Tanna	nwi	Living
+Southwestern Bontok	vbk	Living
+Southwestern Dinka	dik	Living
+Southwestern Fars	fay	Living
+Southwestern Guiyang Hmong	hmg	Living
+Southwestern Huishui Hmong	hmh	Living
+Southwestern Nisu	nsv	Living
+Southwestern Tarahumara	twr	Living
+Southwestern Tepehuan	tla	Living
+Southwestern Tlaxiaco Mixtec	meh	Living
+Sowanda	sow	Living
+Soyaltepec Mazatec	vmp	Living
+Soyaltepec Mixtec	vmq	Living
+Spanish	spa	Living
+Spanish Sign Language	ssp	Living
+Spiti Bhoti	spt	Living
+Spokane	spo	Living
+Squamish	squ	Living
+Sranan Tongo	srn	Living
+Sri Lankan Creole Malay	sci	Living
+Sri Lankan Sign Language	sqs	Living
+Standard Arabic	arb	Living
+Standard Estonian	ekk	Living
+Standard Latvian	lvs	Living
+Standard Malay	zsm	Living
+Standard Moroccan Tamazight	zgh	Living
+Stellingwerfs	stl	Living
+Stod Bhoti	sbu	Living
+sTodsde	jih	Living
+Stoney	sto	Living
+Straits Salish	str	Living
+Suabo	szp	Living
+Suarmin	seo	Living
+Suau	swp	Living
+Suba	sxb	Living
+Suba-Simbiti	ssc	Living
+Subiya	sbs	Living
+Sudanese Arabic	apd	Living
+Sudanese Creole Arabic	pga	Living
+Sudest	tgo	Living
+Suena	sue	Living
+Suga	sgi	Living
+Suganga	sug	Living
+Sugut Dusun	kzs	Living
+Sui	swi	Living
+Suki	sui	Living
+Suku	sub	Living
+Sukuma	suk	Living
+Sukur	syk	Living
+Sukurum	zsu	Living
+Sula	szn	Living
+Sulka	sua	Living
+Sulod	srg	Living
+Suma	sqm	Living
+Sumariup	siv	Living
+Sumau	six	Living
+Sumbawa	smw	Living
+Sumbwa	suw	Living
+Sumi Naga	nsm	Living
+Sumtu Chin	csv	Living
+Sunam	ssk	Living
+Sundanese	sun	Living
+Sunwar	suz	Living
+Suoy	syo	Living
+Supyire Senoufo	spp	Living
+Sur	tdl	Living
+Surbakhal	sbj	Living
+Surgujia	sgj	Living
+Suri	suq	Living
+Surigaonon	sgd	Living
+Surjapuri	sjp	Living
+Sursurunga	sgz	Living
+Suruahá	swx	Living
+Surubu	sde	Living
+Suruí	sru	Living
+Suruí Do Pará	mdz	Living
+Susu	sus	Living
+Susuami	ssu	Living
+Suundi	sdj	Living
+Suwawa	swu	Living
+Suyá	suy	Living
+Svan	sva	Living
+Swabian	swg	Living
+Swahili (individual language)	swh	Living
+Swahili (macrolanguage)	swa	Living
+Swampy Cree	csw	Living
+Swati	ssw	Living
+Swedish	swe	Living
+Swedish Sign Language	swl	Living
+Swiss German	gsw	Living
+Swiss-French Sign Language	ssr	Living
+Swiss-German Sign Language	sgg	Living
+Swiss-Italian Sign Language	slf	Living
+Swo	sox	Living
+Syenara Senoufo	shz	Living
+Sylheti	syl	Living
+Syriac	syr	Living
+Taa	nmn	Living
+Taabwa	tap	Living
+Tabaa Zapotec	zat	Living
+Tabaru	tby	Living
+Tabasco Chontal	chf	Living
+Tabasco Zoque	zoq	Living
+Tabassaran	tab	Living
+Tabla	tnm	Living
+Tabo	knv	Living
+Tabriak	tzx	Living
+Tacahua Mixtec	xtt	Living
+Tacana	tna	Living
+Tachawit	shy	Living
+Tachelhit	shi	Living
+Tachoni	lts	Living
+Tadaksahak	dsq	Living
+Tadyawan	tdy	Living
+Tae'	rob	Living
+Tafi	tcd	Living
+Tagabawa	bgs	Living
+Tagakaulo	klg	Living
+Tagal Murut	mvv	Living
+Tagalog	tgl	Living
+Tagargrent	oua	Living
+Tagbanwa	tbw	Living
+Tagbu	tbm	Living
+Tagdal	tda	Living
+Tagin	tgj	Living
+Tagish	tgx	Living
+Tagoi	tag	Living
+Tagwana Senoufo	tgw	Living
+Tahaggart Tamahaq	thv	Living
+Tahitian	tah	Living
+Tahltan	tht	Living
+Tai	taw	Living
+Tai Daeng	tyr	Living
+Tai Dam	blt	Living
+Tai Do	tyj	Living
+Tai Dón	twh	Living
+Tai Hang Tong	thc	Living
+Tai Hongjin	tiz	Living
+Tai Laing	tjl	Living
+Tai Loi	tlq	Living
+Tai Long	thi	Living
+Tai Mène	tmp	Living
+Tai Nüa	tdd	Living
+Tai Pao	tpo	Living
+Tai Thanh	tmm	Living
+Tai Ya	cuu	Living
+Taiap	gpn	Living
+Taikat	aos	Living
+Tainae	ago	Living
+Tairaha	bxa	Living
+Tairuma	uar	Living
+Taita	dav	Living
+Taiwan Sign Language	tss	Living
+Ta'izzi-Adeni Arabic	acq	Living
+Taje	pee	Living
+Tajik	tgk	Living
+Tajiki Arabic	abh	Living
+Tajio	tdj	Living
+Tajuasohn	tja	Living
+Takestani	tks	Living
+Takia	tbc	Living
+Takua	tkz	Living
+Takuu	nho	Living
+Takwane	tke	Living
+Tal	tal	Living
+Tala	tak	Living
+Talaud	tld	Living
+Taliabu	tlv	Living
+Talieng	tdf	Living
+Talinga-Bwisi	tlj	Living
+Talise	tlr	Living
+Talodi	tlo	Living
+Taloki	tlk	Living
+Talondo'	tln	Living
+Talu	yta	Living
+Talysh	tly	Living
+Tama (Chad)	tma	Living
+Tamagario	tcg	Living
+Taman (Indonesia)	tmn	Living
+Tamashek	tmh	Living
+Tamasheq	taq	Living
+Tamazola Mixtec	vmx	Living
+Tambas	tdk	Living
+Tambotalo	tls	Living
+Tambunan Dusun	kzt	Living
+Tami	tmy	Living
+Tamil	tam	Living
+Tamki	tax	Living
+Tamnim Citak	tml	Living
+Tampias Lobu	low	Living
+Tampuan	tpu	Living
+Tampulma	tpm	Living
+Tanacross	tcb	Living
+Tanahmerah	tcm	Living
+Tanaina	tfn	Living
+Tanapag	tpv	Living
+Tandaganon	tgn	Living
+Tandia	tni	Living
+Tandroy-Mahafaly Malagasy	tdx	Living
+Tanema	tnx	Living
+Tangale	tan	Living
+Tangchangya	tnv	Living
+Tanggu	tgu	Living
+Tangkhul Naga (India)	nmf	Living
+Tangkhul Naga (Myanmar)	ntx	Living
+Tangko	tkx	Living
+Tanglang	ytl	Living
+Tangoa	tgp	Living
+Tanguat	tbs	Living
+Tanimbili	tbe	Living
+Tanimuca-Retuarã	tnc	Living
+Tanjijili	uji	Living
+Tanosy Malagasy	txy	Living
+Tanudan Kalinga	kml	Living
+Tanzanian Sign Language	tza	Living
+Tapei	afp	Living
+Tapieté	tpj	Living
+Tapirapé	taf	Living
+Tarao Naga	tro	Living
+Tareng	tgr	Living
+Tariana	tae	Living
+Tarifit	rif	Living
+Tarjumo	txj	Living
+Tarok	yer	Living
+Taroko	trv	Living
+Tarpia	tpf	Living
+Tasawaq	twq	Living
+Tase Naga	nst	Living
+Tasmate	tmt	Living
+Tataltepec Chatino	cta	Living
+Tatana	txx	Living
+Tatar	tat	Living
+Tatuyo	tav	Living
+Tauade	ttd	Living
+Taulil	tuh	Living
+Taungyo	tco	Living
+Taupota	tpa	Living
+Tause	tad	Living
+Taushiro	trr	Living
+Tausug	tsg	Living
+Tauya	tya	Living
+Taveta	tvs	Living
+Tavoyan	tvn	Living
+Tavringer Romani	rmu	Living
+Tawala	tbo	Living
+Tawallammat Tamajaq	ttq	Living
+Tawandê	xtw	Living
+Tawang Monpa	twm	Living
+Tawara	twl	Living
+Taworta	tbp	Living
+Tawoyan	twy	Living
+Tawr Chin	tcp	Living
+Tày	tyz	Living
+Tay Khang	tnu	Living
+Tày Sa Pa	tys	Living
+Tày Tac	tyt	Living
+Tayart Tamajeq	thz	Living
+Tayo	cks	Living
+Taznatit	grr	Living
+Tboli	tbl	Living
+Tchitchege	tck	Living
+Tchumbuli	bqa	Living
+Teanu	tkw	Living
+Tebul Sign Language	tsy	Living
+Tebul Ure Dogon	dtu	Living
+Tecpatlán Totonac	tcw	Living
+Tedaga	tuq	Living
+Tedim Chin	ctd	Living
+Tee	tkq	Living
+Téén	lor	Living
+Tefaro	tfo	Living
+Tegali	ras	Living
+Tehit	kps	Living
+Tehuelche	teh	Living
+Tejalapan Zapotec	ztt	Living
+Teke-Ebo	ebo	Living
+Teke-Fuumu	ifm	Living
+Teke-Kukuya	kkw	Living
+Teke-Laali	lli	Living
+Teke-Nzikou	nzu	Living
+Teke-Tege	teg	Living
+Teke-Tsaayi	tyi	Living
+Teke-Tyee	tyx	Living
+Tektiteko	ttc	Living
+Tela-Masbuar	tvm	Living
+Telefol	tlf	Living
+Telugu	tel	Living
+Teluti	tlt	Living
+Tem	kdh	Living
+Temacine Tamazight	tjo	Living
+Temascaltepec Nahuatl	nhv	Living
+Tembé	tqb	Living
+Tembo (Kitembo)	tbt	Living
+Tembo (Motembo)	tmv	Living
+Teme	tdo	Living
+Temein	teq	Living
+Temi	soz	Living
+Temiar	tea	Living
+Temoaya Otomi	ott	Living
+Temoq	tmo	Living
+Tempasuk Dusun	tdu	Living
+Temuan	tmw	Living
+T'en	tct	Living
+Tena Lowland Quichua	quw	Living
+Tenango Otomi	otn	Living
+Tene Kan Dogon	dtk	Living
+Tenggarong Kutai Malay	vkt	Living
+Tengger	tes	Living
+Tenharim	pah	Living
+Tenino	tqn	Living
+Tenis	tns	Living
+Tennet	tex	Living
+Teop	tio	Living
+Teor	tev	Living
+Tepetotutla Chinantec	cnt	Living
+Tepeuxila Cuicatec	cux	Living
+Tepinapa Chinantec	cte	Living
+Tepo Krumen	ted	Living
+Ter Sami	sjt	Living
+Tera	ttr	Living
+Terebu	trb	Living
+Terei	buo	Living
+Tereno	ter	Living
+Teressa	tef	Living
+Tereweng	twg	Living
+Teribe	tfr	Living
+Terik	tec	Living
+Termanu	twu	Living
+Ternate	tft	Living
+Tesaka Malagasy	tkg	Living
+Tese	keg	Living
+Teso	teo	Living
+Tetela	tll	Living
+Tetelcingo Nahuatl	nhg	Living
+Tetum	tet	Living
+Tetun Dili	tdt	Living
+Te'un	tve	Living
+Teutila Cuicatec	cut	Living
+Tewa (Indonesia)	twe	Living
+Tewa (USA)	tew	Living
+Tewe	twx	Living
+Texcatepec Otomi	otx	Living
+Texistepec Popoluca	poq	Living
+Texmelucan Zapotec	zpz	Living
+Tezoatlán Mixtec	mxb	Living
+Tha	thy	Living
+Thachanadan	thn	Living
+Thado Chin	tcz	Living
+Thai	tha	Living
+Thai Sign Language	tsq	Living
+Thai Song	soa	Living
+Thaiphum Chin	cth	Living
+Thakali	ths	Living
+Thangal Naga	nki	Living
+Thangmi	thf	Living
+Thao	ssf	Living
+Tharaka	thk	Living
+Thayore	thd	Living
+Tho	tou	Living
+Thompson	thp	Living
+Thopho	ytp	Living
+Thu Lao	tyl	Living
+Thudam	thw	Living
+Thulung	tdh	Living
+Thuri	thu	Living
+Tiagbamrin Aizi	ahi	Living
+Tiale	mnl	Living
+Tiang	tbj	Living
+Tibea	ngy	Living
+Tibetan	bod	Living
+Tichurong	tcn	Living
+Ticuna	tca	Living
+Tidaá Mixtec	mtx	Living
+Tidikelt Tamazight	tia	Living
+Tidong	tid	Living
+Tidore	tvo	Living
+Tiéfo	tiq	Living
+Tiemacèwè Bozo	boo	Living
+Tiene	tii	Living
+Tiéyaxo Bozo	boz	Living
+Tifal	tif	Living
+Tigak	tgc	Living
+Tigon Mbembe	nza	Living
+Tigre	tig	Living
+Tigrinya	tir	Living
+Tii	txq	Living
+Tijaltepec Mixtec	xtl	Living
+Tikar	tik	Living
+Tikopia	tkp	Living
+Tilapa Otomi	otl	Living
+Tilquiapan Zapotec	zts	Living
+Tilung	tij	Living
+Tima	tms	Living
+Timbe	tim	Living
+Timne	tem	Living
+Timugon Murut	tih	Living
+Tinani	lbf	Living
+Tindi	tin	Living
+Tinigua	tit	Living
+Tinoc Kallahan	tne	Living
+Tinputz	tpz	Living
+Tippera	tpe	Living
+Tira	tic	Living
+Tirahi	tra	Living
+Tiranige Diga Dogon	tde	Living
+Tiri	cir	Living
+Tiruray	tiy	Living
+Tita	tdq	Living
+Titan	ttv	Living
+Tiv	tiv	Living
+Tiwa	lax	Living
+Tiwi	tiw	Living
+Tlachichilco Tepehua	tpt	Living
+Tlacoapa Me'phaa	tpl	Living
+Tlacoatzintepec Chinantec	ctl	Living
+Tlacolulita Zapotec	zpk	Living
+Tlahuitoltepec Mixe	mxp	Living
+Tlamacazapa Nahuatl	nuz	Living
+Tlazoyaltepec Mixtec	mqh	Living
+Tlingit	tli	Living
+To	toz	Living
+To'abaita	mlu	Living
+Toaripi	tqo	Living
+Toba	tob	Living
+Tobagonian Creole English	tgh	Living
+Toba-Maskoy	tmf	Living
+Tobanga	tng	Living
+Tobati	tti	Living
+Tobelo	tlb	Living
+Tobian	tox	Living
+Tobilung	tgb	Living
+Tobo	tbv	Living
+Tocantins Asurini	asu	Living
+Tocho	taz	Living
+Toda	tcx	Living
+Todrah	tdr	Living
+Tofanma	tlg	Living
+Tofin Gbe	tfi	Living
+Togbo-Vara Banda	tor	Living
+Tohono O'odham	ood	Living
+Tojolabal	toj	Living
+Tok Pisin	tpi	Living
+Tokano	zuh	Living
+Tokelau	tkl	Living
+Toku-No-Shima	tkn	Living
+Tol	jic	Living
+Tolaki	lbw	Living
+Tolomako	tlm	Living
+Tolowa	tol	Living
+Toma	tod	Living
+Tomadino	tdi	Living
+Tombelala	ttp	Living
+Tombonuo	txa	Living
+Tombulu	tom	Living
+Tomini	txm	Living
+Tommo So Dogon	dto	Living
+Tomo Kan Dogon	dtm	Living
+Tomoip	tqp	Living
+Tondano	tdn	Living
+Tondi Songway Kiini	tst	Living
+Tonga (Nyasa)	tog	Living
+Tonga (Thailand)	tnz	Living
+Tonga (Tonga Islands)	ton	Living
+Tonga (Zambia)	toi	Living
+Tongwe	tny	Living
+Tonsawang	tnw	Living
+Tonsea	txs	Living
+Tontemboan	tnt	Living
+Tooro	ttj	Living
+Topoiyo	toy	Living
+Toposa	toq	Living
+Toraja-Sa'dan	sda	Living
+Toram	trj	Living
+Torau	ttu	Living
+Tornedalen Finnish	fit	Living
+Toro	tdv	Living
+Toro So Dogon	dts	Living
+Toro Tegu Dogon	dtt	Living
+Toromono	tno	Living
+Torres Strait Creole	tcs	Living
+Torricelli	tei	Living
+Torwali	trw	Living
+Tosk Albanian	als	Living
+Totela	ttl	Living
+Toto	txo	Living
+Totoli	txe	Living
+Totomachapan Zapotec	zph	Living
+Totontepec Mixe	mto	Living
+Totoro	ttk	Living
+Touo	tqu	Living
+Toura (Côte d'Ivoire)	neb	Living
+Toura (Papua New Guinea)	don	Living
+Towei	ttn	Living
+Traveller Norwegian	rmg	Living
+Traveller Scottish	trl	Living
+Tregami	trm	Living
+Trieng	stg	Living
+Trimuris	tip	Living
+Tring	tgq	Living
+Tringgus-Sembaan Bidayuh	trx	Living
+Trinidad and Tobago Sign Language	lst	Living
+Trinidadian Creole English	trf	Living
+Trinitario	trn	Living
+Trió	tri	Living
+Trumai	tpy	Living
+Tsaangi	tsa	Living
+Tsakhur	tkr	Living
+Tsakonian	tsd	Living
+Tsakwambo	kvz	Living
+Tsamai	tsb	Living
+Tsat	huq	Living
+Tseku	tsk	Living
+Tshangla	tsj	Living
+Tsikimba	kdl	Living
+Tsimané	cas	Living
+Tsimihety Malagasy	xmw	Living
+Tsimshian	tsi	Living
+Tsishingini	tsw	Living
+Tso	ldp	Living
+Tsoa	hio	Living
+Tsogo	tsv	Living
+Tsonga	tso	Living
+Tsotso	lto	Living
+Tsou	tsu	Living
+Tsucuba	cbq	Living
+Tsum	ttz	Living
+Ts'ün-Lao	tsl	Living
+Tsuvadi	tvd	Living
+Tsuvan	tsh	Living
+Tswa	tsc	Living
+Tswana	tsn	Living
+Tswapong	two	Living
+Tu	mjg	Living
+Tuamotuan	pmt	Living
+Tübatulabal	tub	Living
+Tucano	tuo	Living
+Tugen	tuy	Living
+Tugun	tzn	Living
+Tugutil	tuj	Living
+Tukang Besi North	khc	Living
+Tukang Besi South	bhq	Living
+Tuki	bag	Living
+Tukpa	tpq	Living
+Tukudede	tkd	Living
+Tula	tul	Living
+Tulehu	tlu	Living
+Tulishi	tey	Living
+Tulu	tcy	Living
+Tulu-Bohuai	rak	Living
+Tuma-Irumu	iou	Living
+Tumak	tmc	Living
+Tumari Kanuri	krt	Living
+Tumbuka	tum	Living
+Tumi	kku	Living
+Tumleo	tmq	Living
+Tumtum	tbr	Living
+Tumulung Sisaala	sil	Living
+Tumzabt	mzb	Living
+Tundra Enets	enh	Living
+Tunen	tvu	Living
+Tungag	lcm	Living
+Tunggare	trt	Living
+Tunia	tug	Living
+Tunisian Arabic	aeb	Living
+Tunisian Sign Language	tse	Living
+Tunjung	tjg	Living
+Tunni	tqq	Living
+Tunzu	dza	Living
+Tuotomb	ttf	Living
+Tuparí	tpr	Living
+Tupuri	tui	Living
+Turaka	trh	Living
+Turi	trd	Living
+Turka	tuz	Living
+Turkana	tuv	Living
+Turkic Khalaj	klj	Living
+Turkish	tur	Living
+Turkish Sign Language	tsm	Living
+Turkmen	tuk	Living
+Turks And Caicos Creole English	tch	Living
+Turoyo	tru	Living
+Turumsa	tqm	Living
+Tuscarora	tus	Living
+Tutong	ttg	Living
+Tutsa Naga	tvt	Living
+Tutuba	tmi	Living
+Tututepec Mixtec	mtu	Living
+Tututni	tuu	Living
+Tuvalu	tvl	Living
+Tuvinian	tyv	Living
+Tuwali Ifugao	ifk	Living
+Tuwari	tww	Living
+Tuwuli	bov	Living
+Tuyuca	tue	Living
+Twendi	twn	Living
+Twents	twd	Living
+Twi	twi	Living
+Tyap	kcg	Living
+Tyaraity	woa	Living
+Tzeltal	tzh	Living
+Tzotzil	tzo	Living
+Tz'utujil	tzj	Living
+U	uuu	Living
+Uab Meto	aoz	Living
+Uare	ksj	Living
+Ubaghara	byc	Living
+Ubang	uba	Living
+Ubi	ubi	Living
+Ubir	ubr	Living
+Ucayali-Yurúa Ashéninka	cpb	Living
+Uda	uda	Living
+Udi	udi	Living
+Udihe	ude	Living
+Udmurt	udm	Living
+Uduk	udu	Living
+Ufim	ufi	Living
+Ugandan Sign Language	ugn	Living
+Ughele	uge	Living
+Ugong	ugo	Living
+Uhami	uha	Living
+Uighur	uig	Living
+Uisai	uis	Living
+Ujir	udj	Living
+Ukaan	kcf	Living
+Ukhwejo	ukh	Living
+Ukit	umi	Living
+Ukpe-Bayobiri	ukp	Living
+Ukpet-Ehom	akd	Living
+Ukrainian	ukr	Living
+Ukrainian Sign Language	ukl	Living
+Ukue	uku	Living
+Ukuriguma	ukg	Living
+Ukwa	ukq	Living
+Ukwuani-Aboh-Ndoni	ukw	Living
+Ulau-Suain	svb	Living
+Ulch	ulc	Living
+Ulithian	uli	Living
+Ullatan	ull	Living
+Ulukwumi	ulb	Living
+Ulumanda'	ulm	Living
+Ulwa	ulw	Living
+Uma	ppk	Living
+Uma' Lasan	xky	Living
+Uma' Lung	ulu	Living
+Umanakaina	gdn	Living
+Umatilla	uma	Living
+Umbundu	umb	Living
+Umbu-Ungu	ubu	Living
+Ume Sami	sju	Living
+Umeda	upi	Living
+Umiray Dumaget Agta	due	Living
+Umon	umm	Living
+Umpila	ump	Living
+Una	mtg	Living
+Unde Kaili	unz	Living
+Uneapa	bbn	Living
+Uneme	une	Living
+Unggumi	xgu	Living
+Unserdeutsch	uln	Living
+Unua	onu	Living
+Unubahe	unu	Living
+Upper Grand Valley Dani	dna	Living
+Upper Guinea Crioulo	pov	Living
+Upper Kinabatangan	dmg	Living
+Upper Kuskokwim	kuu	Living
+Upper Necaxa Totonac	tku	Living
+Upper Saxon	sxu	Living
+Upper Sorbian	hsb	Living
+Upper Tanana	tau	Living
+Upper Ta'oih	tth	Living
+Upper Taromi	tov	Living
+Ura (Papua New Guinea)	uro	Living
+Ura (Vanuatu)	uur	Living
+Urak Lawoi'	urk	Living
+Urali	url	Living
+Urapmin	urm	Living
+Urarina	ura	Living
+Urat	urt	Living
+Urdu	urd	Living
+Urhobo	urh	Living
+Uri	uvh	Living
+Urigina	urg	Living
+Urim	uri	Living
+Urimo	urx	Living
+Uripiv-Wala-Rano-Atchin	upv	Living
+Uru	ure	Living
+Uruangnirin	urn	Living
+Urubú-Kaapor	urb	Living
+Urubú-Kaapor Sign Language	uks	Living
+Uru-Eu-Wau-Wau	urz	Living
+Uruguayan Sign Language	ugy	Living
+Urum	uum	Living
+Uru-Pa-In	urp	Living
+Usaghade	usk	Living
+Usan	wnu	Living
+Usarufa	usa	Living
+Ushojo	ush	Living
+Usila Chinantec	cuc	Living
+Usku	ulf	Living
+Uspanteco	usp	Living
+Usui	usi	Living
+Utarmbung	omo	Living
+Ute-Southern Paiute	ute	Living
+ut-Ma'in	gel	Living
+Utu	utu	Living
+Uvbie	evh	Living
+Uya	usu	Living
+Uyajitaya	duk	Living
+Uzbek	uzb	Living
+Uzbeki Arabic	auz	Living
+Uzekwe	eze	Living
+Vaagri Booli	vaa	Living
+Vafsi	vaf	Living
+Vaghat-Ya-Bijim-Legeri	bij	Living
+Vaghri	vgr	Living
+Vaghua	tva	Living
+Vagla	vag	Living
+Vai	vai	Living
+Vaiphei	vap	Living
+Vale	vae	Living
+Valencian Sign Language	vsv	Living
+Valle Nacional Chinantec	cvn	Living
+Valman	van	Living
+Valpei	vlp	Living
+Vamale	mkt	Living
+Vame	mlr	Living
+Vangunu	mpr	Living
+Vanimo	vam	Living
+Vano	vnk	Living
+Vanuma	vau	Living
+Vao	vao	Living
+Varhadi-Nagpuri	vah	Living
+Varisi	vrs	Living
+Varli	vav	Living
+Vasavi	vas	Living
+Veddah	ved	Living
+Vehes	val	Living
+Veluws	vel	Living
+Vemgo-Mabas	vem	Living
+Venda	ven	Living
+Venetian	vec	Living
+Venezuelan Sign Language	vsl	Living
+Vengo	bav	Living
+Veps	vep	Living
+Vera'a	vra	Living
+Vidunda	vid	Living
+Viemo	vig	Living
+Vietnamese	vie	Living
+Vilela	vil	Living
+Vili	vif	Living
+Vincentian Creole English	svc	Living
+Vinmavis	vnm	Living
+Vinza	vin	Living
+Virgin Islands Creole English	vic	Living
+Vishavan	vis	Living
+Viti	vit	Living
+Vitou	vto	Living
+Vitu	wiv	Living
+Vlaams	vls	Living
+Vlaamse Gebarentaal	vgt	Living
+Vlax Romani	rmy	Living
+Vono	kch	Living
+Voro	vor	Living
+Võro	vro	Living
+Votic	vot	Living
+Vumbu	vum	Living
+Vunapu	vnp	Living
+Vunjo	vun	Living
+Vurës	msn	Living
+Vute	vut	Living
+Vwanji	wbi	Living
+Wa	wbm	Living
+Waama	wwa	Living
+Waata	ssn	Living
+Wab	wab	Living
+Wabo	wbb	Living
+Waboda	kmx	Living
+Waci Gbe	wci	Living
+Wadaginam	wdg	Living
+Waddar	wbq	Living
+Wadiyara Koli	kxp	Living
+Wadjiginy	wdj	Living
+Wae Rana	wrx	Living
+Wa'ema	wag	Living
+Waffa	waj	Living
+Wagawaga	wgb	Living
+Wagdi	wbr	Living
+Wageman	waq	Living
+Wagi	fad	Living
+Wahau Kayan	whu	Living
+Wahau Kenyah	whk	Living
+Wahgi	wgi	Living
+Waigali	wbk	Living
+Waigeo	wgo	Living
+Wailapa	wlr	Living
+Waima	rro	Living
+Waima'a	wmh	Living
+Waimaha	bao	Living
+Waimiri-Atroari	atr	Living
+Waioli	wli	Living
+Waiwai	waw	Living
+Waja	wja	Living
+Wajarri	wbv	Living
+Waka	wav	Living
+Wakde	wkd	Living
+Wakhi	wbl	Living
+Wala	lgl	Living
+Walak	wlw	Living
+Wali (Ghana)	wlx	Living
+Wali (Sudan)	wll	Living
+Walio	wla	Living
+Walla Walla	waa	Living
+Wallisian	wls	Living
+Walloon	wln	Living
+Walmajarri	wmt	Living
+Walser	wae	Living
+Walungge	ola	Living
+Wamas	wmc	Living
+Wambaya	wmb	Living
+Wambon	wms	Living
+Wambule	wme	Living
+Wamey	cou	Living
+Wampar	lbq	Living
+Wampur	waz	Living
+Wan	wan	Living
+Wanambre	wnb	Living
+Wanap	wnp	Living
+Wancho Naga	nnp	Living
+Wanda	wbh	Living
+Wandala	mfi	Living
+Wandamen	wad	Living
+Wandji	wdd	Living
+Wané	hwa	Living
+Waneci	wne	Living
+Wanga	lwg	Living
+Wangaaybuwan-Ngiyambaa	wyb	Living
+Wanggom	wng	Living
+Wanman	wbt	Living
+Wannu	jub	Living
+Wano	wno	Living
+Wantoat	wnc	Living
+Wanukaka	wnk	Living
+Wanyi	wny	Living
+Waorani	auc	Living
+Wapan	juk	Living
+Wãpha	juw	Living
+Wapishana	wap	Living
+Wara	wbf	Living
+Wára	tci	Living
+Warao	wba	Living
+Warapu	wra	Living
+Waray (Philippines)	war	Living
+Wardaman	wrr	Living
+Warduji	wrd	Living
+Warembori	wsa	Living
+Wares	wai	Living
+Waris	wrs	Living
+Waritai	wbe	Living
+War-Jaintia	aml	Living
+Warji	wji	Living
+Warkay-Bipim	bgv	Living
+Warlmanpa	wrl	Living
+Warlpiri	wbp	Living
+Warnang	wrn	Living
+Waropen	wrp	Living
+Warrgamay	wgy	Living
+Waru	wru	Living
+Warumungu	wrm	Living
+Waruna	wrv	Living
+Warwar Feni	hrw	Living
+Wasa	wss	Living
+Wasco-Wishram	wac	Living
+Wasembo	gsp	Living
+Washo	was	Living
+Waskia	wsk	Living
+Watakataui	wtk	Living
+Watam	wax	Living
+Watiwa	wtf	Living
+Watubela	wah	Living
+Waube	kop	Living
+Waurá	wau	Living
+Wauyai	wuy	Living
+Wawa	www	Living
+Wawonii	wow	Living
+Waxianghua	wxa	Living
+Wayampi	oym	Living
+Wayana	way	Living
+Wayanad Chetti	ctt	Living
+Wayoró	wyr	Living
+Wayu	vay	Living
+Wayuu	guc	Living
+Wè Northern	wob	Living
+Wè Southern	gxx	Living
+Wè Western	wec	Living
+Wedau	wed	Living
+Weh	weh	Living
+Wejewa	wew	Living
+Weliki	klh	Living
+Welsh	cym	Living
+Welsh Romani	rmw	Living
+Wemale	weo	Living
+Weme Gbe	wem	Living
+Wergaia	weg	Living
+Weri	wer	Living
+Wersing	kvw	Living
+West Albay Bikol	fbl	Living
+West Ambae	nnd	Living
+West Berawan	zbw	Living
+West Central Banda	bbp	Living
+West Central Oromo	gaz	Living
+West Coast Bajau	bdr	Living
+West Damar	drn	Living
+West Goodenough	ddi	Living
+West Kewa	kew	Living
+West Lembata	lmj	Living
+West Makian	mqs	Living
+West Masela	mss	Living
+West Tarangan	txn	Living
+West Uvean	uve	Living
+West Yugur	ybe	Living
+West-Central Limba	lia	Living
+Western Abnaki	abe	Living
+Western Apache	apw	Living
+Western Arrarnta	are	Living
+Western Balochi	bgn	Living
+Western Bolivian Guaraní	gnw	Living
+Western Bru	brv	Living
+Western Bukidnon Manobo	mbb	Living
+Western Cham	cja	Living
+Western Dani	dnw	Living
+Western Durango Nahuatl	azn	Living
+Western Fijian	wyy	Living
+Western Frisian	fry	Living
+Western Gurung	gvr	Living
+Western Highland Chatino	ctp	Living
+Western Highland Purepecha	pua	Living
+Western Huasteca Nahuatl	nhw	Living
+Western Juxtlahuaca Mixtec	jmx	Living
+Western Kanjobal	knj	Living
+Western Karaboro	kza	Living
+Western Katu	kuf	Living
+Western Kayah	kyu	Living
+Western Keres	kjq	Living
+Western Krahn	krw	Living
+Western Lalu	ywl	Living
+Western Lawa	lcp	Living
+Western Magar	mrd	Living
+Western Maninkakan	mlq	Living
+Western Mari	mrj	Living
+Western Mashan Hmong	hmw	Living
+Western Meohang	raf	Living
+Western Muria	mut	Living
+Western Neo-Aramaic	amw	Living
+Western Niger Fulfulde	fuh	Living
+Western Ojibwa	ojw	Living
+Western Panjabi	pnb	Living
+Western Parbate Kham	kjl	Living
+Western Penan	pne	Living
+Western Sisaala	ssl	Living
+Western Subanon	suc	Living
+Western Tamang	tdg	Living
+Western Tawbuid	twb	Living
+Western Totonac	tqt	Living
+Western Tunebo	tnb	Living
+Western Xiangxi Miao	mmr	Living
+Western Xwla Gbe	xwl	Living
+Western Yiddish	yih	Living
+Westphalien	wep	Living
+Wetamut	wwo	Living
+White Gelao	giw	Living
+White Lachi	lwh	Living
+Whitesands	tnp	Living
+Wiarumus	tua	Living
+Wichí Lhamtés Güisnay	mzh	Living
+Wichí Lhamtés Nocten	mtp	Living
+Wichí Lhamtés Vejoz	wlv	Living
+Wichita	wic	Living
+Wikalkan	wik	Living
+Wik-Iiyanh	wij	Living
+Wik-Me'anha	wih	Living
+Wik-Mungkan	wim	Living
+Wik-Ngathana	wig	Living
+Wikngenchera	wua	Living
+Wintu	wnw	Living
+Winyé	kst	Living
+Wipi	gdr	Living
+Wiru	wiu	Living
+Wogamusin	wog	Living
+Wogeo	woc	Living
+Woi	wbw	Living
+Wojenaka	jod	Living
+Wolane	wle	Living
+Wolani	wod	Living
+Wolaytta	wal	Living
+Woleaian	woe	Living
+Wolio	wlo	Living
+Wolof	wol	Living
+Wom (Nigeria)	wom	Living
+Wom (Papua New Guinea)	wmo	Living
+Womo	wmx	Living
+Wongo	won	Living
+Woods Cree	cwd	Living
+Woria	wor	Living
+Worodougou	jud	Living
+Wotu	wtw	Living
+Woun Meu	noa	Living
+Wu Chinese	wuu	Living
+Wuding-Luquan Yi	ywq	Living
+Wudu	wud	Living
+Wulna	wux	Living
+Wumboko	bqm	Living
+Wumbvu	wum	Living
+Wumeng Nasu	ywu	Living
+Wunai Bunu	bwn	Living
+Wunambal	wub	Living
+Wusa Nasu	yig	Living
+Wushi	bse	Living
+Wusi	wsi	Living
+Wutung	wut	Living
+Wutunhua	wuh	Living
+Wuvulu-Aua	wuv	Living
+Wuzlam	udl	Living
+Wyandot	wya	Living
+Wymysorys	wym	Living
+Xaasongaxango	kao	Living
+Xadani Zapotec	zax	Living
+Xamtanga	xan	Living
+Xanaguía Zapotec	ztg	Living
+Xârâcùù	ane	Living
+Xârâgurè	axx	Living
+Xavánte	xav	Living
+Xerénte	xer	Living
+Xetá	xet	Living
+Xhosa	xho	Living
+Xiang Chinese	hsn	Living
+Xibe	sjo	Living
+Xicotepec De Juárez Totonac	too	Living
+Xingú Asuriní	asn	Living
+Xipaya	xiy	Living
+Xiri	xii	Living
+Xishanba Lalo	ywt	Living
+Xokleng	xok	Living
+Xwela Gbe	xwe	Living
+Yaaku	muu	Living
+Yabarana	yar	Living
+Yabem	jae	Living
+Yaben	ybm	Living
+Yabong	ybo	Living
+Yace	ekr	Living
+Yaeyama	rys	Living
+Yafi	wfg	Living
+Yagaria	ygr	Living
+Yagnobi	yai	Living
+Yagomi	ygm	Living
+Yagua	yad	Living
+Yagwoia	ygw	Living
+Yahadian	ner	Living
+Yahang	rhp	Living
+Yaka (Central African Republic)	axk	Living
+Yaka (Congo)	iyx	Living
+Yaka (Democratic Republic of Congo)	yaf	Living
+Yakaikeke	ykk	Living
+Yakama	yak	Living
+Yakan	yka	Living
+Yakha	ybh	Living
+Yakoma	yky	Living
+Yakut	sah	Living
+Yala	yba	Living
+Yalahatan	jal	Living
+Yalálag Zapotec	zpu	Living
+Yale	nce	Living
+Yaleba	ylb	Living
+Yalunka	yal	Living
+Yámana	yag	Living
+Yamap	ymp	Living
+Yamba	yam	Living
+Yambes	ymb	Living
+Yambeta	yat	Living
+Yamdena	jmd	Living
+Yami	tao	Living
+Yaminahua	yaa	Living
+Yamna	ymn	Living
+Yamongeri	ymg	Living
+Yamphu	ybi	Living
+Yanahuanca Pasco Quechua	qur	Living
+Yanda Dom Dogon	dym	Living
+Yanesha'	ame	Living
+Yang Zhuang	zyg	Living
+Yangben	yav	Living
+Yangkam	bsx	Living
+Yango	yng	Living
+Yangulam	ynl	Living
+Yangum Dey	yde	Living
+Yangum Gel	ygl	Living
+Yangum Mon	ymo	Living
+Yankunytjatjara	kdd	Living
+Yan-nhangu	jay	Living
+Yan-nhangu Sign Language	yhs	Living
+Yanomámi	wca	Living
+Yanomamö	guu	Living
+Yansi	yns	Living
+Yanyuwa	jao	Living
+Yao	yao	Living
+Yaosakor Asmat	asy	Living
+Yaouré	yre	Living
+Yapese	yap	Living
+Yapunda	yev	Living
+Yaqay	jaq	Living
+Yaqui	yaq	Living
+Yarawata	yrw	Living
+Yareba	yrb	Living
+Yareni Zapotec	zae	Living
+Yarí	yri	Living
+Yarluyandi	yry	Living
+Yarsun	yrs	Living
+Yasa	yko	Living
+Yatee Zapotec	zty	Living
+Yatzachi Zapotec	zav	Living
+Yau (Morobe Province)	yuw	Living
+Yau (Sandaun Province)	yyu	Living
+Yaul	yla	Living
+Yauma	yax	Living
+Yaur	jau	Living
+Yautepec Zapotec	zpb	Living
+Yauyos Quechua	qux	Living
+Yawa	yva	Living
+Yawalapití	yaw	Living
+Yawanawa	ywn	Living
+Yaweyuha	yby	Living
+Yawiyo	ybx	Living
+Yawuru	ywr	Living
+Yazgulyam	yah	Living
+Yecuatla Totonac	tlc	Living
+Yei	jei	Living
+Yekhee	ets	Living
+Yekora	ykr	Living
+Yela	yel	Living
+Yele	yle	Living
+Yelmek	jel	Living
+Yelogu	ylg	Living
+Yemba	ybb	Living
+Yemsa	jnj	Living
+Yendang	ynq	Living
+Yeniche	yec	Living
+Yerakai	yra	Living
+Yeretuar	gop	Living
+Yerong	yrn	Living
+Yerukula	yeu	Living
+Yessan-Mayo	yss	Living
+Yetfa	yet	Living
+Yevanic	yej	Living
+Yeyi	yey	Living
+Yiddish	yid	Living
+Yidgha	ydg	Living
+Yidiny	yii	Living
+Yil	yll	Living
+Yimas	yee	Living
+Yimchungru Naga	yim	Living
+Yinbaw Karen	kvu	Living
+Yinchia	yin	Living
+Yindjibarndi	yij	Living
+Yine	pib	Living
+Yinggarda	yia	Living
+Yinhawangka	ywg	Living
+Yintale Karen	kvy	Living
+Yirandali	ljw	Living
+Yirrk-Mel	yrm	Living
+Yis	yis	Living
+Yiwom	gek	Living
+Yocoboué Dida	gud	Living
+Yogad	yog	Living
+Yoidik	ydk	Living
+Yoke	yki	Living
+Yokuts	yok	Living
+Yol?u Sign Language	ygs	Living
+Yoloxochitl Mixtec	xty	Living
+Yom	pil	Living
+Yombe	yom	Living
+Yonaguni	yoi	Living
+Yong	yno	Living
+Yongbei Zhuang	zyb	Living
+Yongkom	yon	Living
+Yongnan Zhuang	zyn	Living
+Yopno	yut	Living
+Yora	mts	Living
+Yoron	yox	Living
+Yorta Yorta	xyy	Living
+Yoruba	yor	Living
+Yosondúa Mixtec	mpm	Living
+Yotti	yot	Living
+Youjiang Zhuang	zyj	Living
+Youle Jinuo	jiu	Living
+Younuo Bunu	buh	Living
+Yout Wam	ytw	Living
+Yoy	yoy	Living
+Yuanga	nua	Living
+Yucatec Maya Sign Language	msd	Living
+Yucateco	yua	Living
+Yuchi	yuc	Living
+Yucuañe Mixtec	mvg	Living
+Yucuna	ycn	Living
+Yue Chinese	yue	Living
+Yugoslavian Sign Language	ysl	Living
+Yugul	ygu	Living
+Yuhup	yab	Living
+Yukpa	yup	Living
+Yukuben	ybl	Living
+Yulu	yul	Living
+Yuqui	yuq	Living
+Yuracare	yuz	Living
+Yurok	yur	Living
+Yurutí	yui	Living
+Yutanduchi Mixtec	mab	Living
+Yuwana	yau	Living
+Zaachila Zapotec	ztx	Living
+Zabana	kji	Living
+Zacatepec Chatino	ctz	Living
+Zacatlán-Ahuacatlán-Tepetzintla Nahuatl	nhi	Living
+Zaghawa	zag	Living
+Zaiwa	atb	Living
+Zakhring	zkr	Living
+Zambian Sign Language	zsl	Living
+Zan Gula	zna	Living
+Zanaki	zak	Living
+Zande (individual language)	zne	Living
+Zangskari	zau	Living
+Zangwal	zah	Living
+Zaniza Zapotec	zpw	Living
+Záparo	zro	Living
+Zapotec	zap	Living
+Zaramo	zaj	Living
+Zari	zaz	Living
+Zarma	dje	Living
+Zauzou	zal	Living
+Zay	zwa	Living
+Zayein Karen	kxk	Living
+Zayse-Zergulla	zay	Living
+Zaza	zza	Living
+Zazao	jaj	Living
+Zeem	zua	Living
+Zeeuws	zea	Living
+Zemba	dhm	Living
+Zeme Naga	nzm	Living
+Zenag	zeg	Living
+Zenaga	zen	Living
+Zenzontepec Chatino	czn	Living
+Zerenkel	zrn	Living
+Zhaba	zhb	Living
+Zhire	zhi	Living
+Zhoa	zhw	Living
+Zhuang	zha	Living
+Zia	zia	Living
+Zialo	zil	Living
+Zigula	ziw	Living
+Zimakani	zik	Living
+Zimba	zmb	Living
+Zimbabwe Sign Language	zib	Living
+Zinza	zin	Living
+Zire	sih	Living
+Zizilivakan	ziz	Living
+Zo'é	pto	Living
+Zokhuo	yzk	Living
+Zoogocho Zapotec	zpq	Living
+Zoroastrian Dari	gbz	Living
+Zotung Chin	czt	Living
+Zou	zom	Living
+Zulgo-Gemzek	gnd	Living
+Zulu	zul	Living
+Zumaya	zuy	Living
+Zumbun	jmb	Living
+Zuni	zun	Living
+Zuojiang Zhuang	zzj	Living
+Zyphe Chin	zyp	Living
+Ancient Greek (to 1453)	grc	Historic
+Ancient Hebrew	hbo	Historic
+Ancient Zapotec	xzp	Historic
+Andalusian Arabic	xaa	Historic
+Anglo-Norman	xno	Historic
+Ardhamagadhi Prakrit	pka	Historic
+Classical Armenian	xcl	Historic
+Classical Mandaic	myz	Historic
+Classical Mongolian	cmg	Historic
+Classical Nahuatl	nci	Historic
+Classical Newari	nwc	Historic
+Classical Quechua	qwc	Historic
+Classical Syriac	syc	Historic
+Classical Tibetan	xct	Historic
+Gandhari	pgd	Historic
+Jewish Palestinian Aramaic	jpa	Historic
+Kaikavian Literary Language	kjv	Historic
+Karakhanid	xqa	Historic
+Late Middle Chinese	ltc	Historic
+Literary Chinese	lzh	Historic
+Maharastri Prakrit	pmh	Historic
+Manichaean Middle Persian	xmn	Historic
+Middle Armenian	axm	Historic
+Middle Breton	xbm	Historic
+Middle Cornish	cnx	Historic
+Middle Dutch (ca. 1050-1350)	dum	Historic
+Middle English (1100-1500)	enm	Historic
+Middle French (ca. 1400-1600)	frm	Historic
+Middle High German (ca. 1050-1500)	gmh	Historic
+Middle Irish (900-1200)	mga	Historic
+Middle Korean (10th-16th cent.)	okm	Historic
+Middle Low German	gml	Historic
+Middle Mongolian	xng	Historic
+Middle Newar	nwx	Historic
+Middle Welsh	wlm	Historic
+Old Avar	oav	Historic
+Old Breton	obt	Historic
+Old Burmese	obr	Historic
+Old Cornish	oco	Historic
+Old Dutch	odt	Historic
+Old English (ca. 450-1100)	ang	Historic
+Old French (842-ca. 1400)	fro	Historic
+Old Frisian	ofs	Historic
+Old Georgian	oge	Historic
+Old High German (ca. 750-1050)	goh	Historic
+Old Hungarian	ohu	Historic
+Old Irish (to 900)	sga	Historic
+Old Japanese	ojp	Historic
+Old Korean (3rd-9th cent.)	oko	Historic
+Old Lithuanian	olt	Historic
+Old Manipuri	omp	Historic
+Old Marathi	omr	Historic
+Old Mon	omx	Historic
+Old Norse	non	Historic
+Old Nubian	onw	Historic
+Old Persian (ca. 600-400 B.C.)	peo	Historic
+Old Provençal (to 1500)	pro	Historic
+Old Russian	orv	Historic
+Old Saxon	osx	Historic
+Old Spanish	osp	Historic
+Old Tibetan	otb	Historic
+Old Turkish	otk	Historic
+Old Uighur	oui	Historic
+Old Welsh	owl	Historic
+Ottoman Turkish (1500-1928)	ota	Historic
+Sauraseni Prakrit	psu	Historic
+Siculo Arabic	sqr	Historic
+Tumshuqese	xtq	Historic
+ǀXam	xam	Extinct
+ǁXegwi	xeg	Extinct
+Abipon	axb	Extinct
+Abishira	ash	Extinct
+Acroá	acs	Extinct
+Adai	xad	Extinct
+Adithinngithigh	dth	Extinct
+Agavotaguerra	avo	Extinct
+Aghu-Tharnggala	gtu	Extinct
+Aghwan	xag	Extinct
+Aguano	aga	Extinct
+Ahom	aho	Extinct
+Ajawa	ajw	Extinct
+Aka-Bea	abj	Extinct
+Aka-Bo	akm	Extinct
+Aka-Cari	aci	Extinct
+Aka-Jeru	akj	Extinct
+Aka-Kede	akx	Extinct
+Aka-Kol	aky	Extinct
+Aka-Kora	ack	Extinct
+Akar-Bale	acl	Extinct
+Akkala Sami	sia	Extinct
+Alapmunte	apv	Extinct
+Alngith	aid	Extinct
+Alsea	aes	Extinct
+Amanayé	ama	Extinct
+Andaqui	ana	Extinct
+Andoa	anb	Extinct
+Angkamuthi	avm	Extinct
+Anguthimri	awg	Extinct
+Anserma	ans	Extinct
+Aore	aor	Extinct
+Apalachee	xap	Extinct
+Arabana	ard	Extinct
+Arakwal	rkw	Extinct
+Aranama-Tamique	xrt	Extinct
+Arapaso	arj	Extinct
+Ararandewára	xaj	Extinct
+Areba	aea	Extinct
+Aribwatsa	laz	Extinct
+Arikem	ait	Extinct
+Arin	xrn	Extinct
+Arma	aoh	Extinct
+Armazic	xrm	Extinct
+Arritinngithigh	rrt	Extinct
+Aruá (Amazonas State)	aru	Extinct
+Assan	xss	Extinct
+Atakapa	aqp	Extinct
+Atampaya	amz	Extinct
+Atsahuaca	atc	Extinct
+Aurá	aux	Extinct
+Aushiri	avs	Extinct
+Auyokawa	auo	Extinct
+Awabakal	awk	Extinct
+Awngthim	gwm	Extinct
+Ayabadhu	ayd	Extinct
+Ayerrerenge	axe	Extinct
+Badjiri	jbi	Extinct
+Baga Kaloum	bqf	Extinct
+Baga Sobané	bsv	Extinct
+Banggarla	bjb	Extinct
+Baniva	bvv	Extinct
+Barababaraba	rbp	Extinct
+Barbacoas	bpb	Extinct
+Barbaram	vmb	Extinct
+Barbareño	boi	Extinct
+Baré	bae	Extinct
+Barrow Point	bpt	Extinct
+Basa-Gumna	bsl	Extinct
+Basay	byq	Extinct
+Bay Miwok	mkq	Extinct
+Bayali	bjy	Extinct
+Baygo	byg	Extinct
+Beothuk	bue	Extinct
+Berbice Creole Dutch	brc	Extinct
+Berti	byt	Extinct
+Bibbulman	xbp	Extinct
+Bidhawal	ihw	Extinct
+Bigambal	xbe	Extinct
+Biloxi	bll	Extinct
+Bina (Papua New Guinea)	bmn	Extinct
+Bindal	xbd	Extinct
+Biri	bzr	Extinct
+Birked	brk	Extinct
+Birrpayi	xbj	Extinct
+Bolgarian	xbo	Extinct
+Boro (Ghana)	xxb	Extinct
+Bunganditj	xbg	Extinct
+Cacaopera	ccr	Extinct
+Cagua	cbh	Extinct
+Canichana	caz	Extinct
+Cappadocian Greek	cpg	Extinct
+Caramanta	crf	Extinct
+Carolina Algonquian	crr	Extinct
+Catawba	chc	Extinct
+Cauca	cca	Extinct
+Cayubaba	cyb	Extinct
+Cayuse	xcy	Extinct
+Chagatai	chg	Extinct
+Chané	caj	Extinct
+Chemakum	xch	Extinct
+Chibcha	chb	Extinct
+Chicomuceltec	cob	Extinct
+Chimariko	cid	Extinct
+Chipiajes	cbe	Extinct
+Chitimacha	ctm	Extinct
+Cholón	cht	Extinct
+Chuvantsy	xcv	Extinct
+Coahuilteco	xcw	Extinct
+Coast Miwok	csi	Extinct
+Cochimi	coj	Extinct
+Comecrudo	xcm	Extinct
+Coptic	cop	Extinct
+Coquille	coq	Extinct
+Cotoname	xcn	Extinct
+Cowlitz	cow	Extinct
+Coxima	kox	Extinct
+Coyaima	coy	Extinct
+Cruzeño	crz	Extinct
+Cumanagoto	cuo	Extinct
+Cumbric	xcb	Extinct
+Cumeral	cum	Extinct
+Cupeño	cup	Extinct
+Curonian	xcu	Extinct
+Dadi Dadi	dda	Extinct
+Dagoman	dgn	Extinct
+Dalmatian	dlm	Extinct
+Daungwurrung	dgw	Extinct
+Dharuk	xdk	Extinct
+Dharumbal	xgm	Extinct
+Dhudhuroa	ddr	Extinct
+Dhurga	dhu	Extinct
+Dicamay Agta	duy	Extinct
+Dieri	dif	Extinct
+Dirari	dit	Extinct
+Djadjawurrung	dja	Extinct
+Djangun	djf	Extinct
+Djawi	djw	Extinct
+Djiwarli	dze	Extinct
+Dororo	drr	Extinct
+Duli	duz	Extinct
+Dura	drq	Extinct
+Dyaberdyaber	dyb	Extinct
+Dyugun	dyd	Extinct
+Eastern Abnaki	aaq	Extinct
+Eastern Karnic	ekc	Extinct
+Eastern Pomo	peb	Extinct
+Epigraphic Mayan	emy	Extinct
+Erre	err	Extinct
+Esselen	esq	Extinct
+Esuma	esm	Extinct
+Etchemin	etc	Extinct
+Eyak	eya	Extinct
+Flinders Island	fln	Extinct
+Frankish	frk	Extinct
+Gabrielino-Fernandeño	xgf	Extinct
+Gafat	gft	Extinct
+Galice	gce	Extinct
+Galindan	xgl	Extinct
+Gambera	gma	Extinct
+Gamo-Ningi	bte	Extinct
+Ganggalida	gcd	Extinct
+Gangulu	gnl	Extinct
+Garig-Ilgar	ilg	Extinct
+Garingbal	xgi	Extinct
+Garlali	gll	Extinct
+Garza	xgr	Extinct
+Gbin	xgb	Extinct
+Gey	guv	Extinct
+Ghomara	gho	Extinct
+Golpa	lja	Extinct
+Goreng	xgg	Extinct
+Guana (Brazil)	gqn	Extinct
+Guanche	gnc	Extinct
+Gudang	xgd	Extinct
+Gugadj	ggd	Extinct
+Gugu Badhun	gdc	Extinct
+Gugu Warra	wrw	Extinct
+Gule	gly	Extinct
+Guliguli	gli	Extinct
+Gunditjmara	gjm	Extinct
+Gundungurra	xrd	Extinct
+Gungabula	gyf	Extinct
+Gunya	gyy	Extinct
+Gureng Gureng	gnr	Extinct
+Guwa	xgw	Extinct
+Guwamu	gwu	Extinct
+Guyani	gvy	Extinct
+Hermit	llf	Extinct
+Hiberno-Scottish Gaelic	ghc	Extinct
+Hibito	hib	Extinct
+Holma	hod	Extinct
+Homa	hom	Extinct
+Horo	hor	Extinct
+Hukumina	huw	Extinct
+Hunnic	xhc	Extinct
+Ifo	iff	Extinct
+Ikaranggal	ikr	Extinct
+Ineseño	inz	Extinct
+Iowa-Oto	iow	Extinct
+Island Carib	crb	Extinct
+Itene	ite	Extinct
+Jaitmatang	xjt	Extinct
+Jandai	jan	Extinct
+Javindo	jvd	Extinct
+Jewish Babylonian Aramaic (ca. 200-1200 CE)	tmr	Extinct
+Jorá	jor	Extinct
+Jurchen	juc	Extinct
+Kabixí	xbx	Extinct
+Kaimbé	xai	Extinct
+Kalaamaya	lkm	Extinct
+Kalarko	kba	Extinct
+Kalkutung	ktg	Extinct
+Kamakan	vkm	Extinct
+Kamas	xas	Extinct
+Kamba (Brazil)	xba	Extinct
+Kambiwá	xbw	Extinct
+Kamu	xmu	Extinct
+Kaniet	ktk	Extinct
+Kanoé	kxo	Extinct
+Kapinawá	xpn	Extinct
+Kara (Korea)	zra	Extinct
+Karami	xar	Extinct
+Karankawa	zkk	Extinct
+Karenggapa	eaa	Extinct
+Karipúna	kgm	Extinct
+Karirí-Xocó	kzw	Extinct
+Kariyarra	vka	Extinct
+Karkin	krb	Extinct
+Karranga	xrq	Extinct
+Karuwali	rxw	Extinct
+Katabaga	ktq	Extinct
+Kato	ktw	Extinct
+Kaurna	zku	Extinct
+Kaxuiâna	kbb	Extinct
+Kazukuru	kzk	Extinct
+Kemi Sami	sjk	Extinct
+Kenaboi	xbn	Extinct
+Kepkiriwát	kpn	Extinct
+Kerek	krk	Extinct
+Ketangalan	kae	Extinct
+Khazar	zkz	Extinct
+Khorezmian	zkh	Extinct
+Kitan	zkt	Extinct
+Kitsai	kii	Extinct
+Klamath-Modoc	kla	Extinct
+Knaanic	czk	Extinct
+Koguryo	zkg	Extinct
+Koibal	zkb	Extinct
+Kok-Nar	gko	Extinct
+Koko Babangk	okg	Extinct
+Korana	kqz	Extinct
+Koropó	xxr	Extinct
+Kott	zko	Extinct
+Kpati	koc	Extinct
+Krevinian	zkv	Extinct
+Kubi	kof	Extinct
+Kuku-Mangk	xmq	Extinct
+Kuku-Mu'inh	xmp	Extinct
+Kuku-Ugbanh	ugb	Extinct
+Kuman (Russia)	qwm	Extinct
+Kungarakany	ggk	Extinct
+Kungardutyi	gdt	Extinct
+Kunggari	kgl	Extinct
+Kungkari	lku	Extinct
+Kunza	kuz	Extinct
+Kuthant	xut	Extinct
+Kuuk-Yak	uky	Extinct
+Kwadi	kwz	Extinct
+Kw'adza	wka	Extinct
+Kwalhioqua-Tlatskanai	qwt	Extinct
+Ladji Ladji	llj	Extinct
+Lamu-Lamu	lby	Extinct
+Lanima	lnw	Extinct
+Laragia	lrg	Extinct
+Laurentian	lre	Extinct
+Lelak	llk	Extinct
+Lenca	len	Extinct
+Leningitij	lnj	Extinct
+Limilngan	lmc	Extinct
+Lingua Franca	pml	Extinct
+Loup A	xlo	Extinct
+Loup B	xlb	Extinct
+Lower Burdekin	xbb	Extinct
+Lower Chehalis	cea	Extinct
+Lower Southern Aranda	axl	Extinct
+Lui	lba	Extinct
+Lule	ule	Extinct
+Lumbee	lmz	Extinct
+Macaguaje	mcl	Extinct
+Madhi Madhi	dmd	Extinct
+Maek	hmk	Extinct
+Mahican	mjy	Extinct
+Makolkol	zmh	Extinct
+Malaryan	mjq	Extinct
+Malgana	vml	Extinct
+Malyangapa	yga	Extinct
+Mamulique	emm	Extinct
+Manangkari	znk	Extinct
+Mandandanyi	zmk	Extinct
+Mangala	mem	Extinct
+Mangerr	zme	Extinct
+Mangue	mom	Extinct
+Margany	zmc	Extinct
+Maritsauá	msp	Extinct
+Martha's Vineyard Sign Language	mre	Extinct
+Matagalpa	mtn	Extinct
+Matipuhy	mzo	Extinct
+Mato Grosso Arára	axg	Extinct
+Mator	mtm	Extinct
+Mattole	mvb	Extinct
+Mawa (Nigeria)	wma	Extinct
+Mayawali	yxa	Extinct
+Mayi-Kulan	xyk	Extinct
+Mayi-Thakurti	xyt	Extinct
+Mayi-Yapi	xyj	Extinct
+Mbara (Australia)	mvl	Extinct
+Mbariman-Gudhinma	zmv	Extinct
+Mesmes	mys	Extinct
+Michigamea	cmm	Extinct
+Miluk	iml	Extinct
+Minang	xrg	Extinct
+Minjungbal	xjb	Extinct
+Minkin	xxm	Extinct
+Miriti	mmv	Extinct
+Mittu	mwu	Extinct
+Miwa	vmi	Extinct
+Mlahsö	lhs	Extinct
+Mobilian	mod	Extinct
+Mochica	omc	Extinct
+Mohegan-Pequot	xpq	Extinct
+Moksela	vms	Extinct
+Molale	mbe	Extinct
+Mozarabic	mxi	Extinct
+Mpalitjanh	xpj	Extinct
+Mulaha	mfw	Extinct
+Muluridyi	vmu	Extinct
+Muruwari	zmu	Extinct
+Muskum	mje	Extinct
+Nadruvian	ndf	Extinct
+Nagumi	ngv	Extinct
+Nanticoke	nnt	Extinct
+Narau	nxu	Extinct
+Nari Nari	rnr	Extinct
+Narragansett	xnt	Extinct
+Narrinyeri	nay	Extinct
+Narungga	nnr	Extinct
+Natagaimas	nts	Extinct
+Natchez	ncz	Extinct
+Nauo	nwo	Extinct
+Nawathinehena	nwa	Extinct
+Nding	eli	Extinct
+Ndra'ngith	dgt	Extinct
+Negerhollands	dcr	Extinct
+Ngadjuri	jui	Extinct
+Ngalakan	nig	Extinct
+Ngamini	nmv	Extinct
+Nganakarti	xnk	Extinct
+Ngandi	nid	Extinct
+Ngantangarra	ntg	Extinct
+Nganyaywana	nyx	Extinct
+Ngarigu	xni	Extinct
+Ngawun	nxn	Extinct
+Ngayawung	nwg	Extinct
+Ngbee	jgb	Extinct
+Ngunawal	xul	Extinct
+Ngurmbur	nrx	Extinct
+Nhirrpi	hrp	Extinct
+Nimanbur	nmp	Extinct
+Nimbari	nmr	Extinct
+Niuatoputapu	nkp	Extinct
+Nocamán	nom	Extinct
+Nomlaki	nol	Extinct
+Nooksack	nok	Extinct
+Norn	nrn	Extinct
+Norra	nrr	Extinct
+Northeastern Pomo	pef	Extinct
+Northern Kalapuya	nrt	Extinct
+Northern Pomo	pej	Extinct
+Nottoway	ntw	Extinct
+Nottoway-Meherrin	nwy	Extinct
+Nugunu (Australia)	nnv	Extinct
+Nukuini	nuc	Extinct
+Nukunul	xnu	Extinct
+Nungali	nug	Extinct
+Nyangga	nny	Extinct
+Nyang'i	nyp	Extinct
+Nyawaygi	nyt	Extinct
+Nyulnyul	nyv	Extinct
+Obispeño	obi	Extinct
+O'chi'chi'	xoc	Extinct
+Ofo	ofo	Extinct
+Oko-Juwoi	okj	Extinct
+Old Kentish Sign Language	okl	Extinct
+Olkol	olk	Extinct
+Omejes	ome	Extinct
+Omok	omk	Extinct
+Omurano	omu	Extinct
+Opata	opt	Extinct
+Oti	oti	Extinct
+Otuke	otu	Extinct
+Ouma	oum	Extinct
+Paekche	pkc	Extinct
+Pallanganmiddang	pmd	Extinct
+Palumata	pmc	Extinct
+Pamlico	pmk	Extinct
+Pankararé	pax	Extinct
+Pankararú	paz	Extinct
+Panobo	pno	Extinct
+Papora	ppu	Extinct
+Paranawát	paf	Extinct
+Paraujano	pbg	Extinct
+Pataxó Hã-Ha-Hãe	pth	Extinct
+Patwin	pwi	Extinct
+Pauserna	psm	Extinct
+Pecheneg	xpc	Extinct
+Pentlatch	ptw	Extinct
+Pictish	xpi	Extinct
+Pidgin Delaware	dep	Extinct
+Pijao	pij	Extinct
+Pinjarup	pnj	Extinct
+Pirlatapa	bxi	Extinct
+Piro	pie	Extinct
+Pirriya	xpa	Extinct
+Piscataway	psy	Extinct
+Pisidian	xps	Extinct
+Pitta Pitta	pit	Extinct
+Pochutec	xpo	Extinct
+Polabian	pox	Extinct
+Ponares	pod	Extinct
+Potiguára	pog	Extinct
+Powhatan	pim	Extinct
+Puelche	pue	Extinct
+Pumpokol	xpm	Extinct
+Punthamara	xpt	Extinct
+Puquina	puq	Extinct
+Puri	prr	Extinct
+Purisimeño	puy	Extinct
+Puyo	xpy	Extinct
+Puyo-Paekche	xpp	Extinct
+Quinault	qun	Extinct
+Quiripi	qyp	Extinct
+Rangkas	rgk	Extinct
+Rema	bow	Extinct
+Remo	rem	Extinct
+Rer Bare	rer	Extinct
+Runa	rna	Extinct
+Salinan	sln	Extinct
+Samaritan	smp	Extinct
+Samaritan Aramaic	sam	Extinct
+São Paulo Kaingáng	zkp	Extinct
+Saraveca	sar	Extinct
+Selian	sxl	Extinct
+Sened	sds	Extinct
+Senhaja De Srair	sjs	Extinct
+Sensi	sni	Extinct
+Seroa	kqu	Extinct
+Seru	szd	Extinct
+Shasta	sht	Extinct
+Shinabo	snh	Extinct
+Shuadit	sdt	Extinct
+Singa	sgm	Extinct
+Siraya	fos	Extinct
+Sirenik Yupik	ysr	Extinct
+Siuslaw	sis	Extinct
+Skalvian	svx	Extinct
+Skepi Creole Dutch	skw	Extinct
+Solano	xso	Extinct
+Som	smc	Extinct
+Somray	smu	Extinct
+Southern Kalapuya	sxk	Extinct
+Southern Ohlone	css	Extinct
+Southern Pame	pmz	Extinct
+Sowa	sww	Extinct
+Subtiaba	sut	Extinct
+Sudovian	xsv	Extinct
+Susquehannock	sqn	Extinct
+Tabasco Nahuatl	nhc	Extinct
+Tagalaka	tgz	Extinct
+Taino	tnq	Extinct
+Takelma	tkm	Extinct
+Tama (Colombia)	ten	Extinct
+Taman (Myanmar)	tcl	Extinct
+Tamanaku	tmz	Extinct
+Tambora	xxt	Extinct
+Tapeba	tbb	Extinct
+Tasmanian	xtz	Extinct
+Tay Boi	tas	Extinct
+Tayabas Ayta	ayy	Extinct
+Tepecano	tep	Extinct
+Ternateño	tmg	Extinct
+Teshenawa	twc	Extinct
+Tetete	teb	Extinct
+Thawa	xtv	Extinct
+Thaypan	typ	Extinct
+Thiin	iin	Extinct
+Thurawal	tbh	Extinct
+Tillamook	til	Extinct
+Timor Pidgin	tvy	Extinct
+Timucua	tjm	Extinct
+Tingui-Boto	tgv	Extinct
+Tjurruru	tju	Extinct
+Togoyo	tgy	Extinct
+Tomedes	toe	Extinct
+Tonjon	tjn	Extinct
+Tonkawa	tqw	Extinct
+Torá	trz	Extinct
+Torona	tqr	Extinct
+Traveller Danish	rmd	Extinct
+Tremembé	tme	Extinct
+Truká	tka	Extinct
+Tsetsaut	txc	Extinct
+Tubar	tbu	Extinct
+Tukumanféd	tkf	Extinct
+Tunica	tun	Extinct
+Tupí	tpw	Extinct
+Tupinambá	tpn	Extinct
+Tupinikin	tpk	Extinct
+Turiwára	twt	Extinct
+Turung	try	Extinct
+Tutelo	tta	Extinct
+Tuxá	tud	Extinct
+Tuxináwa	tux	Extinct
+Twana	twa	Extinct
+Uamué	uam	Extinct
+Ubykh	uby	Extinct
+Umbindhamu	umd	Extinct
+Umbugarla	umr	Extinct
+Umbuygamu	umg	Extinct
+Umiida	xud	Extinct
+Umotína	umo	Extinct
+Unami	unm	Extinct
+Unggaranggu	xun	Extinct
+Ungkue	gku	Extinct
+Upper Chehalis	cjh	Extinct
+Upper Umpqua	xup	Extinct
+Uradhi	urf	Extinct
+Urningangg	urc	Extinct
+Uruava	urv	Extinct
+Urumi	uru	Extinct
+Valley Maidu	vmv	Extinct
+Ventureño	veo	Extinct
+Villa Viciosa Agta	dyg	Extinct
+Waamwang	wmn	Extinct
+Wadi Wadi	xwd	Extinct
+Wadikali	wdk	Extinct
+Wadjabangayi	wdy	Extinct
+Wadjigu	wdu	Extinct
+Wagaya	wga	Extinct
+Wailaki	wlk	Extinct
+Wajuk	xwj	Extinct
+Wakabunga	wwb	Extinct
+Wakawaka	wkw	Extinct
+Wakoná	waf	Extinct
+Walangama	nlw	Extinct
+Waling	wly	Extinct
+Wamin	wmi	Extinct
+Wampanoag	wam	Extinct
+Wandarang	wnd	Extinct
+Wanggamala	wnm	Extinct
+Wangganguru	wgg	Extinct
+Wangkayutyuru	wky	Extinct
+Wangkumara	xwk	Extinct
+Wappo	wao	Extinct
+Waray (Australia)	wrz	Extinct
+Wardandi	wxw	Extinct
+Wariyangga	wri	Extinct
+Warluwara	wrb	Extinct
+Warrwa	wwr	Extinct
+Warungu	wrg	Extinct
+Wasu	wsu	Extinct
+Wathawurrung	wth	Extinct
+Wemba Wemba	xww	Extinct
+Wewaw	wea	Extinct
+Weyto	woy	Extinct
+Wik-Epa	wie	Extinct
+Wik-Keyangan	wif	Extinct
+Wilawila	wil	Extinct
+Wiradhuri	wrh	Extinct
+Wiraféd	wir	Extinct
+Wirangu	wgu	Extinct
+Wiyot	wiy	Extinct
+Woccon	xwc	Extinct
+Woiwurrung	wyi	Extinct
+Worimi	kda	Extinct
+Worrorra	wro	Extinct
+Wotapuri-Katarqalai	wsv	Extinct
+Wotjobaluk	xwt	Extinct
+Written Oirat	xwo	Extinct
+Wuliwuli	wlu	Extinct
+Wunumara	wnn	Extinct
+Wurrugu	wur	Extinct
+Xakriabá	xkr	Extinct
+Xinca	xin	Extinct
+Xipináwa	xip	Extinct
+Xiriâna	xir	Extinct
+Xukurú	xoo	Extinct
+Yabaâna	ybn	Extinct
+Yabula Yabula	yxy	Extinct
+Yagara	yxg	Extinct
+Yahuna	ynu	Extinct
+Yalakalore	xyl	Extinct
+Yalarnnga	ylr	Extinct
+Yameo	yme	Extinct
+Yana	ynn	Extinct
+Yanda	yda	Extinct
+Yandjibara	xyb	Extinct
+Yandruwandha	ynd	Extinct
+Yangman	jng	Extinct
+Yardliyawarra	yxl	Extinct
+Yassic	ysc	Extinct
+Yatay	yty	Extinct
+Yavitero	yvt	Extinct
+Yawarawarga	yww	Extinct
+Yawijibaya	jbw	Extinct
+Yaygir	xya	Extinct
+Yeni	yei	Extinct
+Yindjilandji	yil	Extinct
+Yiningayi	ygi	Extinct
+Yinwum	yxm	Extinct
+Yir Yoront	yyr	Extinct
+Yitha Yitha	xth	Extinct
+Yoba	yob	Extinct
+Yola	yol	Extinct
+Yug	yug	Extinct
+Yugambal	yub	Extinct
+Yuki	yuk	Extinct
+Yurats	rts	Extinct
+Yuru	ljx	Extinct
+Yuyu	yxu	Extinct
+Zarphatic	zrp	Extinct
+Zemgalian	xzm	Extinct
+Ziriya	zir	Extinct
+Afrihili	afh	Constructed
+Blissymbols	zbl	Constructed
+Brithenig	bzt	Constructed
+Dutton World Speedwords	dws	Constructed
+Esperanto	epo	Constructed
+Ido	ido	Constructed
+Interglossa	igs	Constructed
+Interlingua (International Auxiliary Language Association)	ina	Constructed
+Interlingue	ile	Constructed
+Klingon	tlh	Constructed
+Kotava	avk	Constructed
+Láadan	ldn	Constructed
+Lingua Franca Nova	lfn	Constructed
+Lojban	jbo	Constructed
+Neo	neu	Constructed
+Novial	nov	Constructed
+Quenya	qya	Constructed
+Romanova	rmv	Constructed
+Sindarin	sjn	Constructed
+Talossan	tzl	Constructed
+Volapük	vol	Constructed
+Aequian	xae	Ancient
+Akkadian	akk	Ancient
+Alanic	xln	Ancient
+Ancient Macedonian	xmk	Ancient
+Ancient North Arabian	xna	Ancient
+Aquitanian	xaq	Ancient
+Avestan	ave	Ancient
+Bactrian	xbc	Ancient
+Camunic	xcc	Ancient
+Carian	xcr	Ancient
+Celtiberian	xce	Ancient
+Chorasmian	xco	Ancient
+Church Slavic	chu	Ancient
+Cisalpine Gaulish	xcg	Ancient
+Cuneiform Luwian	xlu	Ancient
+Dacian	xdc	Ancient
+Early Tripuri	xtr	Ancient
+Eblan	xeb	Ancient
+Edomite	xdm	Ancient
+Egyptian (Ancient)	egy	Ancient
+Elamite	elx	Ancient
+Elymian	xly	Ancient
+Epi-Olmec	xep	Ancient
+Eteocretan	ecr	Ancient
+Eteocypriot	ecy	Ancient
+Etruscan	ett	Ancient
+Faliscan	xfa	Ancient
+Galatian	xga	Ancient
+Geez	gez	Ancient
+Gothic	got	Ancient
+Hadrami	xhd	Ancient
+Harami	xha	Ancient
+Hattic	xht	Ancient
+Hernican	xhr	Ancient
+Hieroglyphic Luwian	hlu	Ancient
+Hittite	hit	Ancient
+Hurrian	xhu	Ancient
+Iberian	xib	Ancient
+Illyrian	xil	Ancient
+Indus Valley Language	xiv	Ancient
+Kaskean	zsk	Ancient
+Kawi	kaw	Ancient
+Khotanese	kho	Ancient
+Langobardic	lng	Ancient
+Latin	lat	Ancient
+Lemnian	xle	Ancient
+Lepontic	xlp	Ancient
+Liburnian	xli	Ancient
+Ligurian (Ancient)	xlg	Ancient
+Linear A	lab	Ancient
+Lusitanian	xls	Ancient
+Lycian	xlc	Ancient
+Lydian	xld	Ancient
+Marrucinian	umc	Ancient
+Marsian	ims	Ancient
+Median	xme	Ancient
+Meroitic	xmr	Ancient
+Messapic	cms	Ancient
+Middle Hittite	htx	Ancient
+Milyan	imy	Ancient
+Minaean	inm	Ancient
+Minoan	omn	Ancient
+Moabite	obm	Ancient
+Mycenaean Greek	gmy	Ancient
+Mysian	yms	Ancient
+Neo-Hittite	nei	Ancient
+Noric	nrc	Ancient
+North Picene	nrp	Ancient
+Numidian	nxm	Ancient
+Official Aramaic (700-300 BCE)	arc	Ancient
+Old Aramaic (up to 700 BCE)	oar	Ancient
+Old Chinese	och	Ancient
+Old Hittite	oht	Ancient
+Old Ossetic	oos	Ancient
+Old Tamil	oty	Ancient
+Oscan	osc	Ancient
+Paelignian	pgn	Ancient
+Pahlavi	pal	Ancient
+Palaic	plq	Ancient
+Pali	pli	Ancient
+Parthian	xpr	Ancient
+Phoenician	phn	Ancient
+Phrygian	xpg	Ancient
+Primitive Irish	pgl	Ancient
+Punic	xpu	Ancient
+Pyu (Myanmar)	pyx	Ancient
+Qatabanian	xqt	Ancient
+Raetic	xrr	Ancient
+Sabaean	xsa	Ancient
+Sabine	sbv	Ancient
+Sanskrit	san	Ancient
+Scythian	xsc	Ancient
+Sicanian	sxc	Ancient
+Sicel	scx	Ancient
+Sidetic	xsd	Ancient
+Sogdian	sog	Ancient
+Sorothaptic	sxo	Ancient
+South Picene	spx	Ancient
+Sumerian	sux	Ancient
+Tangut	txg	Ancient
+Tartessian	txr	Ancient
+Thracian	txh	Ancient
+Tokharian A	xto	Ancient
+Tokharian B	txb	Ancient
+Transalpine Gaulish	xtg	Ancient
+Ugaritic	uga	Ancient
+Umbrian	xum	Ancient
+Urartian	xur	Ancient
+Vandalic	xvn	Ancient
+Venetic	xve	Ancient
+Vestinian	xvs	Ancient
+Volscian	xvo	Ancient
+Zhang-Zhung	xzh	Ancient
