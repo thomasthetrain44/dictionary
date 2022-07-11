@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Project International
+Welcome to Project International, soon to be the world's largest language database.
 
-You can use the [editor on GitHub](https://github.com/thomasthetrain44/dictionary/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Frequently Asked Questions
+**What is Project International?**
+Project International is a large comprehesive dictionary which is under development. We plan to span across hundreds of languages with thousands of words. We also aim to be accurate and open source for anyone to use. This project also aims to be some what "educational."
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**How can I contribute?**
+Currently contribution is not being accepted, however you can help by contacting: thomassmithedu44@gmail.com or yestest4930@gmail.com. Be sure to check this page to see any sort of contributions form.
 
-### Markdown
+**What are some statistics?**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thomasthetrain44/dictionary/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
