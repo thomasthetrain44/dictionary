@@ -8,8 +8,6 @@ Project International is a large comprehesive dictionary which is under developm
 **How can I contribute?**
 Currently contribution is not being accepted, however you can help by contacting: thomassmithedu44@gmail.com or yestest4930@gmail.com. Be sure to check this page to see any sort of contributions form.
 
-**What are some statistics?**
-
-
-
-[Link](url) and ![Image](src)
+**Pages:**
+[Language Incubator](https://docs.google.com/spreadsheets/d/1Pgs00nCsKvoMXIX2cg5YcQ2kbNXaoXJkmN_5HVEhhXM/edit?usp=sharing). This link shows the planned 7862 langauges.
+![Image](src)
