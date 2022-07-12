@@ -1,6 +1,6 @@
 ## Project International
 Welcome to Project International, soon to be the world's largest language database.
-![Image](https://divinity.yale.edu/sites/default/files/images/international-1751293_640.jpg)
+![Image](https://www.insidehighered.com/sites/default/server_files/media/international-1751293_960_720.png)
 
 ### Frequently Asked Questions
 **What is Project International?**
