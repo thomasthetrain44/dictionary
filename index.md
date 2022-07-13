@@ -19,3 +19,6 @@ Welcome to Project International, a language database and incubation project whi
 
 **I have more questions!**
 - You can contact thomassmithedu44@gmail.com with any questions you may have
+
+## Pages
+- [Sitemap](https://github.com/thomasthetrain44/project-international/blob/7da06a7ad5cfac83c11297d0d4102f5472c62f72/sitemap.md)
