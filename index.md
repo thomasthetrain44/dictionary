@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Project International
+Welcome to Project International, a language database and incubation project which acts as a dictionary and lexicon database. Project International is completely free (non-profit) and may be made open-source. We also allow the usage of our code and information stored on GitHub and on some other websites. This project is being made by a one man team and support is appreciated.
 
-You can use the [editor on GitHub](https://github.com/thomasthetrain44/project-international/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Questions you may have
+**How can I contribute?**
+- You can contribute by contacting the owner via his GitHub account or contacting thomasmsithedu44@gmail.com
+- A form may posted in this bullet point during hiring times
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**How can I help?**
+- Contribution is sometimes not always needed, we may be looking for "laborers"
+- As always, an hiring form may be posted here for laborers during hiring times
 
-### Markdown
+**What is an laborer?**
+- An laborer is someone who works in "main works", such as resource gathering, deleting duplicates etc.
+- They may also work on updating spreadsheets and working on a generated team drive
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**When will this project be complete?**
+- I am not sure, considering the size of this project, probably not for a long time
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thomasthetrain44/project-international/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**I have more questions!**
+- You can contact thomassmithedu44@gmail.com with any questions you may have
