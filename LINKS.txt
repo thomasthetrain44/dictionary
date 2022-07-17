@@ -1,0 +1,9 @@
+https://dumps.wikimedia.org/
+https://fieldsupport.dliflc.edu/productList.aspx?v=lsk
+https://medium.com/@martin.breuss/finding-a-useful-dictionary-api-52084a01503d
+https://rapidapi.com/blog/dictionary-apis/
+https://meta.wikimedia.org/wiki/Wiktionary#List_of_Wiktionaries
+https://dumps.wikimedia.org/enwiktionary/
+https://dumps.wikimedia.org/other/incr/
+https://meta.wikimedia.org/wiki/Data_dumps
+https://dumps.wikimedia.org/backup-index.html
