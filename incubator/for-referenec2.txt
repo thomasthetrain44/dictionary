@@ -1,0 +1,1020 @@
+Canonical name
+Proto-Khasian
+Proto-Nicobarese
+Proto-Pnar-Khasi-Lyngngam
+Proto-Austroasiatic
+Proto-Afroasiatic
+Proto-Algonquian
+Proto-Bua
+Proto-Cangin
+Proto-Edoid
+Proto-Fali
+Proto-Gbe
+Proto-Guang
+Proto-Central Togo
+Proto-Heiban
+Proto-Idomoid
+Proto-Igboid
+Proto-Kwa
+Proto-Mumuye
+Proto-Nupoid
+Proto-Atlantic-Congo
+Proto-Yoruboid
+Proto-Apachean
+Proto-Algic
+Proto-Athabaskan
+Proto-Arawa
+Proto-Arnhem
+Proto-Central New South Wales
+Proto-Daly
+Proto-Nyulnyulan
+Proto-Pama-Nyungan
+Proto-Iwaidjan
+Proto-Amuesha-Chamicuro
+Proto-Kampa
+Proto-Nawiki
+Proto-Arawak
+Proto-Paresi-Waura
+Proto-Ta-Arawak
+Proto-Cupan
+Proto-Nahuan
+Proto-Numic
+Proto-Uto-Aztecan
+Proto-Takic
+Proto-Berber
+Proto-Nguni
+Proto-Bantu
+Proto-Sotho-Tswana
+Proto-Batak
+Proto-Abkhaz-Abaza
+Proto-Avaro-Andian
+Proto-Circassian
+Proto-Dargwa
+Proto-Lezghian
+Proto-Northeast Caucasian
+Proto-Nakh
+Proto-Northwest Caucasian
+Proto-Tsezian
+Proto-Chibchan
+Proto-North Caucasian
+Proto-Georgian-Zan
+Proto-Kartvelian
+Proto-Central Chadic
+Proto-Masa
+Proto-Chadic
+Proto-Caddoan
+Proto-Celtic
+Proto-Chimakuan
+Proto-Chamic
+Proto-Bongo-Bagirmi
+Proto-Mangbetu
+Proto-Central Sudanic
+Proto-Sara
+Proto-Highland East Cushitic
+Proto-Cushitic
+Proto-Western Mande
+Proto-Mande
+Proto-Dravidian
+Proto-Rukai
+Proto-Eskimo
+Proto-Inuit
+Proto-Eskimo-Aleut
+Proto-Basque
+Proto-Finnic
+Proto-Germanic
+Proto-West Germanic
+Proto-Hellenic
+Proto-Hmong
+Proto-Mien
+Proto-Hmong-Mien
+Proto-Armenian
+Proto-Nuristani
+Proto-Indo-Iranian
+Proto-Ijoid
+Proto-Central Indo-Aryan
+Proto-Indo-Aryan
+Proto-Anatolian
+Proto-Balto-Slavic
+Proto-Indo-European
+Proto-Tocharian
+Proto-Komisenian
+Proto-Munji-Yidgha
+Proto-Medo-Parthian
+Proto-Pathan
+Proto-Iranian
+Proto-Sogdic
+Proto-Sanglechi-Ishkashimi
+Proto-Shughni-Roshani
+Proto-Shughni-Yazghulami
+Proto-Shughni-Yazghulami-Munji
+Proto-Zaza-Gorani
+Proto-North Iroquoian
+Proto-Iroquoian
+Proto-Italic
+Proto-Japonic
+Proto-Ryukyuan
+Proto-Karen
+Proto-Khoe
+Proto-Kru
+Proto-Kurdish
+Proto-Atayalic
+Proto-Austronesian
+Proto-Aslian
+Proto-Bahnaric
+Proto-Katuic
+Proto-Khmuic
+Proto-Khmeric
+Proto-Monic
+Proto-Palaungic
+Proto-Pearic
+Proto-Pakanic
+Proto-Mon-Khmer
+Proto-Vietic
+Proto-Munda
+Proto-Mayan
+Proto-Chumash
+Proto-Chinookan
+Proto-Kalapuyan
+Proto-Maidun
+Proto-Mixe-Zoque
+Proto-Plateau Penutian
+Proto-Pomo
+Proto-Siouan-Catawban
+Proto-Totozoquean
+Proto-Tsimshianic
+Proto-Utian
+Proto-Trans-New Guinea
+Proto-Benue-Congo
+Proto-Bantoid
+Proto-Eastern Oti-Volta
+Proto-Gurunsi
+Proto-Grassfields
+Proto-Gur
+Proto-Jukunoid
+Proto-Lower Cross River
+Proto-Ogoni
+Proto-Oti-Volta
+Proto-Plateau
+Proto-Niger-Congo
+Proto-Ubangian
+Proto-Upper Cross River
+Proto-Volta-Congo
+Proto-Nubian
+Proto-Chatino
+Proto-Mazatec
+Proto-Mixtecan
+Proto-Mixtec
+Proto-Oto-Pamean
+Proto-Oto-Manguean
+Proto-Trique
+Proto-Zapotecan
+Proto-Zapotec
+Proto-Aroid
+Proto-Dizoid
+Proto-Omotic
+Proto-Ossetic
+Proto-Otomi
+Proto-Otomian
+Proto-North Halmahera
+Proto-Kalamian
+Proto-Philippine
+Proto-Bungku-Tolaki
+Proto-Central-Eastern Malayo-Polynesian
+Proto-Halmahera-Cenderawasih
+Proto-Lampungic
+Proto-Malayo-Chamic
+Proto-Malayic
+Proto-Malayo-Sumbawan
+Proto-Oceanic
+Proto-Eastern Polynesian
+Proto-Nuclear Polynesian
+Proto-Polynesian
+Proto-Malayo-Polynesian
+Proto-South Sulawesi
+Proto-Sunda-Sulawesi
+Proto-North Sarawak
+Proto-Eastern Malayo-Polynesian
+Proto-Great Andamanese
+Proto-Be-Tai
+Proto-Chukotko-Kamchatkan
+Proto-Hurro-Urartian
+Proto-Kadu
+Proto-Kam-Sui
+Proto-Koreanic
+Proto-Kra
+Proto-Hlai
+Proto-Be
+Proto-Ongan
+Proto-Kra-Dai
+Proto-Yeniseian
+Proto-Yukaghir
+Proto-Cariban
+Proto-Cerrado
+Proto-Central Jê
+Proto-Huitoto-Ocaina
+Proto-Jê
+Proto-Northern Jê
+Proto-Southern Jê
+Proto-Taranoan
+Proto-Witotoan
+Proto-Salish
+Proto-Daju
+Proto-Eastern Jebel
+Proto-Nilotic
+Proto-Nyima
+Proto-Taman
+Proto-Semitic
+Proto-West Semitic
+Proto-Siouan
+Proto-Hrusish
+Proto-Kham
+Proto-Luish
+Proto-Sino-Tibetan
+Proto-Tani
+Proto-Slavic
+Proto-Samic
+Proto-Songhay
+Proto-Albanian
+Proto-Kuliak
+Proto-Koman
+Proto-Nilo-Saharan
+Proto-Samoyedic
+Proto-Tai
+Proto-Southwestern Tai
+Proto-Bodo-Garo
+Proto-Kuki-Chin
+Proto-Lalo
+Proto-Lolo-Burmese
+Proto-Loloish
+Proto-Turkic
+Proto-Tupi-Guarani
+Proto-Tupian
+Proto-Tungusic
+Proto-Mordvinic
+Proto-Permic
+Proto-Uralic
+Proto-Ugric
+Proto-Mongolic
+Illyrian
+Proto-Na-Dene
+Proto-Scythian
+Proto-Saka
+Proto-Saka-Wakhi
+Proto-Yupik
+Proto-Min
+
+Canonical name
+Afrihili
+Bolak
+Black Speech
+Communicationssprache
+Dothraki
+Eloi
+Goa'uld
+Lapine
+Mandalorian
+Mundolinco
+Na'vi
+Noxilo
+Unas
+Kotava
+Medefaidrin
+Interlingue
+Glosa
+Lojban
+Láadan
+Lingua Franca Nova
+Neo
+Novial
+Quenya
+Romanova
+Sindarin
+Klingon
+Toki Pona
+Talossan
+Canonical name
+Afar
+Abkhaz
+Tajiki Arabic
+Abaza
+Baharna Arabic
+Iraqi Arabic
+Hijazi Arabic
+Omani Arabic
+Cypriot Arabic
+Dhofari Arabic
+Tunisian Arabic
+Afrikaans
+Gulf Arabic
+Akha
+Assyrian Neo-Aramaic
+Aiton
+South Levantine Arabic
+Proto-Algonquian
+Amasi
+Old English
+North Levantine Arabic
+Sudanese Arabic
+Proto-Algic
+Arabic
+Aramaic
+Algerian Arabic
+Najdi Arabic
+Moroccan Arabic
+Egyptian Arabic
+Uzbeki Arabic
+Avar
+Middle Armenian
+Libyan Arabic
+Yemeni Arabic
+North Mesopotamian Arabic
+Bats
+Budukh
+Belarusian
+Bulgarian
+Edo
+Blang
+Tai Dam
+Proto-Nguni
+Phuthi
+Proto-Bantu
+Catalan
+Nyah Kur
+Proto-Georgian-Zan
+Proto-Kartvelian
+Chechen
+Cebuano
+Proto-Brythonic
+Gaulish
+Proto-Celtic
+Chagatai
+Cahuilla
+Eastern Mari
+Cheyenne
+Cimbrian
+Central Kurdish
+Chong
+Coptic
+Cappadocian Greek
+Czech
+Western Highland Chatino
+Old Church Slavonic
+Welsh
+German
+Lower Sorbian
+Middle Dutch
+Demotic
+Greek
+English
+Middle English
+Esperanto
+Spanish
+Even
+Evenki
+Persian
+Finnish
+French
+Middle French
+Old French
+Franco-Provençal
+West Frisian
+Irish
+Scottish Gaelic
+Proto-Germanic
+Gojri
+Galician
+Nanai
+Middle High German
+Middle Low German
+Old Danish
+Old Swedish
+Proto-West Germanic
+Old High German
+Gothic
+Ancient Greek
+Mariupol Greek
+Proto-Hellenic
+Gun
+Manx
+Hausa
+Hawaiian
+Hebrew
+Hiligaynon
+Upper Sorbian
+Hungarian
+Hunzib
+Armenian
+Igbo
+Igala
+Ilocano
+Old Punjabi
+Prakrit
+Proto-Balto-Slavic
+Paeonian
+Proto-Indo-European
+Ingush
+Italian
+Georgian
+Nubi
+Lü
+Khamti
+Khmu
+Khinalug
+Khün
+Northern Kurdish
+Korean
+Early Modern Korean
+Konkani
+Kanuri
+Northern Khmer
+Latin
+Western Lawa
+Lezgi
+Luganda
+Livonian
+Laki
+Laboya
+Lao
+Lithuanian
+Luiseño
+Latvian
+Eastern Lawa
+Laz
+Menominee
+Pattani Malay
+Mayo
+Middle Irish
+Marshallese
+Mòcheno
+Miskito
+Macedonian
+Mon
+Montagnais
+Marathi
+Maltese
+Muong
+Burmese
+Classical Nahuatl
+Northern Ndebele
+Dutch
+Northern Thai
+Southern Ndebele
+Norman
+Northern Tepehuan
+Nupe
+Navajo
+Chichewa
+Nzadi
+Occitan
+Old Dutch
+Old Frisian
+Old Georgian
+Ojibwe
+Middle Korean
+Old Lithuanian
+Old East Slavic
+Ossetian
+Old Saxon
+Punjabi
+Bouyei
+Picard
+Phake
+Pali
+Polish
+Pontic Greek
+Pipil
+Old Occitan
+Portuguese
+Purepecha
+Rawang
+Romanian
+Angevin
+Bourbonnais-Berrichon
+Bourguignon
+Champenois
+Franc-Comtois
+Gallo
+Lorrain
+Old Catalan
+Orléanais
+Poitevin-Saintongeais
+Tourangeau
+Russian
+Rusyn
+Rwanda-Rundi
+Sanskrit
+Samaritan Aramaic
+Sindhi
+Southern Kurdish
+Northern Sami
+Old Irish
+Serbo-Croatian
+Tashelhit
+Shan
+Chadian Arabic
+Kildin Sami
+Pite Sami
+Ume Sami
+Slovak
+Saek
+Saraiki
+Slovene
+Proto-Slavic
+Southern Sami
+Proto-Samic
+Lule Sami
+Inari Sami
+Samaritan Hebrew
+Skolt Sami
+Shona
+Somali
+Thai Song
+Southern Thai
+Albanian
+Swazi
+Shihhi Arabic
+Saho
+Sotho
+Swahili
+Maore Comorian
+Classical Syriac
+Forest Nenets
+Tabasaran
+Central Tarahumara
+Tai Nüa
+Tajik
+Thai
+Thavung
+Turkmen
+Tagalog
+Tuareg
+Tongan
+Turoyo
+Tsakonian
+Isan
+Tai Dón
+Talossan
+Gong
+Ukrainian
+Munsee
+Urdu
+Urak Lawoi'
+Vietnamese
+East Franconian
+Walloon
+Mwali Comorian
+Middle Welsh
+Ndzwani Comorian
+Vilamovian
+Andalusian Arabic
+Bactrian
+Old Armenian
+Faliscan
+Xhosa
+Ancient Macedonian
+Karakhanid
+Yevanic
+Yiddish
+Yoruba
+Tundra Nenets
+Zhuang
+Ngazidja Comorian
+Zealandic
+Chinese
+Nong Zhuang
+Old Novgorodian
+Old Ruthenian
+Slovincian
+Zulu
+Zuojiang Zhuang
+Canonical name
+Abhiri
+Abuzeydabadi
+Abyanehi
+Acadian French
+Achaemenid Elamite
+Addu Dhivehi
+Aeolic Greek
+Afridi
+Akhmimic Coptic
+Alanic
+American English
+Amorehi
+Amoy
+Anaraki
+Anbarani
+Angkorian Old Khmer
+Anglian Old English
+Anglo-Norman
+Aranese
+Arbëresh Albanian
+Arcadian Greek
+Arcadocypriot Greek
+Ardestani
+Ardhamagadhi Prakrit
+Arghu
+Armeno-Kipchak
+Arvanitika Albanian
+Asalemi
+Ashtiani
+Attic Greek
+Austrian German
+Auvergnat
+Avanti
+Azerbaijani Talysh
+Badrudi
+Bahliki
+Bajui
+Bandari
+Bangash
+Bannu
+Bartangi
+Bartangi-Oroshori
+Bashkardi
+Besemah
+Betawi Kota
+Betawi Ora
+Betawi Udik
+Biblical Aramaic
+Biblical Hebrew
+Bidhandi
+Bijagani
+Boeotian Greek
+Bohairic Coptic
+Bombay Hindi
+Borana
+Borujerdi
+Brahmanic Sanskrit
+Brazilian Portuguese
+British English
+Buddhist Hybrid Sanskrit
+Burenjani
+Bushehri
+Byzantine Greek
+Cajun French
+Camorta
+Campidanese
+Canadian French
+Candali
+Central Ghilzay
+Central Korean
+Central Talysh
+Central Tati
+Chakavian Serbo-Croatian
+Chakhar Mongolian
+Chali
+Chimehi
+Christian Palestinian Aramaic
+Cisalpine Gaulish
+Classical Azerbaijani
+Classical Malay
+Classical Persian
+Classical Sanskrit
+Classical Tagalog
+Colombian Spanish
+Common Bantu
+Common Turkic
+Coptic Dialect G
+Coptic Dialect J
+Coptic Dialect K
+Coptic Dialect P
+Cretan Ancient Greek
+Cretan Greek
+Cuban Spanish
+Cypriot Greek
+Daksinatya
+Danesfani
+Dari
+Dashtaki
+Davani
+Delijani
+Digor
+Doric Greek
+Dramili
+Early Brythonic
+Early Mandarin
+Early Middle Chinese
+Early Middle Japanese
+Early Middle Korean
+Early Middle Mongolian
+Early Middle Persian
+Early Modern Czech
+Early Modern Japanese
+Early Old Chinese
+Early Old Ossetic
+Early Old Persian
+Early Scots
+Early Sogdian
+Eastern Balochi
+Eastern Tati
+Ebrahimabadi
+Ecclesiastical Latin
+Elean Greek
+Emamzada Esma’ili
+Epic Greek
+Esfarvarini
+Farizandi
+Fayyumic Coptic
+Flemish
+Frankish
+Fumani
+Gascon
+Gavkoshaki
+Gazi
+Geordie English
+Ghat
+Gheg Albanian
+Guernsey Norman
+Hainanese
+Hamadani
+Hanjani
+Hanyu Pinyin
+Harar Oromo
+Hatran Aramaic
+Havyaka Kannada
+Helu Prakrit
+Hermopolitan Coptic
+Hernician
+Hokkien
+Hormozi
+Huvadhu Dhivehi
+Idiom Neutral
+Imperial Aramaic
+Insular Scots
+Ionic Greek
+Iranian Persian
+Iron
+Isfahani
+Israeli Hebrew
+Jadrani
+Jersey Norman
+Jewish Babylonian Aramaic
+Jewish Literary Aramaic
+Jewish Palestinian Aramaic
+Jinjiang Hokkien
+Jirofti
+Jowshaqani
+Judeo-Arabic
+Kafroni
+Kahaki
+Kahnuji
+Kajkavian Serbo-Croatian
+Kakari
+Kamviri
+Kandahari
+Kaniguram
+Karganrudi
+Kashani
+Katchal
+Kathiyawadi
+Kativiri
+Kermani
+Kesehi
+Khalkha Mongolian
+Khargi
+Khasa Prakrit
+Khatak
+Khiaraji
+Khollari
+Khorchin Mongolian
+Khoznini
+Khufi
+Khughni
+Khughni-Bajui
+Khunsari
+Khuri
+Kinyarwanda
+Kirundi
+Koine Greek
+Komjani
+Kondazi
+Kromanti
+Kölsch
+Languedocien
+Late Babylonian
+Late Brythonic
+Late Egyptian
+Late Khotanese
+Late Latin
+Late Middle Chinese
+Late Middle Japanese
+Late Middle Mongolian
+Late Middle Persian
+Late Old Chinese
+Late Old Korean
+Late Old Ossetic
+Late Old Persian
+Late Sogdian
+Limousin
+Lisan ud-Dawat Gujarati
+Logar
+Logudorese
+Lombardic
+Lucanian
+Lunfardo
+Lycopolitan Coptic
+Magadhi Prakrit
+Mahallati
+Maharastri Prakrit
+Mahsudi
+Mamluk-Kipchak
+Manichaean Middle Persian
+Masali
+Masarami
+Masulei
+Medieval Hebrew
+Medieval Latin
+Medieval Sinhalese
+Mercian Old English
+Mexican Spanish
+Meymehi
+Middle Assyrian
+Middle Babylonian
+Middle Bulgarian
+Middle Egyptian
+Middle Elamite
+Middle Georgian
+Middle Hindi
+Middle Iranian
+Middle Japanese
+Middle Konkani
+Middle Russian
+Middle Scots
+Middle Tamil
+Minabi
+Mishnaic Hebrew
+Mitanni
+Mulaku Dhivehi
+Mumviri
+Nabataean Aramaic
+Nancowry
+Naraqi
+Nashalji
+Natanzi
+Nayini
+Neo-Assyrian
+Neo-Babylonian
+Neo-Elamite
+Neo-Middle Egyptian
+New Latin
+New Sanskrit
+Northeastern Korean
+Northeastern Pashto
+Northern Middle English
+Northern Scots
+Northern Talysh
+Northern Tati
+Northumbrian Old English
+Northwestern Korean
+Northwestern Pashto
+Nuorese
+Nushabadi
+Odri
+Old Akkadian
+Old Aramaic
+Old Assyrian
+Old Avestan
+Old Awadhi
+Old Azari
+Old Babylonian
+Old Belarusian
+Old Braj
+Old Coptic
+Old East Norse
+Old Egyptian
+Old Elamite
+Old Gutnish
+Old Iranian
+Old Italian
+Old Kazeruni
+Old Khotanese
+Old Kirghiz
+Old Konkani
+Old Latin
+Old Malay
+Old Mohawk
+Old Northern French
+Old Onondaga
+Old Provençal
+Old Shirazi
+Old Tagalog
+Old Ukrainian
+Old Wendat
+Old West Norse
+Old Xiang
+Opuntian Locrian
+Ordos Mongolian
+Orma
+Oroshori
+Oxyrhynchite Coptic
+Ozolian Locrian
+Paisaci Prakrit
+Palatine German
+Palmyrene Aramaic
+Pamphylian Greek
+Paphian Greek
+Papuni
+Peshawari
+Philippine Hokkien
+Picard Old French
+Pinghua
+Pracya
+Pre-Angkorian Old Khmer
+Pre-Greek
+Proto-Baltic
+Proto-Finno-Permic
+Proto-Finno-Ugric
+Proto-Lycopolitan Coptic
+Proto-Oghuz
+Proto-Tibeto-Burman
+Provençal
+Puerto Rican Spanish
+Qalhari
+Qohrudi
+Quanzhou Hokkien
+Renaissance Latin
+Rioplatense Spanish
+Roshani
+Roshani-Khufi
+Rudbari
+Sabari
+Sagzabadi
+Sahidic Coptic
+Saint Dominican Creole French
+Sakari
+Samghani
+Samnite
+Sauraseni Prakrit
+Sedehi
+Shandarmani
+Shanghainese
+Shangsi Zhuang
+Sher
+Shirazi
+Shuadit
+Silesian German
+Soi
+Sorkhi
+South Scots
+Southeastern Korean
+Southeastern Pashto
+Southern Balochi
+Southern Talysh
+Southern Tati
+Southwestern Korean
+Southwestern Pashto
+Suevic
+Swiss High German
+Switzerland French
+Switzerland Italian
+Takestani
+Taleshdulabi
+Tamahaq
+Tamasheq
+Tarehi
+Tari
+Tawellemmet
+Tayert
+Thessalian Greek
+Tongyong Pinyin
+Torlakian Serbo-Croatian
+Tosk Albanian
+Transalpine Gaulish
+Tularudi
+Turdetani
+Turduli
+Ulster Scots
+United States Spanish
+Upper Saxon
+Vafsi
+Valencian
+Valujerdi
+Varani
+Varzenehi
+Vedic Sanskrit
+Viennese German
+Vivaro-Alpine
+Vonishuni
+Vulgar Latin
+Waata
+Wade–Giles
+Waziri
+Western Balochi
+Western Balochi
+Western Tati
+Weyto
+Xianbei
+Xiongnu
+Yarandi
+Yazdi
+Younger Avestan
+Yukjin Korean
+Zefrehi
+Zhangzhou Hokkien
+Zori
+Zoroastrian Dari
+a pre-Roman substrate of Iberia
+a pre-Roman substrate of the Balkans
+a substrate language originally spoken by the Pygmies
+taxonomic name
+the BMAC substrate
