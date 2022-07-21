@@ -2,7 +2,8 @@
 Welcome to Project International, a language database and incubation project which acts as a dictionary and lexicon database. Project International is completely free (non-profit) and may be made open-source. We also allow the usage of our code and information stored on GitHub and on some other websites. This project is being made by a one man team and support is appreciated.
 
 **List of languages:**
-<script src="https://pastebin.com/embed_js/XcLtf3jE?theme=dark"></script>
+<script src="https://gist.github.com/thomasthetrain44/fd3340e8267b9a236b06dfc4f319b8ec.js"></script>
+<script src="https://gist.github.com/thomasthetrain44/4fcb9c251a998d3228098e6706ff9f5e.js"></script>
 
 ## Questions you may have
 **How can I contribute?**
